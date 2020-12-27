@@ -1,0 +1,2416 @@
+,Name  ↓,Type  ↓,Strain  ↓,Style  ↓
+0,Psycho Collab 416 (1),Recipe,,Psycho Collab
+1,Rye 471,Recipe,,Rye
+2,Rye 482,Recipe,,Rye
+3,Wahoo Hefeweizen 0 0 BS,Analysis,Wahoo,Hefeweizen
+4,WLP001 Wee Heavy 11 BS,Beer,WLP001,Wee Heavy
+5,WLP029 WLP810 WLP080 WLP940 WLP001 WLP830 WLP051 IBU One Page,Graph,*,*
+6,WLP001 Wee Heavy 14 BS,Beer,WLP001,Wee Heavy
+7,WLP004 Wee Heavy 22 BS,Beer,WLP004,Wee Heavy
+8,WLP004 Wee Heavy 25 BS,Beer,WLP004,Wee Heavy
+9,WLP005 Wee Heavy 28 BS,Beer,WLP005,Wee Heavy
+10,WLP005 Wee Heavy 13 BS,Beer,WLP005,Wee Heavy
+11,WLP005 Wee Heavy 24 BS,Beer,WLP005,Wee Heavy
+12,WLP007 Wee Heavy 20 BS,Beer,WLP007,Wee Heavy
+13,WLP008 Wee Heavy 8 BS,Beer,WLP008,Wee Heavy
+14,WLP008 Wee Heavy 7 BS,Beer,WLP008,Wee Heavy
+15,WLP019 WLP040 WLP7245 WLP052 WLP780 Cal common yeast trials,Graph,*,*
+16,WLP028 Wee Heavy 23 BS,Beer,WLP028,Wee Heavy
+17,WLP028 Wee Heavy 33 BS,Beer,WLP028,Wee Heavy
+18,WLP041 Wee Heavy 1 BS,Beer,WLP041,Wee Heavy
+19,WLP041 Wee Heavy 5 BS,Beer,WLP041,Wee Heavy
+20,WLP060 Wee Heavy 15 BS,Beer,WLP060,Wee Heavy
+21,WLP060 Wee Heavy 0 BS,Beer,WLP060,Wee Heavy
+22,WLP300 Wee Heavy 21 BS,Beer,WLP300,Wee Heavy
+23,WLP300 Wee Heavy 31 BS,Beer,WLP300,Wee Heavy
+24,WLP320 Wee Heavy 10 BS,Beer,WLP320,Wee Heavy
+25,WLP351 Wee Heavy 32 BS,Beer,WLP351,Wee Heavy
+26,WLP351 Wee Heavy 30 BS,Beer,WLP351,Wee Heavy
+27,WLP380 Wee Heavy 6 BS,Beer,WLP380,Wee Heavy
+28,WLP410 Wee Heavy 29 BS,Beer,WLP410,Wee Heavy
+29,WLP530 Wee Heavy 3 BS,Beer,WLP530,Wee Heavy
+30,WLP530 Wee Heavy 16 BS,Beer,WLP530,Wee Heavy
+31,WLP540 Wee Heavy 18 BS,Beer,WLP540,Wee Heavy
+32,WLP540 Wee Heavy 19 BS,Beer,WLP540,Wee Heavy
+33,WLP545 Wee Heavy 9 BS,Beer,WLP545,Wee Heavy
+34,WLP545 Wee Heavy 4 BS,Beer,WLP545,Wee Heavy
+35,WLP575 Wee Heavy 2 BS,Beer,WLP575,Wee Heavy
+36,WLP575 Wee Heavy 20 BS,Beer,WLP575,Wee Heavy
+37,Pale Ale WL 1.0,Recipe,,Pale Ale
+38,WLP023 Rye Beer 1 01 Marks 24 HL,Beer,WLP023,Rye Beer
+39,WLP410 Rye Beer 1 02 Marks 24 HL,Beer,WLP410,Rye Beer
+40,WLP565 Rye Beer 1 03 Marks 24 HL,Beer,WLP565,Rye Beer
+41,WLP590 Rye Beer 1 04 Marks 24 HL,Beer,WLP590,Rye Beer
+42,English Style IPA BM 10,Recipe,,English Style IPA
+43,WLP001 Porter 2 01 Marks 24 HL,Beer,WLP001,Porter
+44,WLP003 Porter 2 02 Marks 24 HL,Beer,WLP003,Porter
+45,WLP007 Porter 2 03 Marks 24 HL,Beer,WLP007,Porter
+46,WLP550 Porter 2 04 Marks 24 HL,Beer,WLP550,Porter
+47,WLP072 Saison 25 NA,Beer,WLP072,Saison
+48,WLP400 Saison 25 NA,Beer,WLP400,Saison
+49,WLP001 American Brown Ale 27 BS,Beer,WLP001,American Brown Ale
+50,WLP007 American Brown Ale 27 BS,Beer,WLP007,American Brown Ale
+51,WLP023 American Brown Ale 27 BM,Beer,WLP023,American Brown Ale
+52,WLP041 American Brown Ale 27 BM,Beer,WLP041,American Brown Ale
+53,WLP051 American Brown Ale 27 BS,Beer,WLP051,American Brown Ale
+54,WLP090 American Brown Ale 27 BS,Beer,WLP090,American Brown Ale
+55,WLP001 English Mild 28 BM,Beer,WLP001,English Mild
+56,WLP002 English Mild 28 BS,Beer,WLP002,English Mild
+57,WLP005 English Mild 28 BS,Beer,WLP005,English Mild
+58,WLP013 English Mild 28 BM,Beer,WLP013,English Mild
+59,WLP023 English Mild 28 BS,Beer,WLP023,English Mild
+60,WLP028 English Mild 28 BS,Beer,WLP028,English Mild
+61,WLP028 American Blonde Ale 29 BS,Beer,WLP028,American Blonde Ale
+62,WLP029 American Blonde Ale 29 BS,Beer,WLP029,American Blonde Ale
+63,WLP060 American Blonde Ale 29 BS,Beer,WLP060,American Blonde Ale
+64,WLP090 American Blonde Ale 29 BS,Beer,WLP090,American Blonde Ale
+65,WLP028 American IPA 3 01 Marks 24 HL,Beer,WLP028,American IPA
+66,WLP072 American IPA 3 02 Marks 24 HL,Beer,WLP072,American IPA
+67,WLP090 American IPA 3 03 Marks 24 HL,Beer,WLP090,American IPA
+68,WLP515 American IPA 3 04 Marks 24 HL,Beer,WLP515,American IPA
+69,WLP001 American IPA 30 BM,Beer,WLP001,American IPA
+70,WLP007 American IPA 30 BS,Beer,WLP007,American IPA
+71,WLP008 American IPA 30 BS,Beer,WLP008,American IPA
+72,WLP009 American IPA 30 BS,Beer,WLP009,American IPA
+73,WLP028 American IPA 30 BS,Beer,WLP028,American IPA
+74,WLP099 American IPA 30 BM,Beer,WLP099,American IPA
+75,WLP005 Stout 31 NA,Beer,WLP005,Stout
+76,WLP001 English Style IPA 32 BS,Beer,WLP001,English Style IPA
+77,WLP001 Porter 33 BS,Beer,WLP001,Porter
+78,WLP004 Porter 33 BS,Beer,WLP004,Porter
+79,WLP005 Porter 33 BM,Beer,WLP005,Porter
+80,WLP013 Porter 33 BM,Beer,WLP013,Porter
+81,WLP023 Porter 33 BS,Beer,WLP023,Porter
+82,WLP028 Porter 33 BS,Beer,WLP028,Porter
+83,WLP036 Porter 33 BS,Beer,WLP036,Porter
+84,WLP060 Porter 33 BS,Beer,WLP060,Porter
+85,WLP080 Porter 33 BS,Beer,WLP080,Porter
+86,WLP090 Porter 33 BS,Beer,WLP090,Porter
+87,WLP400 Saison 34 BS,Beer,WLP400,Saison
+88,WLP510 Saison 34 BS,Beer,WLP510,Saison
+89,WLP565 Saison 34 BS,Beer,WLP565,Saison
+90,WLP566 Saison 34 BM,Beer,WLP566,Saison
+91,WLP570 Saison 34 BM,Beer,WLP570,Saison
+92,WLP670 Saison 34 BS,Beer,WLP670,Saison
+93,WLP001 Rye Beer 35 BS,Beer,WLP001,Rye Beer
+94,WLP005 Rye Beer 35 BS,Beer,WLP005,Rye Beer
+95,WLP007 Rye Beer 35 BM,Beer,WLP007,Rye Beer
+96,WLP013 Rye Beer 35 BS,Beer,WLP013,Rye Beer
+97,WLP080 Rye Beer 35 BS,Beer,WLP080,Rye Beer
+98,WLP300 Hefeweizen 36 1 BS,Beer,WLP300,Hefeweizen
+99,WLP320 Hefeweizen 36 2 BS,Beer,WLP320,Hefeweizen
+100,WLP380 Hefeweizen 36 3 BS,Beer,WLP380,Hefeweizen
+101,WLP410 Hefeweizen 36 4 BS,Beer,WLP410,Hefeweizen
+102,WLP510 Hefeweizen 37 1 BM,Beer,WLP510,Hefeweizen
+103,WLP630 Hefeweizen 37 2 BM,Beer,WLP630,Hefeweizen
+104,WLP500 Hefeweizen 38 1 BS,Beer,WLP500,Hefeweizen
+105,WLP565 Hefeweizen 38 2 BS,Beer,WLP565,Hefeweizen
+106,WLP570 Hefeweizen 38 3 BS,Beer,WLP570,Hefeweizen
+107,WLP400 Hefeweizen 38 4 BS,Beer,WLP400,Hefeweizen
+108,WLP036 American Blonde Ale 39 1 BS,Beer,WLP036,American Blonde Ale
+109,WLP051 American Blonde Ale 39 2 BS,Beer,WLP051,American Blonde Ale
+110,WLP041 American Blonde Ale 39 3 BS,Beer,WLP041,American Blonde Ale
+111,WLP810 American Blonde Ale 39 4 BS,Beer,WLP810,American Blonde Ale
+112,WLP006 Am. Amber 4 01 Marks 24 HL,Beer,WLP006,Am. Amber
+113,WLP036 Am. Amber 4 02 Marks 24 HL,Beer,WLP036,Am. Amber
+114,WLP050 Am. Amber 4 03 Marks 24 HL,Beer,WLP050,Am. Amber
+115,WLP530 Am. Amber 4 04 Marks 24 HL,Beer,WLP530,Am. Amber
+116,WLP860 American Blonde Ale 40 1 BM,Beer,WLP860,American Blonde Ale
+117,WLP029 American Blonde Ale 40 2 BM,Beer,WLP029,American Blonde Ale
+118,WLP001 American Blonde Ale 41 1 BS,Beer,WLP001,American Blonde Ale
+119,WLP060 American Blonde Ale 41 2 BS,Beer,WLP060,American Blonde Ale
+120,WLP013 American Blonde Ale 41 3 BS,Beer,WLP013,American Blonde Ale
+121,WLP028 American Blonde Ale 41 4 BS,Beer,WLP028,American Blonde Ale
+122,WLP500 Saison 42 1 BS,Beer,WLP500,Saison
+123,WLP862 American IPA 42 1 BS,Beer,WLP862,American IPA
+124,WLP029 American IPA 42 2 BS,Beer,WLP029,American IPA
+125,WLP565 Saison 42 2 BS,Beer,WLP565,Saison
+126,WLP099 American IPA 42 3 BS,Beer,WLP099,American IPA
+127,WLP566 Saison 42 3 BS,Beer,WLP566,Saison
+128,WLP008 American IPA 42 4 BS,Beer,WLP008,American IPA
+129,WLP568 Saison 42 4 BS,Beer,WLP568,Saison
+130,Saison June BM 43,Recipe,,Saison June
+131,WLP090 American IPA 43 1 BM,Beer,WLP090,American IPA
+132,WLP585 Saison 43 1 BM,Beer,WLP585,Saison
+133,WLP001 American IPA 43 2 BM,Beer,WLP001,American IPA
+134,WLP540 Saison 43 2 BM,Beer,WLP540,Saison
+135,Saison June BS 44,Recipe,,Saison June
+136,WLP072 American IPA 44 1 BS,Beer,WLP072,American IPA
+137,WLP570 Saison 44 1 BS,Beer,WLP570,Saison
+138,WLP041 American IPA 44 2 BS,Beer,WLP041,American IPA
+139,WLP510 Saison 44 2 BS,Beer,WLP510,Saison
+140,WLP007 American IPA 44 3 BS,Beer,WLP007,American IPA
+141,WLP072 Saison 44 3 BS,Beer,WLP072,Saison
+142,WLP028 American IPA 44 4 BS,Beer,WLP028,American IPA
+143,WLP400 Saison 44 4 BS,Beer,WLP400,Saison
+144,WLP072 Am. Red 45 1 BS,Beer,WLP072,Am. Red
+145,WLP001 Am. Red 45 3 BS,Beer,WLP001,Am. Red
+146,WLP005 Am. Red 45 4 BS,Beer,WLP005,Am. Red
+147,WLP060 Am. Red 46 1 BM,Beer,WLP060,Am. Red
+148,WLP090 Am. Red 46 2 BM,Beer,WLP090,Am. Red
+149,Amber BS 47,Recipe,,Amber
+150,WLP008 Am. Red 47 1 BS,Beer,WLP008,Am. Red
+151,WLP041 Am. Red 47 2 BS,Beer,WLP041,Am. Red
+152,WLP862 Am. Red 47 3 BS,Beer,WLP862,Am. Red
+153,WLP011 Am. Red 47 4 BS,Beer,WLP011,Am. Red
+154,Amber BM 48,Recipe,,Amber
+155,WLP001 American Brown Ale 48 1 BS,Beer,WLP001,American Brown Ale
+156,WLP060 American Brown Ale 48 2 BS,Beer,WLP060,American Brown Ale
+157,WLP080 American Brown Ale 48 3 BS,Beer,WLP080,American Brown Ale
+158,WLP090 American Brown Ale 48 4 BS,Beer,WLP090,American Brown Ale
+159,Amber BS 49,Recipe,,Amber
+160,WLP041 American Brown Ale 49 1 BM,Beer,WLP041,American Brown Ale
+161,WLP051 American Brown Ale 49 2 BM,Beer,WLP051,American Brown Ale
+162,WLP029 Wheat Ale 5 05 Marks 24 HL,Beer,WLP029,Wheat Ale
+163,WLP300 Wheat Ale 5 06 Marks 24 HL,Beer,WLP300,Wheat Ale
+164,WLP380 Wheat Ale 5 07 Marks 24 HL,Beer,WLP380,Wheat Ale
+165,WLP715 Wheat Ale 5 08 Marks 24 HL,Beer,WLP715,Wheat Ale
+166,American Brown Ale BM 51,Recipe,,American Brown Ale
+167,WLP001 American IPA 52 1 BS,Beer,WLP001,American IPA
+168,WLP007 American IPA 52 2 BS,Beer,WLP007,American IPA
+169,WLP004 American IPA 52 3 BS,Beer,WLP004,American IPA
+170,WLP013 American IPA 52 4 BS,Beer,WLP013,American IPA
+171,IPA BM 53,Recipe,,IPA
+172,WLP023 American IPA 53 1 BM,Beer,WLP023,American IPA
+173,WLP028 American IPA 53 2 BM,Beer,WLP028,American IPA
+174,IPA BS 54,Recipe,,IPA
+175,WLP060 American IPA 54 1 BS,Beer,WLP060,American IPA
+176,WLP080 American IPA 54 2 BS,Beer,WLP080,American IPA
+177,WLP041 American IPA 54 3 BS,Beer,WLP041,American IPA
+178,English Style IPA BS 55,Recipe,,English Style IPA
+179,WLP060 English Style IPA 55 1 BS,Beer,WLP060,English Style IPA
+180,WLP007 English Style IPA 55 2 BS,Beer,WLP007,English Style IPA
+181,WLP013 English Style IPA 55 3 BS,Beer,WLP013,English Style IPA
+182,WLP023 English Style IPA 55 4 BS,Beer,WLP023,English Style IPA
+183,English Style IPA BM 56,Recipe,,English Style IPA
+184,WLP036 English Style IPA 56 1 BS,Beer,WLP036,English Style IPA
+185,WLP051 English Style IPA 56 2 BM,Beer,WLP051,English Style IPA
+186,WLP002 English Style IPA 57 1 BS,Beer,WLP002,English Style IPA
+187,WLP004 English Style IPA 57 2 BM,Beer,WLP004,English Style IPA
+188,WLP005 English Style IPA 57 3 BS,Beer,WLP005,English Style IPA
+189,WLP041 English Style IPA 57 4 BS,Beer,WLP041,English Style IPA
+190,Blonde Ale BS 58,Recipe,,Blonde Ale
+191,WLP001 Kolsch 58 1 BS,Beer,WLP001,Kolsch
+192,WLP001 Kolsch 58 3 BS,Beer,WLP001,Kolsch
+193,WLP001 Kolsch 58 4 BS,Beer,WLP001,Kolsch
+194,Saison BS 59,Recipe,,Saison
+195,WLP565 Saison 59 1 BS,Beer,WLP565,Saison
+196,WLP566 Saison 59 2 BM,Beer,WLP566,Saison
+197,WLP568 Saison 59 3 BM,Beer,WLP568,Saison
+198,WLP585 Saison 59 4 BS,Beer,WLP585,Saison
+199,WLP802 Pilsner 6 13 Marks 24 HL,Beer,WLP802,Pilsner
+200,WLP830 Pilsner 6 14 Marks 24 HL,Beer,WLP830,Pilsner
+201,WLP862 Pilsner 6 15 Marks 24 HL,Beer,WLP862,Pilsner
+202,WLP940 Pilsner 6 16 Marks 24 HL,Beer,WLP940,Pilsner
+203,Saison BM 60,Recipe,,Saison
+204,WLP530 Saison 60 1 BM,Beer,WLP530,Saison
+205,WLP540 Saison 60 2 BM,Beer,WLP540,Saison
+206,Saison BS 61,Recipe,,Saison
+207,WLP006 Porter 62 1 BS,Beer,WLP006,Porter
+208,WLP001 Porter 62 2 BS,Beer,WLP001,Porter
+209,WLP011 Porter 62 3 BS,Beer,WLP011,Porter
+210,WLP004 Porter 62 4 BS,Beer,WLP004,Porter
+211,Brown Porter BS 63,Recipe,,Brown Porter
+212,WLP023 Porter 63 1 BM,Beer,WLP023,Porter
+213,WLP013 Porter 63 2 BM,Beer,WLP013,Porter
+214,Brown Porter BS 64,Recipe,,Brown Porter
+215,WLP080 Porter 64 1 BS,Beer,WLP080,Porter
+216,WLP036 Porter 64 2 BM,Beer,WLP036,Porter
+217,WLP028 Porter 64 3 BS,Beer,WLP028,Porter
+218,WLP041 Porter 64 4 BS,Beer,WLP041,Porter
+219,WLP001 American IPA 65 1 BS,Beer,WLP001,American IPA
+220,WLP007 American IPA 65 2 BS,Beer,WLP007,American IPA
+221,WLP008 American IPA 65 3 BS,Beer,WLP008,American IPA
+222,WLP011 American IPA 65 4 BS,Beer,WLP011,American IPA
+223,IPA BM 66,Recipe,,IPA
+224,WLP051 American IPA 66 1 BM,Beer,WLP051,American IPA
+225,WLP041 American IPA 66 2 BM,Beer,WLP041,American IPA
+226,IPA BS 67,Recipe,,IPA
+227,WLP060 American IPA 67 1 BS,Beer,WLP060,American IPA
+228,WLP080 American IPA 67 2 BS,Beer,WLP080,American IPA
+229,WLP029 American IPA 67 3 BS,Beer,WLP029,American IPA
+230,WLP090 American IPA 67 4 BS,Beer,WLP090,American IPA
+231,Belgian Golden BS 68,Recipe,,Belgian Golden
+232,WLP500 Belgian Blonde 68 1 BS,Beer,WLP500,Belgian Blonde
+233,WLP540 Belgian Blonde 68 2 BS,Beer,WLP540,Belgian Blonde
+234,WLP530 Belgian Blonde 68 3 BS,Beer,WLP530,Belgian Blonde
+235,Belgian Golden BM 69,Recipe,,Belgian Golden
+236,WLP515 Belgian Blonde 69 1 BM,Beer,WLP515,Belgian Blonde
+237,WLP510 Belgian Blonde 69 2 BM,Beer,WLP510,Belgian Blonde
+238,Belgian Golden BS 70,Recipe,,Belgian Golden
+239,WLP570 Belgian Blonde 70 1 BS,Beer,WLP570,Belgian Blonde
+240,WLP575 Belgian Blonde 70 2 BS,Beer,WLP575,Belgian Blonde
+241,WLP568 Belgian Blonde 70 3 BS,Beer,WLP568,Belgian Blonde
+242,WLP585 Belgian Blonde 70 4 BS,Beer,WLP585,Belgian Blonde
+243,Hefeweizen BS 71,Recipe,,Hefeweizen
+244,WLP380 Hefeweizen 71 1 BS,Beer,WLP380,Hefeweizen
+245,WLP300 Hefeweizen 71 2 BS,Beer,WLP300,Hefeweizen
+246,WLP351 Hefeweizen 71 3 BS,Beer,WLP351,Hefeweizen
+247,WLP320 Hefeweizen 71 4 BS,Beer,WLP320,Hefeweizen
+248,Hefeweizen BM 72,Recipe,,Hefeweizen
+249,WLP300 Hefeweizen 72 1 BM,Beer,WLP300,Hefeweizen
+250,WLP320 Hefeweizen 72 2 BM,Beer,WLP320,Hefeweizen
+251,Hefeweizen BS 73,Recipe,,Hefeweizen
+252,WLP500 Hefeweizen 73 1 BS,Beer,WLP500,Hefeweizen
+253,WLP510 Hefeweizen 73 2 BS,Beer,WLP510,Hefeweizen
+254,WLP515 Hefeweizen 73 3 BS,Beer,WLP515,Hefeweizen
+255,WLP530 Hefeweizen 73 4 BS,Beer,WLP530,Hefeweizen
+256,Blonde Ale BS 74,Recipe,,Blonde Ale
+257,WLP060 American Blonde Ale 74 1 BS,Beer,WLP060,American Blonde Ale
+258,WLP001 American Blonde Ale 74 2 BS,Beer,WLP001,American Blonde Ale
+259,WLP008 American Blonde Ale 74 3 BS,Beer,WLP008,American Blonde Ale
+260,WLP029 American Blonde Ale 74 4 BS,Beer,WLP029,American Blonde Ale
+261,Blonde Ale BM 75,Recipe,,Blonde Ale
+262,WLP051 American Blonde Ale 75 1 BM,Beer,WLP051,American Blonde Ale
+263,WLP041 American Blonde Ale 75 2 BM,Beer,WLP041,American Blonde Ale
+264,Blonde Ale BS 76,Recipe,,Blonde Ale
+265,WLP862 American Blonde Ale 76 1 BS,Beer,WLP862,American Blonde Ale
+266,WLP830 American Blonde Ale 76 2 BS,Beer,WLP830,American Blonde Ale
+267,WLP810 American Blonde Ale 76 3 BS,Beer,WLP810,American Blonde Ale
+268,WLP835 American Blonde Ale 76 4 BS,Beer,WLP835,American Blonde Ale
+269,Amber BS 77,Recipe,,Amber
+270,WLP028 Am. Amber 77 2 BS,Beer,WLP028,Am. Amber
+271,Amber BM 78,Recipe,,Amber
+272,WLP007 Am. Amber 78 1 BM,Beer,WLP007,Am. Amber
+273,Amber BS 79,Recipe,,Amber
+274,WLP005 Am. Amber 79 1 BS,Beer,WLP005,Am. Amber
+275,WLP001 Am. Amber 79 2 BS,Beer,WLP001,Am. Amber
+276,WLP002 Am. Amber 79 3 BS,Beer,WLP002,Am. Amber
+277,WLP004 Am. Amber 79 4 BS,Beer,WLP004,Am. Amber
+278,WLP028 American IPA 8 01 Marks 24 HL,Beer,WLP028,American IPA
+279,WLP072 American IPA 8 02 Marks 24 HL,Beer,WLP072,American IPA
+280,WLP090 American IPA 8 03 Marks 24 HL,Beer,WLP090,American IPA
+281,WLP515 American IPA 8 04 Marks 24 HL,Beer,WLP515,American IPA
+282,American Brown Ale BS 80,Recipe,,American Brown Ale
+283,WLP006 American Brown Ale 80 1 BS,Beer,WLP006,American Brown Ale
+284,WLP001 American Brown Ale 80 2 BS,Beer,WLP001,American Brown Ale
+285,WLP013 American Brown Ale 80 3 BS,Beer,WLP013,American Brown Ale
+286,WLP002 American Brown Ale 80 4 BS,Beer,WLP002,American Brown Ale
+287,American Brown BM 81,Recipe,,American Brown
+288,WLP510 American Brown Ale 81 1 BM,Beer,WLP510,American Brown Ale
+289,WLP300 American Brown Ale 81 2 BM,Beer,WLP300,American Brown Ale
+290,American Brown Ale BS 82,Recipe,,American Brown Ale
+291,WLP051 American Brown Ale 82 1 BS,Beer,WLP051,American Brown Ale
+292,WLP004 American Brown Ale 82 2 BS,Beer,WLP004,American Brown Ale
+293,WLP080 American Brown Ale 82 3 BS,Beer,WLP080,American Brown Ale
+294,WLP041 American Brown Ale 82 4 BS,Beer,WLP041,American Brown Ale
+295,Belgo IPA BS 83,Recipe,,Belgo IPA
+296,WLP001 American IPA 83 1 BS,Beer,WLP001,American IPA
+297,WLP007 American IPA 83 2 BS,Beer,WLP007,American IPA
+298,WLP008 American IPA 83 3 BS,Beer,WLP008,American IPA
+299,WLP011 American IPA 83 4 BS,Beer,WLP011,American IPA
+300,Belgo IPA BM 84,Recipe,,Belgo IPA
+301,WLP510 American IPA 84 1 BM,Beer,WLP510,American IPA
+302,WLP570 American IPA 84 2 BM,Beer,WLP570,American IPA
+303,Belgo IPA BS 85,Recipe,,Belgo IPA
+304,WLP540 American IPA 85 1 BS,Beer,WLP540,American IPA
+305,WLP515 American IPA 85 2 BS,Beer,WLP515,American IPA
+306,WLP001 American IPA 85 3 BS,Beer,WLP001,American IPA
+307,WLP300 American IPA 85 4 BS,Beer,WLP300,American IPA
+308,English Style IPA BS 86,Recipe,,English Style IPA
+309,WLP006 English Style IPA 86 1 BS,Beer,WLP006,English Style IPA
+310,WLP023 English Style IPA 86 2 BS,Beer,WLP023,English Style IPA
+311,WLP007 English Style IPA 86 3 BS,Beer,WLP007,English Style IPA
+312,WLP013 English Style IPA 86 4 BS,Beer,WLP013,English Style IPA
+313,English Style IPA BM 87,Recipe,,English Style IPA
+314,WLP051 English Style IPA 87 1 BM,Beer,WLP051,English Style IPA
+315,WLP028 English Style IPA 87 2 BM,Beer,WLP028,English Style IPA
+316,English Style IPA BS 88,Recipe,,English Style IPA
+317,WLP005 English Style IPA 88 1 BS,Beer,WLP005,English Style IPA
+318,WLP002 English Style IPA 88 2 BS,Beer,WLP002,English Style IPA
+319,WLP004 English Style IPA 88 3 BS,Beer,WLP004,English Style IPA
+320,WLP041 English Style IPA 88 4 BS,Beer,WLP041,English Style IPA
+321,Saison BS 89,Recipe,,Saison
+322,WLP565 Saison 89 1 BS,Beer,WLP565,Saison
+323,WLP566 Saison 89 2 BS,Beer,WLP566,Saison
+324,WLP568 Saison 89 3 BS,Beer,WLP568,Saison
+325,WLP585 Saison 89 4 BS,Beer,WLP585,Saison
+326,BLEND Imperial Stout 9 11 Marks 24 HL,Beer,BLEND,Imperial Stout
+327,BLEND Imperial Stout 9 12 Marks 24 HL,Beer,BLEND,Imperial Stout
+328,Saison BM 90,Recipe,,Saison
+329,WLP530 Saison 90 1 BM,Beer,WLP530,Saison
+330,WLP540 Saison 90 2 BM,Beer,WLP540,Saison
+331,Saison BS 91,Recipe,,Saison
+332,WLP515 Saison 91 1 BS,Beer,WLP515,Saison
+333,WLP570 Saison 91 2 BS,Beer,WLP570,Saison
+334,WLP001 Saison 91 3 BS,Beer,WLP001,Saison
+335,WLP500 Saison 91 4 BS,Beer,WLP500,Saison
+336,Brown Porter BS 92,Recipe,,Brown Porter
+337,Brown Porter BM 93,Recipe,,Brown Porter
+338,Brown Porter BS 94,Recipe,,Brown Porter
+339,Oskar Blues G'Night BS 95,Recipe,,Oskar Blues G'Night
+340,WLP001 Am. Amber 95 1 BS,Beer,WLP001,Am. Amber
+341,WLP028 Am. Amber 95 2 BS,Beer,WLP028,Am. Amber
+342,WLP041 Am. Amber 95 3 BS,Beer,WLP041,Am. Amber
+343,WLP051 Am. Amber 95 4 BS,Beer,WLP051,Am. Amber
+344,Blonde Ale BS 96,Recipe,,Blonde Ale
+345,Blonde Ale BS 97,Recipe,,Blonde Ale
+346,IPA BS 98,Recipe,,IPA
+347,WLP001 American IPA 98 1 BS,Beer,WLP001,American IPA
+348,WLP008 American IPA 98 2 BS,Beer,WLP008,American IPA
+349,WLP051 American IPA 98 3 BS,Beer,WLP051,American IPA
+350,WLP060 American IPA 98 4 BS,Beer,WLP060,American IPA
+351,WLP051 American IPA 99 1 BM,Beer,WLP051,American IPA
+352,WLP060 American IPA 99 2 BM,Beer,WLP060,American IPA
+353,IPA 99 BM,Recipe,,IPA
+354,Brown Porter 207 WL,Recipe,,Brown Porter
+355,WLP001 American Pale Ale 10 01 Marks 24 HL,Beer,WLP001,American Pale Ale
+356,WLP002 American Pale Ale 10 02 Marks 24 HL,Beer,WLP002,American Pale Ale
+357,WLP300 American Pale Ale 10 03 Marks 24 HL,Beer,WLP300,American Pale Ale
+358,WLP530 American Pale Ale 10 04 Marks 24 HL,Beer,WLP530,American Pale Ale
+359,IPA BS 100,Recipe,,IPA
+360,WLP001 American IPA 100 1 BS,Beer,WLP001,American IPA
+361,WLP008 American IPA 100 2 BS,Beer,WLP008,American IPA
+362,WLP060 American IPA 100 3 BS,Beer,WLP060,American IPA
+363,WLP051 American IPA 100 4 BS,Beer,WLP051,American IPA
+364,WLP001 Porter 101 1 BS,Beer,WLP001,Porter
+365,WLP006 Porter 101 2 BS,Beer,WLP006,Porter
+366,WLP011 Porter 101 3 BS,Beer,WLP011,Porter
+367,WLP001 Porter 101 4 BS,Beer,WLP001,Porter
+368,WLP013 Porter 102 1 BM,Beer,WLP013,Porter
+369,WLP023 Porter 102 2 BM,Beer,WLP023,Porter
+370,TP Pale BS 103,Recipe,,TP Pale
+371,WLP002 American Pale Ale 103 1 BS,Beer,WLP002,American Pale Ale
+372,WLP028 American Pale Ale 103 2 BS,Beer,WLP028,American Pale Ale
+373,WLP004 American Pale Ale 103 3 BS,Beer,WLP004,American Pale Ale
+374,WLP039 American Pale Ale 103 4 BS,Beer,WLP039,American Pale Ale
+375,TP Pale BM 104,Recipe,,TP Pale
+376,TP Pale BM 104,Recipe,,TP Pale
+377,WLP002 American Pale Ale 104 1 BM,Beer,WLP002,American Pale Ale
+378,WLP039 American Pale Ale 104 2 BM,Beer,WLP039,American Pale Ale
+379,TP Pale BS 105,Recipe,,TP Pale
+380,WLP001 American Pale Ale 105 1 BS,Beer,WLP001,American Pale Ale
+381,WLP011 American Pale Ale 105 2 BS,Beer,WLP011,American Pale Ale
+382,WLP013 American Pale Ale 105 3 BS,Beer,WLP013,American Pale Ale
+383,WLP028 American Pale Ale 105 4 BS,Beer,WLP028,American Pale Ale
+384,TP Pale BM 106,Recipe,,TP Pale
+385,WLP195 Frankenstout 106 NA,Beer,WLP195,Frankenstout
+386,WLP029 American Pale Ale 106 2 BS,Beer,WLP029,American Pale Ale
+387,Hangar 24 Collaboration IPA 107,Recipe,,Hangar 24 Collaboration
+388,Zythos IPA BM 108,Recipe,,Zythos IPA
+389,WLP099 American IPA 108 1 BM,Beer,WLP099,American IPA
+390,WLP060 American IPA 108 2 BM,Beer,WLP060,American IPA
+391,White House Honey Ale BS 109,Recipe,,White House Honey Ale
+392,WLP001 Ale 109 1 BS,Beer,WLP001,Ale
+393,WLP005 Ale 109 2 BS,Beer,WLP005,Ale
+394,WLP039 Ale 109 3 BS,Beer,WLP039,Ale
+395,White House Honey Ale BS 110,Recipe,,White House Honey Ale
+396,WLP001 Ale 110 1 BS,Beer,WLP001,Ale
+397,WLP005 Ale 110 2 BS,Beer,WLP005,Ale
+398,WLP039 Ale 110 3 BS,Beer,WLP039,Ale
+399,Pumpkin Ale BS 111,Recipe,,Pumpkin Ale
+400,WLP002 Ale 111 1 BS,Beer,WLP002,Ale
+401,WLP002 Ale 111 2 BS,Beer,WLP002,Ale
+402,WLP037 Ale 111 3 BS,Beer,WLP037,Ale
+403,WLP550 Ale 111 4 BS,Beer,WLP550,Ale
+404,Saison BS 112,Recipe,,Saison
+405,WLP565 Saison 112 1 BS,Beer,WLP565,Saison
+406,WLP568 Saison 112 2 BS,Beer,WLP568,Saison
+407,WLP566 Saison 112 3 BS,Beer,WLP566,Saison
+408,WLP585 Saison 112 4 BS,Beer,WLP585,Saison
+409,Saison BM 113,Recipe,,Saison
+410,WLP530 Saison 113 1 BM,Beer,WLP530,Saison
+411,WLP540 Saison 113 2 BM,Beer,WLP540,Saison
+412,Saison BS 114,Recipe,,Saison
+413,WLP565 Saison 114 1 BS,Beer,WLP565,Saison
+414,WLP566 Saison 114 2 BS,Beer,WLP566,Saison
+415,WLP568 Saison 114 3 BS,Beer,WLP568,Saison
+416,WLP585 Saison 114 4 BS,Beer,WLP585,Saison
+417,Saison BM 115,Recipe,,Saison
+418,WLP530 Saison 115 1 BM,Beer,WLP530,Saison
+419,WLP540 Saison 115 2 BM,Beer,WLP540,Saison
+420,Hefeweizen BS 116,Recipe,,Hefeweizen
+421,WLP500 Hefeweizen 116 1 BS,Beer,WLP500,Hefeweizen
+422,WLP510 Hefeweizen 116 2 BS,Beer,WLP510,Hefeweizen
+423,WLP515 Hefeweizen 116 3 BS,Beer,WLP515,Hefeweizen
+424,WLP530 Hefeweizen 116 4 BS,Beer,WLP530,Hefeweizen
+425,Hefeweizen BM 117,Recipe,,Hefeweizen
+426,WLP300 Hefeweizen 117 1 BM,Beer,WLP300,Hefeweizen
+427,WLP320 Hefeweizen 117 2 BM,Beer,WLP320,Hefeweizen
+428,Hefeweizen BS 118,Recipe,,Hefeweizen
+429,WLP300 Hefeweizen 118 1 BS,Beer,WLP300,Hefeweizen
+430,WLP500 Hefeweizen 118 2 BS,Beer,WLP500,Hefeweizen
+431,WLP510 Hefeweizen 118 3 BS,Beer,WLP510,Hefeweizen
+432,WLP530 Hefeweizen 118 4 BS,Beer,WLP530,Hefeweizen
+433,Amber BS 119,Recipe,,Amber
+434,WLP023 Am. Amber 119 1 BS,Beer,WLP023,Am. Amber
+435,WLP051 Am. Amber 119 2 BS,Beer,WLP051,Am. Amber
+436,WLP028 Am. Amber 119 3 BS,Beer,WLP028,Am. Amber
+437,WLP041 Am. Amber 119 4 BS,Beer,WLP041,Am. Amber
+438,WLP005 ESB-Best Bitters 12 01 Marks 24 HL,Beer,WLP005,ESB-Best Bitters
+439,WLP037 ESB-Best Bitters 12 02 Marks 24 HL,Beer,WLP037,ESB-Best Bitters
+440,WLP051 ESB-Best Bitters 12 03 Marks 24 HL,Beer,WLP051,ESB-Best Bitters
+441,WLP510 ESB-Best Bitters 12 04 Marks 24 HL,Beer,WLP510,ESB-Best Bitters
+442,Amber BM 120,Recipe,,Amber
+443,WLP007 Am. Amber 120 1 BM,Beer,WLP007,Am. Amber
+444,WLP013 Am. Amber 120 2 BM,Beer,WLP013,Am. Amber
+445,Amber BS 121,Recipe,,Amber
+446,WLP005 Am. Amber 121 1 BS,Beer,WLP005,Am. Amber
+447,WLP001 Am. Amber 121 2 BS,Beer,WLP001,Am. Amber
+448,WLP002 Am. Amber 121 3 BS,Beer,WLP002,Am. Amber
+449,WLP004 Am. Amber 121 4 BS,Beer,WLP004,Am. Amber
+450,White House Honey Ale BS 122,Recipe,,White House Honey Ale
+451,WLP005 Ale 122 1 BS,Beer,WLP005,Ale
+452,WLP001 Ale 122 2 BS,Beer,WLP001,Ale
+453,WLP039 Ale 122 3 BS,Beer,WLP039,Ale
+454,White House Honey Ale BM 123,Recipe,,White House Honey Ale
+455,WLP001 Ale 123 1 BM,Beer,WLP001,Ale
+456,WLP005 Ale 123 2 BM,Beer,WLP005,Ale
+457,White House Honey Ale BS 124,Recipe,,White House Honey Ale
+458,WLP005 Ale 124 1 BS,Beer,WLP005,Ale
+459,WLP001 Ale 124 2 BS,Beer,WLP001,Ale
+460,WLP039 Ale 124 3 BS,Beer,WLP039,Ale
+461,American Brown Ale BS 125,Recipe,,American Brown Ale
+462,WLP006 American Brown Ale 125 1 BS,Beer,WLP006,American Brown Ale
+463,WLP001 American Brown Ale 125 2 BS,Beer,WLP001,American Brown Ale
+464,WLP013 American Brown Ale 125 3 BS,Beer,WLP013,American Brown Ale
+465,WLP002 American Brown Ale 125 4 BS,Beer,WLP002,American Brown Ale
+466,American Brown Ale BM 126,Recipe,,American Brown Ale
+467,WLP300 American Brown Ale 126 1 BM,Beer,WLP300,American Brown Ale
+468,WLP570 American Brown Ale 126 2 BM,Beer,WLP570,American Brown Ale
+469,American Brown Ale BS 127,Recipe,,American Brown Ale
+470,WLP004 American Brown Ale 127 1 BS,Beer,WLP004,American Brown Ale
+471,WLP051 American Brown Ale 127 2 BS,Beer,WLP051,American Brown Ale
+472,WLP090 American Brown Ale 127 3 BS,Beer,WLP090,American Brown Ale
+473,WLP099 American Brown Ale 127 4 BS,Beer,WLP099,American Brown Ale
+474,Brown Porter BS 128,Recipe,,Brown Porter
+475,WLP006 Porter 128 1 BS,Beer,WLP006,Porter
+476,WLP001 Porter 128 2 BS,Beer,WLP001,Porter
+477,WLP011 Porter 128 3 BS,Beer,WLP011,Porter
+478,WLP004 Porter 128 4 BS,Beer,WLP004,Porter
+479,Brown Porter BM 129,Recipe,,Brown Porter
+480,WLP023 Porter 129 1 BM,Beer,WLP023,Porter
+481,WLP013 Porter 129 2 BM,Beer,WLP013,Porter
+482,WLP001 Barleywine 13 09 Marks 24 HL,Beer,WLP001,Barleywine
+483,WLP007 Barleywine 13 10 Marks 24 HL,Beer,WLP007,Barleywine
+484,Brown Porter BS 130,Recipe,,Brown Porter
+485,WLP080 Porter 130 1 BS,Beer,WLP080,Porter
+486,WLP036 Porter 130 2 BS,Beer,WLP036,Porter
+487,WLP028 Porter 130 3 BS,Beer,WLP028,Porter
+488,WLP041 Porter 130 4 BS,Beer,WLP041,Porter
+489,Belgian Dark BS 131,Recipe,,Belgian Dark
+490,WLP500 Belgian Ale 131 1 BS,Beer,WLP500,Belgian Ale
+491,WLP530 Belgian Ale 131 2 BS,Beer,WLP530,Belgian Ale
+492,WLP550 Belgian Ale 131 3 BS,Beer,WLP550,Belgian Ale
+493,WLP570 Belgian Ale 131 4 BS,Beer,WLP570,Belgian Ale
+494,Belgian Dark BM 132,Recipe,,Belgian Dark
+495,WLP545 Belgian Ale 132 1 BM,Beer,WLP545,Belgian Ale
+496,WLP575 Belgian Ale 132 2 BM,Beer,WLP575,Belgian Ale
+497,Belgian Dark BS 133,Recipe,,Belgian Dark
+498,WLP500 Belgian Ale 133 1 BS,Beer,WLP500,Belgian Ale
+499,WLP550 Belgian Ale 133 3 BS,Beer,WLP550,Belgian Ale
+500,WLP570 Belgian Ale 133 4 BS,Beer,WLP570,Belgian Ale
+501,White House Honey Ale BS 134,Recipe,,White House Honey Ale
+502,WLP001 Ale 134 1 BS,Beer,WLP001,Ale
+503,WLP005 Ale 134 2 BS,Beer,WLP005,Ale
+504,WLP039 Ale 134 3 BS,Beer,WLP039,Ale
+505,White House Honey Ale BM 135,Recipe,,White House Honey Ale
+506,WLP001 Ale 135 1 BS,Beer,WLP001,Ale
+507,WLP005 Ale 135 2 BM,Beer,WLP005,Ale
+508,White House Honey Ale BS 136,Recipe,,White House Honey Ale
+509,WLP001 Ale 136 1 BS,Beer,WLP001,Ale
+510,WLP005 Ale 136 2 BS,Beer,WLP005,Ale
+511,WLP039 Ale 136 3 BS,Beer,WLP039,Ale
+512,Mayor IPA BS 137,Recipe,,Mayor IPA
+513,WLP007 American IPA 137 4 BS,Beer,WLP007,American IPA
+514,Mayor IPA BM 138,Recipe,,Mayor IPA
+515,WLP007 American IPA 139 4 BS,Beer,WLP007,American IPA
+516,BLEND Imperial Stout 14 11 Marks 24 HL,Beer,BLEND,Imperial Stout
+517,BLEND Imperial Stout 14 12 Marks 24 HL,Beer,BLEND,Imperial Stout
+518,Saison BS 140,Recipe,,Saison
+519,WLP565 Saison 140 1 BS,Beer,WLP565,Saison
+520,WLP566 Saison 140 2 BS,Beer,WLP566,Saison
+521,WLP568 Saison 140 3 BS,Beer,WLP568,Saison
+522,WLP585 Saison 140 4 BS,Beer,WLP585,Saison
+523,Saison BM 141,Recipe,,Saison
+524,WLP500 Saison 141 1 BM,Beer,WLP500,Saison
+525,WLP500 Saison 141 1 BM,Analysis,WLP500,Saison
+526,WLP565 Saison 141 2 BM,Beer,WLP565,Saison
+527,Saison BS 142,Recipe,,Saison
+528,WLP001 Saison 142 1 BS,Analysis,WLP001,Saison
+529,WLP001 Saison 142 1 BS,Beer,WLP001,Saison
+530,WLP051 Saison 142 2 BS,Beer,WLP051,Saison
+531,WLP004 Saison 142 3 BS,Beer,WLP004,Saison
+532,WLP013 Saison 142 4 BS,Beer,WLP013,Saison
+533,Hefeweizen BS 143,Recipe,,Hefeweizen
+534,WLP320 Hefeweizen 143 1 BS,Analysis,WLP320,Hefeweizen
+535,WLP320 Hefeweizen 143 1 BS,Beer,WLP320,Hefeweizen
+536,WLP351 Hefeweizen 143 2 BS,Beer,WLP351,Hefeweizen
+537,WLP001 Hefeweizen 143 3 BS,Beer,WLP001,Hefeweizen
+538,WLP002 Hefeweizen 143 4 BS,Beer,WLP002,Hefeweizen
+539,Hefeweizen BS 144,Recipe,,Hefeweizen
+540,WLP320 Hefeweizen 144 1 BS,Analysis,WLP320,Hefeweizen
+541,WLP320 Hefeweizen 144 1 BS,Beer,WLP320,Hefeweizen
+542,WLP001 Hefeweizen 144 2 BS,Beer,WLP001,Hefeweizen
+543,WLP300 Hefeweizen 144 3 BS,Beer,WLP300,Hefeweizen
+544,WLP380 Hefeweizen 144 4 BS,Beer,WLP380,Hefeweizen
+545,WLP001 American IPA 145 1 BS,Beer,WLP001,American IPA
+546,WLP090 American IPA 145 2 BS,Beer,WLP090,American IPA
+547,WLP051 American IPA 145 3 BS,Beer,WLP051,American IPA
+548,WLP810 American IPA 145 4 BS,Beer,WLP810,American IPA
+549,Porter BS 146,Recipe,,Porter
+550,WLP010 Porter 146 1 BS,Beer,WLP010,Porter
+551,WLP010 Porter 146 2 BS,Beer,WLP010,Porter
+552,WLP010 Porter 146 3 BS,Beer,WLP010,Porter
+553,WLP010 Porter 146 4 BS,Beer,WLP010,Porter
+554,Porter BM 147,Recipe,,Porter
+555,WLP010 Porter 147 1 BM,Beer,WLP010,Porter
+556,WLP010 Porter 147 2 BM,Beer,WLP010,Porter
+557,Smokin Beaver Double IPA BS 148,Recipe,,Smokin Beaver Double IPA
+558,WLP001 American IPA 148 1 BS,Beer,WLP001,American IPA
+559,WLP013 American IPA 148 2 BS,Beer,WLP013,American IPA
+560,WLP550 American IPA 148 3 BS,Beer,WLP550,American IPA
+561,WLP007 American IPA 148 4 BS,Beer,WLP007,American IPA
+562,Saison BS 149,Recipe,,Saison
+563,Blend Saison 149 1 BS,Beer,Blend,Saison
+564,Blend Saison 149 2 BS,Beer,Blend,Saison
+565,Blend Saison 149 3 BS,Beer,Blend,Saison
+566,Blend Saison 149 4 BS,Beer,Blend,Saison
+567,WLP001 American IPA 15 05 Marks 24 HL,Beer,WLP001,American IPA
+568,WLP008 American IPA 15 06 Marks 24 HL,Beer,WLP008,American IPA
+569,WLP041 American IPA 15 07 Marks 24 HL,Beer,WLP041,American IPA
+570,WLP540 American IPA 15 08 Marks 24 HL,Beer,WLP540,American IPA
+571,Cali Common BS 150,Recipe,,Cali Common
+572,WLP029 California Common 150 1 BS,Beer,WLP029,California Common
+573,WLP029 California Common 150 2 BS,Beer,WLP029,California Common
+574,WLP810 California Common 150 3 BS,Beer,WLP810,California Common
+575,WLP810 California Common 150 4 BS,Beer,WLP810,California Common
+576,WLP080 California Common 150 5 BS,Beer,WLP080,California Common
+577,WLP080 California Common 150 6 BS,Beer,WLP080,California Common
+578,WLP940 California Common 150 7 BS,Beer,WLP940,California Common
+579,WLP940 California Common 150 8 BS,Beer,WLP940,California Common
+580,WLP001 California Common 150 9 BS,Beer,WLP001,California Common
+581,Pale Ale WL 151,Recipe,,Pale Ale
+582,WLP001 American Pale Ale 151 2 BM,Beer,WLP001,American Pale Ale
+583,WLP029 American Pale Ale 151 3 BS,Beer,WLP029,American Pale Ale
+584,WLP550 American Pale Ale 151 4 BS,Beer,WLP550,American Pale Ale
+585,IPA BS 152,Recipe,,IPA
+586,WLP090 American IPA 152 1 BS,Beer,WLP090,American IPA
+587,WLP051 American IPA 152 2 BS,Beer,WLP051,American IPA
+588,WLP002 American IPA 152 4 BS,Beer,WLP002,American IPA
+589,WLP099 American IPA 152 5 BS,Beer,WLP099,American IPA
+590,WLP007 American IPA 152 7 BS,Beer,WLP007,American IPA
+591,WLP001 American IPA 152 8 BS,Beer,WLP001,American IPA
+592,WLP008 American IPA 152 9 BS,Beer,WLP008,American IPA
+593,Stout BS 153,Recipe,,Stout
+594,WLP028 Stout 153 1 BS,Beer,WLP028,Stout
+595,WLP001 Stout 153 2 BS,Beer,WLP001,Stout
+596,WLP060 Stout 153 4 BS,Beer,WLP060,Stout
+597,WLP041 Stout 153 5 BS,Beer,WLP041,Stout
+598,WLP090 Stout 153 6 BS,Beer,WLP090,Stout
+599,WLP023 Stout 153 7 BS,Beer,WLP023,Stout
+600,WLP013 Stout 153 8 BS,Beer,WLP013,Stout
+601,WLP002 Stout 153 9 BS,Beer,WLP002,Stout
+602,Amber BS 154,Recipe,,Amber
+603,Hefeweizen BS 155,Recipe,,Hefeweizen
+604,IPA BS 156,Recipe,,IPA
+605,WLP001 American Pale Ale 157 1 BS,Beer,WLP001,American Pale Ale
+606,American Brown Ale WL 158,Recipe,,American Brown Ale
+607,Olde Ale WL 159,Recipe,,Olde Ale
+608,WLP080 Wheat Ale 16 01 Marks 24 HL,Beer,WLP080,Wheat Ale
+609,WLP300 Wheat Ale 16 02 Marks 24 HL,Beer,WLP300,Wheat Ale
+610,WLP320 Wheat Ale 16 03 Marks 24 HL,Beer,WLP320,Wheat Ale
+611,WLP351 Wheat Ale 16 04 Marks 24 HL,Beer,WLP351,Wheat Ale
+612,WLP400 Hefeweizen 16 06 BS,Beer,WLP400,Hefeweizen
+613,Saison WL 160,Recipe,,Saison
+614,WLP568 Saison 160 2 BS,Beer,WLP568,Saison
+615,Belgian Blonde WL 161,Recipe,,Belgian Blonde
+616,Porter WL 162,Recipe,,Porter
+617,Hefeweizen BS 163,Recipe,,Hefeweizen
+618,Hansen IPA BS 164,Recipe,,Hansen IPA
+619,RyePA WL 165,Recipe,,RyePA
+620,Red Rye WL 165,Recipe,,Red Rye
+621,Quaff Alt BS 166,Recipe,,Quaff Alt
+622,Coronado collaboration IPA BS 168,Recipe,,Coronado collaboration IPA
+623,Coronado Milk Stout WL 169,Recipe,,Coronado Milk Stout
+624,WLP004 Porter 17 01 Marks 24 HL,Beer,WLP004,Porter
+625,WLP006 Porter 17 02 Marks 24 HL,Beer,WLP006,Porter
+626,WLP095 Porter 17 03 Marks 24 HL,Beer,WLP095,Porter
+627,WLP862 Porter 17 04 Marks 24 HL,Beer,WLP862,Porter
+628,Coronado Bitter WL 171,Recipe,,Coronado Bitter
+629,Belgian Blonde WL 176,Recipe,,Belgian Blonde
+630,WLP565 Belgian Blonde 176 1 BS,Beer,WLP565,Belgian Blonde
+631,WLP566 Belgian Blonde 176 1 BS,Beer,WLP566,Belgian Blonde
+632,WLP064 Other 177 NA,Beer,WLP064,Other
+633,Scottish WL 178,Recipe,,Scottish
+634,Belgian Dubbel BS 179,Recipe,,Belgian Dubbel
+635,WLP001 American IPA 18 13 Marks 24 HL,Beer,WLP001,American IPA
+636,WLP008 American IPA 18 14 Marks 24 HL,Beer,WLP008,American IPA
+637,WLP041 American IPA 18 15 Marks 24 HL,Beer,WLP041,American IPA
+638,WLP540 American IPA 18 16 Marks 24 HL,Beer,WLP540,American IPA
+639,Amber BS 181,Recipe,,Amber
+640,Frankenstout WL 182,Recipe,,Frankenstout
+641,Pasteur Porter WL 183,Recipe,,Pasteur Porter
+642,Cali Common WL 184,Recipe,,Cali Common
+643,Belgian IPA 185,Recipe,,Belgian
+644,Extra Pale WL 188,Recipe,,Extra Pale
+645,Hefeweizen WL 189,Recipe,,Hefeweizen
+646,WLP001 American Pale Ale 19 01 Marks 24 HL,Beer,WLP001,American Pale Ale
+647,WLP002 American Pale Ale 19 02 Marks 24 HL,Beer,WLP002,American Pale Ale
+648,WLP300 American Pale Ale 19 03 Marks 24 HL,Beer,WLP300,American Pale Ale
+649,WLP530 American Pale Ale 19 04 Marks 24 HL,Beer,WLP530,American Pale Ale
+650,Vienna Cream Ale WL 190,Recipe,,Vienna Cream Ale
+651,Buchner Pale Ale WL 191,Recipe,,Buchner Pale Ale
+652,Old Sonoma Pale WL 192,Recipe,,Old Sonoma Pale
+653,New Albion WL 192,Recipe,,New Albion
+654,Oatmeal Stout WL 197,Recipe,,Oatmeal Stout
+655,Irish Red Ale WL 198,Recipe,,Irish Red Ale
+656,WLP500 Tripel 20 15 Marks 24 HL,Beer,WLP500,Tripel
+657,WLP545 Tripel 20 16 Marks 24 HL,Beer,WLP545,Tripel
+658,Alt Bier WL 200,Recipe,,Alt Bier
+659,Belgian Wit WL 201,Recipe,,Belgian Wit
+660,Beire de Garde WL 202,Recipe,,Beire de Garde
+661,Black IPA WL 204,Recipe,,Black IPA
+662,Red Rye WL 206,Recipe,,Red Rye
+663,Brown Porter WL 207,Recipe,,Brown Porter
+664,AHA IPA WL 208,Recipe,,AHA IPA
+665,American Pale Ale WL 209,Recipe,,American Pale Ale
+666,WLP833 Other 21 13 Marks 24 HL,Beer,WLP833,Other
+667,WLP920 Other 21 14 Marks 24 HL,Beer,WLP920,Other
+668,Belgian Pale Ale WL 210,Recipe,,Belgian Pale Ale
+669,Smoked English Mild WL 211,Recipe,,Smoked English Mild
+670,Saison du Blanche WL 212,Recipe,,Saison du Blanche
+671,Belgian Dark WL 213,Recipe,,Belgian Dark
+672,Scottish WL 214,Recipe,,Scottish
+673,Single Hop IPA WL 215,Recipe,,Single Hop IPA
+674,ESB Best Bitters WL 217,Recipe,,ESB Best Bitters
+675,WLP001 American IPA 22 09 Marks 24 HL,Beer,WLP001,American IPA
+676,WLP008 American IPA 22 10 Marks 24 HL,Beer,WLP008,American IPA
+677,WLP041 American IPA 22 11 Marks 24 HL,Beer,WLP041,American IPA
+678,WLP515 American IPA 22 12 Marks 24 HL,Beer,WLP515,American IPA
+679,Pale Ale WL 220,Recipe,,Pale Ale
+680,Belgian Blonde WL 221,Recipe,,Belgian Blonde
+681,Kolsch WL 222,Recipe,,Kolsch
+682,Cali Common WL 223,Recipe,,Cali Common
+683,Cali Common WL 224,Recipe,,Cali Common
+684,English Brown WL 225,Recipe,,English Brown
+685,Pasteur Porter WL 226,Recipe,,Pasteur Porter
+686,Hefeweizen WL 227,Recipe,,Hefeweizen
+687,Pilsner WL 228,Recipe,,Pilsner
+688,Amber WL 229,Recipe,,Amber
+689,WLP004 Porter 23 13 Marks 24 HL,Beer,WLP004,Porter
+690,WLP006 Porter 23 14 Marks 24 HL,Beer,WLP006,Porter
+691,WLP095 Porter 23 15 Marks 24 HL,Beer,WLP095,Porter
+692,Milk Stout 230,Recipe,,Milk
+693,FrankenPale WL 231,Recipe,,FrankenPale
+694,Dubbel WL 232,Recipe,,Dubbel
+695,Irish Red Ale WL 233,Recipe,,Irish Red Ale
+696,HB Class Black IPA 236,Recipe,,HB Class Black
+697,Vienna Cream Ale WL 238,Recipe,,Vienna Cream Ale
+698,Smoked Porter WL 239,Recipe,,Smoked Porter
+699,WLP080 Wheat Ale 24 01 Marks 24 HL,Beer,WLP080,Wheat Ale
+700,WLP300 Wheat Ale 24 02 Marks 24 HL,Beer,WLP300,Wheat Ale
+701,WLP320 Wheat Ale 24 03 Marks 24 HL,Beer,WLP320,Wheat Ale
+702,WLP351 Wheat Ale 24 04 Marks 24 HL,Beer,WLP351,Wheat Ale
+703,IPA WL 240,Recipe,,IPA
+704,Hefeweizen WL 241,Recipe,,Hefeweizen
+705,Porter WL 242,Recipe,,Porter
+706,Oktoberfest-Vienna WL 243,Recipe,,Oktoberfest-Vienna
+707,Frankenstout WL 244,Recipe,,Frankenstout
+708,IPA WL 247,Recipe,,IPA
+709,Amber WL 248,Recipe,,Amber
+710,Alt Bier WL 249,Recipe,,Alt Bier
+711,BLEND Imperial Stout 25 15 Marks 24 HL,Beer,BLEND,Imperial Stout
+712,BLEND Imperial Stout 25 16 Marks 24 HL,Beer,BLEND,Imperial Stout
+713,Oatmeal Stout WL 250,Recipe,,Oatmeal Stout
+714,Pumpkin Ale WL 251,Recipe,,Pumpkin Ale
+715,Pilsner WL 252,Recipe,,Pilsner
+716,Leeuwenhoek Saison WL 253,Recipe,,Leeuwenhoek Saison
+717,Southern Brown WL 254,Recipe,,Southern Brown
+718,Hansen IPA WL 255,Recipe,,Hansen IPA
+719,Blonde Ale WL 256,Recipe,,Blonde Ale
+720,Hefeweizen WL 257,Recipe,,Hefeweizen
+721,Buchner WL 258,Recipe,,Buchner
+722,Scottish WL 259,Recipe,,Scottish
+723,WLP564 Saison 26 01 Marks 24 HL,Beer,WLP564,Saison
+724,WLP565 Saison 26 02 Marks 24 HL,Beer,WLP565,Saison
+725,WLP590 Saison 26 03 Marks 24 HL,Beer,WLP590,Saison
+726,WLP644 Saison 26 04 Marks 24 HL,Beer,WLP644,Saison
+727,WLP644 Saison 26 05 Marks 24 HL,Beer,WLP644,Saison
+728,Belgian Pale 260,Recipe,,Belgian
+729,Winter Warmer wl 262,Recipe,,Winter Warmer
+730,IPA WL 264,Recipe,,IPA
+731,Amber WL 265,Recipe,,Amber
+732,Session Hoppy WL 268,Recipe,,Session Hoppy
+733,Hansen IPA WL 269,Recipe,,Hansen IPA
+734,WLP001 Am. Red 27 01 Marks 24 HL,Beer,WLP001,Am. Red
+735,WLP007 Am. Red 27 02 Marks 24 HL,Beer,WLP007,Am. Red
+736,Frankenstout WL 270,Recipe,,Frankenstout
+737,Hefeweizen WL 271,Recipe,,Hefeweizen
+738,Belgian Dubbel WL 273,Recipe,,Belgian Dubbel
+739,Pasteur Porter WL 275,Recipe,,Pasteur Porter
+740,Hansen IPA WL 276,Recipe,,Hansen IPA
+741,Pasteur Porter WL 277,Recipe,,Pasteur Porter
+742,Hefeweizen WL 278,Recipe,,Hefeweizen
+743,Pale Ale WL 279,Recipe,,Pale Ale
+744,WLP840 N-A 28 13 Marks 24 HL,Beer,WLP840,N-A
+745,WLP850 N-A 28 14 Marks 24 HL,Beer,WLP850,N-A
+746,Leeuwenhoek Saison WL 280,Recipe,,Leeuwenhoek Saison
+747,Hefeweizen WL 284,Recipe,,Hefeweizen
+748,Pasteur Porter WL 285,Recipe,,Pasteur Porter
+749,Tabberer IPA Flight WL 287,Recipe,,Tabberer IPA Flight
+750,Buchner Pale Ale Flight WL 288,Recipe,,Buchner Pale Ale Flight
+751,Leeuwenhoek WL 289,Recipe,,Leeuwenhoek
+752,WLP001 American IPA 29 09 Marks 24 HL,Beer,WLP001,American IPA
+753,WLP008 American IPA 29 10 Marks 24 HL,Beer,WLP008,American IPA
+754,WLP041 American IPA 29 11 Marks 24 HL,Beer,WLP041,American IPA
+755,WLP545 American IPA 29 12 Marks 24 HL,Beer,WLP545,American IPA
+756,Oatmeal Stout WL 290,Recipe,,Oatmeal Stout
+757,Homebrew Double IPA 291,Recipe,,Homebrew Double
+758,Tabberer IPA Flight WL 292,Recipe,,Tabberer IPA Flight
+759,Hefeweizen WL 293,Recipe,,Hefeweizen
+760,Belgian Dubbel WL 294,Recipe,,Belgian Dubbel
+761,Tabberer IPA Flight WL 295,Recipe,,Tabberer IPA Flight
+762,Pasteur Porter WL 296,Recipe,,Pasteur Porter
+763,Buchner Pale Ale 298,Recipe,,Buchner Pale
+764,Leeuwenhoek WL 299,Recipe,,Leeuwenhoek
+765,WLP001 American Pale Ale 30 05 Marks 24 HL,Beer,WLP001,American Pale Ale
+766,WLP002 American Pale Ale 30 06 Marks 24 HL,Beer,WLP002,American Pale Ale
+767,WLP078 American Pale Ale 30 07 Marks 24 HL,Beer,WLP078,American Pale Ale
+768,WLP566 American Pale Ale 30 08 Marks 24 HL,Beer,WLP566,American Pale Ale
+769,Hefeweizen WL 300,Recipe,,Hefeweizen
+770,ESB Best Bitters WL 301,Recipe,,ESB Best Bitters
+771,Belgian Dubbel WL 302,Recipe,,Belgian Dubbel
+772,Tabberer IPA Flight WL 303,Recipe,,Tabberer IPA Flight
+773,Buchner Pale Ale WL 304,Recipe,,Buchner Pale Ale
+774,Pasteur Porter WL 305,Recipe,,Pasteur Porter
+775,Hefeweizen WL 308,Recipe,,Hefeweizen
+776,Leeuwenhoek WL 309,Recipe,,Leeuwenhoek
+777,WLP940 Mexican Lager 31 02 Marks 24 HL,Beer,WLP940,Mexican Lager
+778,Tabberer IPA Flight WL 310,Recipe,,Tabberer IPA Flight
+779,Belgian Dubbel WL 311,Recipe,,Belgian Dubbel
+780,Coffee Milk Stout 312,Recipe,,Coffee Milk
+781,Pasteur Porter WL 313,Recipe,,Pasteur Porter
+782,Hansen Hefeweizen 314,Recipe,,Hansen
+783,Buchner Pale New 315,Recipe,,Buchner Pale
+784,Tabberer IPA Flight 318,Recipe,,Tabberer IPA
+785,Belgian Dubbel 319,Recipe,,Belgian
+786,WLP080 Wheat Ale 32 09 Marks 24 HL,Beer,WLP080,Wheat Ale
+787,WLP300 Wheat Ale 32 10 Marks 24 HL,Beer,WLP300,Wheat Ale
+788,WLP320 Wheat Ale 32 11 Marks 24 HL,Beer,WLP320,Wheat Ale
+789,WLP351 Wheat Ale 32 12 Marks 24 HL,Beer,WLP351,Wheat Ale
+790,Pasteur Porter 320,Recipe,,Pasteur
+791,WLP320 Hefeweizen 320 BS,Beer,WLP320,Hefeweizen
+792,Hansen Hefeweizen 321,Recipe,,Hansen
+793,Tabberer IPA Flight 322,Recipe,,Tabberer IPA
+794,Buchner Pale 325,Recipe,,Buchner
+795,WLP001 English Style IPA 325 BS,Beer,WLP001,English Style IPA
+796,Leeuwenhoek Saison 326,Recipe,,Leeuwenhoek
+797,Hansen Hefeweizen 327,Recipe,,Hansen
+798,Belgian Dubbel 329,Recipe,,Belgian
+799,WLP013 English Mild 33 01 Marks 24 HL,Beer,WLP013,English Mild
+800,WLP023 English Mild 33 02 Marks 24 HL,Beer,WLP023,English Mild
+801,HG Lager WL 330,Recipe,,HG Lager
+802,Buchner Pale 334,Recipe,,Buchner
+803,Leeuwenhoek Saison 337,Recipe,,Leeuwenhoek
+804,Hansen Hefeweizen Wit 338,Recipe,,Hansen Hefeweizen
+805,Tabberer IPA Flight 339,Recipe,,Tabberer IPA
+806,WLP008 American IPA 34 14 Marks 24 HL,Beer,WLP008,American IPA
+807,WLP041 American IPA 34 15 Marks 24 HL,Beer,WLP041,American IPA
+808,WLP515 American IPA 34 16 Marks 24 HL,Beer,WLP515,American IPA
+809,Belgian Dubbel 340,Recipe,,Belgian
+810,Pasteur Porter 341,Recipe,,Pasteur
+811,Buchner Pale 342,Recipe,,Buchner
+812,Leeuwenhoek Saison 343,Recipe,,Leeuwenhoek
+813,Gose Del Mar 346,Recipe,,Gose Del
+814,DeClerck Dubbel WL 347,Recipe,,DeClerck Dubbel
+815,Frankenstout WL 348,Recipe,,Frankenstout
+816,Pasteur Porter WL 349,Recipe,,Pasteur Porter
+817,WLP007 Double IPA 35 01 Marks 24 HL,Beer,WLP007,Double IPA
+818,WLP028 Double IPA 35 02 Marks 24 HL,Beer,WLP028,Double IPA
+819,WLP090 Double IPA 35 03 Marks 24 HL,Beer,WLP090,Double IPA
+820,WLP545 Double IPA 35 04 Marks 24 HL,Beer,WLP545,Double IPA
+821,WLP351 Hefeweizen 351 BS,Beer,WLP351,Hefeweizen
+822,Peanut Butter Porter 352,Recipe,,Peanut Butter
+823,Buchner Pale 354,Recipe,,Buchner
+824,DeClerck Dubbel WL 357,Recipe,,DeClerck Dubbel
+825,Pasteur Porter WL 358,Recipe,,Pasteur Porter
+826,Tabberer IPA Flight 359,Recipe,,Tabberer IPA
+827,WLP564 Saison 36 05 Marks 24 HL,Beer,WLP564,Saison
+828,WLP565 Saison 36 06 Marks 24 HL,Beer,WLP565,Saison
+829,WLP568 Saison 36 07 Marks 24 HL,Beer,WLP568,Saison
+830,WLP590 Saison 36 08 Marks 24 HL,Beer,WLP590,Saison
+831,Leeuwenhoek Saison WL 360,Recipe,,Leeuwenhoek Saison
+832,Buchner Pale 361,Recipe,,Buchner
+833,Hansen Hefeweizen Wit 362,Recipe,,Hansen Hefeweizen
+834,Tabberer IPA Flight 363,Recipe,,Tabberer IPA
+835,DeClerck Dubbel WL 364,Recipe,,DeClerck Dubbel
+836,DeClerck Dubbel 364,Recipe,,DeClerck
+837,Hansen Hefeweizen Wit 365,Recipe,,Hansen Hefeweizen
+838,Leeuwenhoek Saison WL 366,Recipe,,Leeuwenhoek Saison
+839,Buchner Pale 367,Recipe,,Buchner
+840,Roggenbier WL 368,Recipe,,Roggenbier
+841,Tabberer IPA WL 368,Recipe,,Tabberer IPA
+842,Tabberer IPA Flight 368,Recipe,,Tabberer IPA
+843,Roggenbier WL 369,Recipe,,Roggenbier
+844,Frankenstout WL 369,Recipe,,Frankenstout
+845,WLP003 RauchBier 37 11 Marks 24 HL,Beer,WLP003,RauchBier
+846,WLP833 RauchBier 37 12 Marks 24 HL,Beer,WLP833,RauchBier
+847,Tabberer IPA WL 370,Recipe,,Tabberer IPA
+848,Hansen Hefeweizen Wit 371,Recipe,,Hansen Hefeweizen
+849,Leeuwenhoek Saison WL 372,Recipe,,Leeuwenhoek Saison
+850,Oak Smoked Stout 373,Recipe,,Oak Smoked
+851,Pasteur Porter WL 374,Recipe,,Pasteur Porter
+852,Tabberer IPA WL 375,Recipe,,Tabberer IPA
+853,Buchner Pale 376,Recipe,,Buchner
+854,DeClerck Dubbel 377,Recipe,,DeClerck
+855,WLP004 Milk Stout 38 13 Marks 24 HL,Beer,WLP004,Milk Stout
+856,WLP051 Milk Stout 38 14 Marks 24 HL,Beer,WLP051,Milk Stout
+857,Experimental IPA 380,Recipe,,Experimental
+858,WLP001 American IPA 380 BS,Beer,WLP001,American IPA
+859,Tabberer IPA 381,Recipe,,Tabberer
+860,Pasteur Porter 382,Recipe,,Pasteur
+861,Buchner Pale 383,Recipe,,Buchner
+862,Hansen Hefeweizen Wit 384,Recipe,,Hansen Hefeweizen
+863,Leeuwenhoek Saison 385,Recipe,,Leeuwenhoek
+864,The Red Wyatt Ale 386,Recipe,,The Red Wyatt
+865,Buchner Pale 389,Recipe,,Buchner
+866,BLEND Imperial Stout 39 15 Marks 24 HL,Beer,BLEND,Imperial Stout
+867,BLEND Imperial Stout 39 16 Marks 24 HL,Beer,BLEND,Imperial Stout
+868,Tabberer IPA 390,Recipe,,Tabberer
+869,Pasteur Porter 391,Recipe,,Pasteur
+870,Leeuwenhoek Saison 392,Recipe,,Leeuwenhoek
+871,Oatmeal Milk Stout 393,Recipe,,Oatmeal Milk
+872,Hansen Hefeweizen Wit 394,Recipe,,Hansen Hefeweizen
+873,Hansen Hefeweizen Wit 397,Recipe,,Hansen Hefeweizen
+874,Pasteur Brown Porter 398,Recipe,,Pasteur Brown
+875,Leeuwenhoek Saison 399,Recipe,,Leeuwenhoek
+876,WLP001 American IPA 40 01 Marks 24 HL,Beer,WLP001,American IPA
+877,WLP008 American IPA 40 02 Marks 24 HL,Beer,WLP008,American IPA
+878,WLP4000 American IPA 40 03 Marks 24 HL,Beer,WLP4000,American IPA
+879,WLP644 American IPA 40 04 Marks 24 HL,Beer,WLP644,American IPA
+880,Black IPA 400,Recipe,,Black
+881,WLP400 Hefeweizen 400 BS,Beer,WLP400,Hefeweizen
+882,Hansen Hefeweizen Wit 402,Recipe,,Hansen Hefeweizen
+883,Leeuwenhoek Saison 403,Recipe,,Leeuwenhoek
+884,SD Double IPA 404,Recipe,,SD Double
+885,Oatmeal Milk Stout 405,Recipe,,Oatmeal Milk
+886,Pasteur Brown Porter 406,Recipe,,Pasteur Brown
+887,Hansen Hefeweizen Wit 408,Recipe,,Hansen Hefeweizen
+888,WLP004 Porter 41 05 Marks 24 HL,Beer,WLP004,Porter
+889,WLP022 Porter 41 06 Marks 24 HL,Beer,WLP022,Porter
+890,WLP037 Porter 41 07 Marks 24 HL,Beer,WLP037,Porter
+891,WLP072 Porter 41 08 Marks 24 HL,Beer,WLP072,Porter
+892,Oatmeal Milk Stout 410,Recipe,,Oatmeal Milk
+893,WLP410 Hefeweizen 410 BS,Beer,WLP410,Hefeweizen
+894,Hansen Hefeweizen Wit 412,Recipe,,Hansen Hefeweizen
+895,Pasteur Brown Porter 413,Recipe,,Pasteur Brown
+896,Leeuwenhoek Saison 414,Recipe,,Leeuwenhoek
+897,Oatmeal Milk Stout 415,Recipe,,Oatmeal Milk
+898,Hansen Hefeweizen Wit 417,Recipe,,Hansen Hefeweizen
+899,FrankenStout Gen0 WL 419,Recipe,,FrankenStout Gen0
+900,WLP051 Cream Ale 42 13 Marks 24 HL,Beer,WLP051,Cream Ale
+901,WLP810 Cream Ale 42 14 Marks 24 HL,Beer,WLP810,Cream Ale
+902,Up In Smoke Rauch 420,Recipe,,Up In Smoke
+903,Oatmeal Milk Stout 422,Recipe,,Oatmeal Milk
+904,Leeuwenhoek Saison 423,Recipe,,Leeuwenhoek
+905,Hansen Hefeweizen Wit 424,Recipe,,Hansen Hefeweizen
+906,Oatmeal Milk Stout 426,Recipe,,Oatmeal Milk
+907,Pasteur Brown Porter 427,Recipe,,Pasteur Brown
+908,Leeuwenhoek Saison 429,Recipe,,Leeuwenhoek
+909,WLP011 Wheat Ale 43 09 Marks 24 HL,Beer,WLP011,Wheat Ale
+910,WLP300 Wheat Ale 43 10 Marks 24 HL,Beer,WLP300,Wheat Ale
+911,WLP320 Wheat Ale 43 11 Marks 24 HL,Beer,WLP320,Wheat Ale
+912,WLP380 Wheat Ale 43 12 Marks 24 HL,Beer,WLP380,Wheat Ale
+913,Hansen Hefeweizen Wit 430,Recipe,,Hansen Hefeweizen
+914,American Pale Ale 433,Recipe,,American Pale
+915,Pasteur Brown Porter 434,Recipe,,Pasteur Brown
+916,Oatmeal Milk Stout 435,Recipe,,Oatmeal Milk
+917,Leeuwenhoek Saison 436,Recipe,,Leeuwenhoek
+918,Hansen Hefeweizen Wit 438,Recipe,,Hansen Hefeweizen
+919,San Diego IPA 439,Recipe,,San Diego
+920,WLP090 American IPA 439 BS,Beer,WLP090,American IPA
+921,FrankenStout Gen1 440,Recipe,,FrankenStout
+922,BLEND Frankenstout 440 BS,Beer,BLEND,Frankenstout
+923,Leeuwenhoek Saison 441,Recipe,,Leeuwenhoek
+924,Belgian Dubbel V2 442,Recipe,,Belgian Dubbel
+925,Leeuwenhoek Saison 444,Recipe,,Leeuwenhoek
+926,Hansen Hefeweizen Wit 445,Recipe,,Hansen Hefeweizen
+927,Pasteur Brown Porter 446,Recipe,,Pasteur Brown
+928,Oatmeal Milk Stout 447,Recipe,,Oatmeal Milk
+929,WLP001 American IPA 45 05 Marks 24 HL,Beer,WLP001,American IPA
+930,WLP008 American IPA 45 06 Marks 24 HL,Beer,WLP008,American IPA
+931,WLP090 American IPA 45 07 Marks 24 HL,Beer,WLP090,American IPA
+932,WLP575 American IPA 45 08 Marks 24 HL,Beer,WLP575,American IPA
+933,Leeuwenhoek Saison 450,Recipe,,Leeuwenhoek
+934,Red Ale V2 451,Recipe,,Red Ale
+935,FrankenStout Gen2 452,Recipe,,FrankenStout
+936,Oatmeal Milk Stout 456,Recipe,,Oatmeal Milk
+937,Pasteur Brown Porter 457,Recipe,,Pasteur Brown
+938,Leeuwenhoek Saison 458,Recipe,,Leeuwenhoek
+939,WLP001 American Pale Ale 46 09 Marks 24 HL,Beer,WLP001,American Pale Ale
+940,WLP007 American Pale Ale 46 10 Marks 24 HL,Beer,WLP007,American Pale Ale
+941,Hansen Hefeweizen Wit 461,Recipe,,Hansen Hefeweizen
+942,Oatmeal Milk Stout 463,Recipe,,Oatmeal Milk
+943,FrankenStout Gen3 464,Recipe,,FrankenStout
+944,BLEND Frankenstout 464 BS,Beer,BLEND,Frankenstout
+945,Pasteur Porter 469,Recipe,,Pasteur
+946,WLP500 Dubbel 47 13 Marks 24 HL,Beer,WLP500,Dubbel
+947,WLP550 Dubbel 47 14 Marks 24 HL,Beer,WLP550,Dubbel
+948,Pasteur Porter 474,Recipe,,Pasteur
+949,Belgian Dark Strong 475,Recipe,,Belgian Dark
+950,Brown Ale 476,Recipe,,Brown
+951,FrankenStout Gen4 477,Recipe,,FrankenStout
+952,BLEND Frankenstout 477 BS,Beer,BLEND,Frankenstout
+953,WLP001 Stout 48 11 Marks 24 HL,Beer,WLP001,Stout
+954,WLP013 Stout 48 12 Marks 24 HL,Beer,WLP013,Stout
+955,BLEND American IPA 480 BS,Beer,BLEND,American IPA
+956,Pasteur Porter 483,Recipe,,Pasteur
+957,WLP585 Saison 49 09 Marks 24 HL,Beer,WLP585,Saison
+958,WLP590 Saison 49 10 Marks 24 HL,Beer,WLP590,Saison
+959,WLP001 American IPA 50 01 Marks 24 HL,Beer,WLP001,American IPA
+960,WLP008 American IPA 50 02 Marks 24 HL,Beer,WLP008,American IPA
+961,WLP041 American IPA 50 03 Marks 24 HL,Beer,WLP041,American IPA
+962,WLP515 American IPA 50 04 Marks 24 HL,Beer,WLP515,American IPA
+963,WLP830 Pilsner 51 11 Marks 24 HL,Beer,WLP830,Pilsner
+964,WLP940 Pilsner 51 12 Marks 24 HL,Beer,WLP940,Pilsner
+965,WLP802 Lager 52 13 Marks 24 HL,Beer,WLP802,Lager
+966,WLP860 Lager 52 14 Marks 24 HL,Beer,WLP860,Lager
+967,WLP001 American Pale Ale 53 15 Marks 24 HL,Beer,WLP001,American Pale Ale
+968,WLP028 American Pale Ale 53 16 Marks 24 HL,Beer,WLP028,American Pale Ale
+969,WLP023 Am. Amber 55 07 Marks 24 HL,Beer,WLP023,Am. Amber
+970,WLP029 Am. Amber 55 08 Marks 24 HL,Beer,WLP029,Am. Amber
+971,WLP001 American IPA 56 01 Marks 24 HL,Beer,WLP001,American IPA
+972,WLP008 American IPA 56 02 Marks 24 HL,Beer,WLP008,American IPA
+973,WLP009 American IPA 56 03 Marks 24 HL,Beer,WLP009,American IPA
+974,WLP515 American IPA 56 04 Marks 24 HL,Beer,WLP515,American IPA
+975,RIPA V2 562,Recipe,,RIPA
+976,WLP017 American Pale Ale 57 07 Marks 24 HL,Beer,WLP017,American Pale Ale
+977,WLP510 American Pale Ale 57 08 Marks 24 HL,Beer,WLP510,American Pale Ale
+978,WLP080 Wheat Ale 58 13 Marks 24 HL,Beer,WLP080,Wheat Ale
+979,WLP300 Wheat Ale 58 14 Marks 24 HL,Beer,WLP300,Wheat Ale
+980,WLP320 Wheat Ale 58 15 Marks 24 HL,Beer,WLP320,Wheat Ale
+981,WLP351 Wheat Ale 58 16 Marks 24 HL,Beer,WLP351,Wheat Ale
+982,WLP023 American IPA 59 09 Marks 24 HL,Beer,WLP023,American IPA
+983,WLP090 American IPA 59 10 Marks 24 HL,Beer,WLP090,American IPA
+984,WLP351 American IPA 59 11 Marks 24 HL,Beer,WLP351,American IPA
+985,WLP862 American IPA 59 12 Marks 24 HL,Beer,WLP862,American IPA
+986,WLP001 American IPA 60 13 Marks 24 HL,Beer,WLP001,American IPA
+987,WLP001 American IPA 60 14 Marks 24 HL,Beer,WLP001,American IPA
+988,WLP565 Saison 61 01 Marks 24 HL,Beer,WLP565,Saison
+989,WLP590 Saison 61 02 Marks 24 HL,Beer,WLP590,Saison
+990,WLP029 Dusseldorf Alt 62 15 Marks 24 HL,Beer,WLP029,Dusseldorf Alt
+991,WLP036 Dusseldorf Alt 62 16 Marks 24 HL,Beer,WLP036,Dusseldorf Alt
+992,BLEND Imperial Stout 64 07 Marks 24 HL,Beer,BLEND,Imperial Stout
+993,BLEND Imperial Stout 64 08 Marks 24 HL,Beer,BLEND,Imperial Stout
+994,WLP400 Witbier 65 03 Marks 24 HL,Beer,WLP400,Witbier
+995,WLP410 Witbier 65 04 Marks 24 HL,Beer,WLP410,Witbier
+996,WLP029 American Blonde Ale 66 13 Marks 24 HL,Beer,WLP029,American Blonde Ale
+997,WLP051 American Blonde Ale 66 14 Marks 24 HL,Beer,WLP051,American Blonde Ale
+998,WLP004 Porter 67 01 Marks 24 HL,Beer,WLP004,Porter
+999,WLP006 Porter 67 02 Marks 24 HL,Beer,WLP006,Porter
+1000,WLP059 Porter 67 03 Marks 24 HL,Beer,WLP059,Porter
+1001,WLP810 Porter 67 04 Marks 24 HL,Beer,WLP810,Porter
+1002,BLEND American IPA 68 05 Marks 24 HL,Beer,BLEND,American IPA
+1003,BLEND American IPA 68 06 Marks 24 HL,Beer,BLEND,American IPA
+1004,WLP001 American IPA 69 13 Marks 24 HL,Beer,WLP001,American IPA
+1005,WLP008 American IPA 69 14 Marks 24 HL,Beer,WLP008,American IPA
+1006,WLP095 American IPA 69 15 Marks 24 HL,Beer,WLP095,American IPA
+1007,WLP545 American IPA 69 16 Marks 24 HL,Beer,WLP545,American IPA
+1008,WLP830 Dark Lager 70 07 Marks 24 HL,Beer,WLP830,Dark Lager
+1009,WLP845 Dark Lager 70 08 Marks 24 HL,Beer,WLP845,Dark Lager
+1010,WLP041 American IPA 71 02 Marks 24 HL,Beer,WLP041,American IPA
+1011,WLP515 American IPA 71 04 Marks 24 HL,Beer,WLP515,American IPA
+1012,WLP013 Black IPA 72 11 Marks 24 HL,Beer,WLP013,Black IPA
+1013,WLP862 Black IPA 72 12 Marks 24 HL,Beer,WLP862,Black IPA
+1014,WLP515 Belgian Blonde 73 09 Marks 24 HL,Beer,WLP515,Belgian Blonde
+1015,WLP530 Belgian Blonde 73 10 Marks 24 HL,Beer,WLP530,Belgian Blonde
+1016,WLP060 Wheat Ale 74 13 Marks 24 HL,Beer,WLP060,Wheat Ale
+1017,WLP300 Wheat Ale 74 14 Marks 24 HL,Beer,WLP300,Wheat Ale
+1018,WLP320 Wheat Ale 74 15 Marks 24 HL,Beer,WLP320,Wheat Ale
+1019,WLP380 Wheat Ale 74 16 Marks 24 HL,Beer,WLP380,Wheat Ale
+1020,WLP001 American IPA 75 01 Marks 24 HL,Beer,WLP001,American IPA
+1021,WLP008 American IPA 75 02 Marks 24 HL,Beer,WLP008,American IPA
+1022,WLP066 American IPA 75 03 Marks 24 HL,Beer,WLP066,American IPA
+1023,WLP862 American IPA 75 04 Marks 24 HL,Beer,WLP862,American IPA
+1024,WLP029 Other 76 05 Marks 24 HL,Beer,WLP029,Other
+1025,WLP036 Other 76 06 Marks 24 HL,Beer,WLP036,Other
+1026,WLP820 Lager 77 07 Marks 24 HL,Beer,WLP820,Lager
+1027,WLP833 Lager 77 08 Marks 24 HL,Beer,WLP833,Lager
+1028,WLP007 Cascadian Dark Ale 78 09 NA,Beer,WLP007,Cascadian Dark Ale
+1029,WLP041 Cascadian Dark Ale 78 10 NA,Beer,WLP041,Cascadian Dark Ale
+1030,WLP800 Dark Lager 79 11 NA,Beer,WLP800,Dark Lager
+1031,WLP840 Dark Lager 79 12 NA,Beer,WLP840,Dark Lager
+1032,WLP023 American IPA 80 15 Marks 24 HL,Beer,WLP023,American IPA
+1033,WLP090 American IPA 80 16 Marks 24 HL,Beer,WLP090,American IPA
+1034,WLP001 Barleywine 81 02 NA,Beer,WLP001,Barleywine
+1035,WLP005 Barleywine 81 03 NA,Beer,WLP005,Barleywine
+1036,WLP025 Red IPA 82 05 NA,Beer,WLP025,Red IPA
+1037,WLP076 Red IPA 82 06 NA,Beer,WLP076,Red IPA
+1038,WLP076 American Pale Ale 83 13 NA,Beer,WLP076,American Pale Ale
+1039,WLP076 American Pale Ale 83 14 NA,Beer,WLP076,American Pale Ale
+1040,WLP001 American IPA 84 09 NA,Beer,WLP001,American IPA
+1041,WLP008 American IPA 84 10 NA,Beer,WLP008,American IPA
+1042,WLP066 American IPA 84 11 NA,Beer,WLP066,American IPA
+1043,WLP515 American IPA 84 12 NA,Beer,WLP515,American IPA
+1044,WLP565 Saison 85 05 NA,Beer,WLP565,Saison
+1045,WLP590 Saison 85 06 NA,Beer,WLP590,Saison
+1046,WLP060 Wheat Ale 87 05 NA,Beer,WLP060,Wheat Ale
+1047,WLP300 Wheat Ale 87 06 NA,Beer,WLP300,Wheat Ale
+1048,WLP320 Wheat Ale 87 07 NA,Beer,WLP320,Wheat Ale
+1049,WLP380 Wheat Ale 87 08 NA,Beer,WLP380,Wheat Ale
+1050,WLP001 American IPA 89 09 NA,Beer,WLP001,American IPA
+1051,WLP008 American IPA 89 10 NA,Beer,WLP008,American IPA
+1052,WLP011 American IPA 89 11 NA,Beer,WLP011,American IPA
+1053,WLP073 Belgian Ale 90 13 NA,Beer,WLP073,Belgian Ale
+1054,WLP510 Belgian Ale 90 14 NA,Beer,WLP510,Belgian Ale
+1055,WLP515 Belgian Ale 90 15 NA,Beer,WLP515,Belgian Ale
+1056,WLP590 Belgian Ale 90 16 NA,Beer,WLP590,Belgian Ale
+1057,WLP004 Porter 91 05 NA,Beer,WLP004,Porter
+1058,WLP007 Porter 91 06 NA,Beer,WLP007,Porter
+1059,WLP028 Porter 91 07 NA,Beer,WLP028,Porter
+1060,WLP029 Porter 91 08 NA,Beer,WLP029,Porter
+1061,WLP001 American Pale Ale 92 01 NA,Beer,WLP001,American Pale Ale
+1062,WLP051 American Pale Ale 92 02 NA,Beer,WLP051,American Pale Ale
+1063,WLP500 Quadrupel 93 03 NA,Beer,WLP500,Quadrupel
+1064,WLP530 Quadrupel 93 04 NA,Beer,WLP530,Quadrupel
+1065,WLP005 Stout 94 15 NA,Beer,WLP005,Stout
+1066,WLP013 Stout 94 16 NA,Beer,WLP013,Stout
+1067,WLP860 Helles 95 13 NA,Beer,WLP860,Helles
+1068,WLP940 Helles 95 14 NA,Beer,WLP940,Helles
+1069,WLP090 American IPA 96 07 NA,Beer,WLP090,American IPA
+1070,WLP041 American IPA 96 08 NA,Beer,WLP041,American IPA
+1071,WLP013 ESB-Best Bitters 98 01 NA,Beer,WLP013,ESB-Best Bitters
+1072,WLP085 ESB-Best Bitters 98 02 NA,Beer,WLP085,ESB-Best Bitters
+1073,WLP815 Pilsner 99 04 NA,Beer,WLP815,Pilsner
+1074,IBU Case Study 1.docx,Recipe,,IBU Case
+1075,WLP565 Saison 101 15 NA,Beer,WLP565,Saison
+1076,WLP568 Saison 101 16 NA,Beer,WLP568,Saison
+1077,WLP001 American IPA 102 05 NA,Beer,WLP001,American IPA
+1078,WLP008 American IPA 102 06 NA,Beer,WLP008,American IPA
+1079,WLP066 American IPA 102 07 NA,Beer,WLP066,American IPA
+1080,WLP644 American IPA 102 08 NA,Beer,WLP644,American IPA
+1081,WLP060 Wheat Ale 103 09 NA,Beer,WLP060,Wheat Ale
+1082,WLP300 Wheat Ale 103 10 NA,Beer,WLP300,Wheat Ale
+1083,WLP320 Wheat Ale 103 11 NA,Beer,WLP320,Wheat Ale
+1084,WLP380 Wheat Ale 103 12 NA,Beer,WLP380,Wheat Ale
+1085,WLP001 American IPA 104 01 NA,Beer,WLP001,American IPA
+1086,WLP590 American IPA 104 02 NA,Beer,WLP590,American IPA
+1087,WLP001 American Pale Ale 105 13 NA,Beer,WLP001,American Pale Ale
+1088,WLP051 American Pale Ale 105 14 NA,Beer,WLP051,American Pale Ale
+1089,WLP008 American IPA 107 03 NA,Beer,WLP008,American IPA
+1090,WLP067 American IPA 107 04 NA,Beer,WLP067,American IPA
+1091,WLP001 American IPA 108 05 NA,Beer,WLP001,American IPA
+1092,WLP008 American IPA 108 06 NA,Beer,WLP008,American IPA
+1093,WLP090 American IPA 108 07 NA,Beer,WLP090,American IPA
+1094,WLP515 American IPA 108 08 NA,Beer,WLP515,American IPA
+1095,WLP840 Lager 109 01 NA,Beer,WLP840,Lager
+1096,WLP940 Lager 109 02 NA,Beer,WLP940,Lager
+1097,WLP041 American Blonde Ale 110 13 NA,Beer,WLP041,American Blonde Ale
+1098,WLP080 American Blonde Ale 110 14 NA,Beer,WLP080,American Blonde Ale
+1099,WLP500 Tripel 111 03 NA,Beer,WLP500,Tripel
+1100,WLP570 Tripel 111 04 NA,Beer,WLP570,Tripel
+1101,WLP830 Pilsner 112 15 NA,Beer,WLP830,Pilsner
+1102,WLP840 Pilsner 112 16 NA,Beer,WLP840,Pilsner
+1103,WLP001 American IPA 113 05 NA,Beer,WLP001,American IPA
+1104,WLP008 American IPA 113 06 NA,Beer,WLP008,American IPA
+1105,WLP090 American IPA 113 07 NA,Beer,WLP090,American IPA
+1106,WLP095 American IPA 113 08 NA,Beer,WLP095,American IPA
+1107,WLP008 American IPA 115 12 NA,Beer,WLP008,American IPA
+1108,WLP008 American IPA 116 14 NA,Beer,WLP008,American IPA
+1109,WLP830 Pilsner 117 06 NA,Beer,WLP830,Pilsner
+1110,WLP004 Porter 119 01 NA,Beer,WLP004,Porter
+1111,WLP007 Porter 119 02 NA,Beer,WLP007,Porter
+1112,WLP060 Porter 119 03 NA,Beer,WLP060,Porter
+1113,WLP810 Porter 119 04 NA,Beer,WLP810,Porter
+1114,WLP300 Wheat Ale 120 09 NA,Beer,WLP300,Wheat Ale
+1115,WLP351 Wheat Ale 120 10 NA,Beer,WLP351,Wheat Ale
+1116,WLP380 Wheat Ale 120 11 NA,Beer,WLP380,Wheat Ale
+1117,WLP410 Wheat Ale 120 12 NA,Beer,WLP410,Wheat Ale
+1118,WLP008 American IPA 121 14 NA,Beer,WLP008,American IPA
+1119,WLP041 American IPA 121 15 NA,Beer,WLP041,American IPA
+1120,WLP095 American IPA 121 16 NA,Beer,WLP095,American IPA
+1121,WLP041 American Red 122 10 NA,Beer,WLP041,American Red
+1122,WLP041 Am. Red 122 10 NA,Beer,WLP041,Am. Red
+1123,WLP565 Saison 123 11 NA,Beer,WLP565,Saison
+1124,BLEND Saison 123 12 NA,Beer,BLEND,Saison
+1125,WLP001 Double IPA 124 01 NA,Beer,WLP001,Double IPA
+1126,WLP095 Double IPA 124 02 NA,Beer,WLP095,Double IPA
+1127,WLP001 American Pale Ale 125 03 NA,Beer,WLP001,American Pale Ale
+1128,WLP001 American Pale Ale 125 04 NA,Beer,WLP001,American Pale Ale
+1129,WLP029 Bavarian Dark Lager 126 05 NA,Beer,WLP029,Bavarian Dark Lager
+1130,WLP830 Bavarian Dark Lager 126 06 NA,Beer,WLP830,Bavarian Dark Lager
+1131,WLP001 Stout 127 07 NA,Beer,WLP001,Stout
+1132,WLP013 Stout 127 08 NA,Beer,WLP013,Stout
+1133,WLP009 Wheat Ale 128 15 NA,Beer,WLP009,Wheat Ale
+1134,WLP051 Wheat Ale 128 16 NA,Beer,WLP051,Wheat Ale
+1135,WLP001 American IPA 129 01 NA,Beer,WLP001,American IPA
+1136,WLP090 American IPA 129 02 NA,Beer,WLP090,American IPA
+1137,WLP001 American Lager 130 09 NA,Beer,WLP001,American Lager
+1138,WLP008 American Lager 130 10 NA,Beer,WLP008,American Lager
+1139,WLP066 American IPA 132 03 NA,Beer,WLP066,American IPA
+1140,WLP067 American IPA 132 04 NA,Beer,WLP067,American IPA
+1141,WLP300 Wheat Ale 133 13 NA,Beer,WLP300,Wheat Ale
+1142,WLP380 Wheat Ale 133 14 NA,Beer,WLP380,Wheat Ale
+1143,WLP802 Pilsner 134 07 NA,Beer,WLP802,Pilsner
+1144,WLP830 Pilsner 134 08 NA,Beer,WLP830,Pilsner
+1145,WLP006 American Brown Ale 135 01 NA,Beer,WLP006,American Brown Ale
+1146,WLP033 American Brown Ale 135 02 NA,Beer,WLP033,American Brown Ale
+1147,WLP004 Porter 136 03 NA,Beer,WLP004,Porter
+1148,WLP810 Porter 136 04 NA,Beer,WLP810,Porter
+1149,WLP001 Other 137 03 NA,Beer,WLP001,Other
+1150,WLP590 Other 137 04 NA,Beer,WLP590,Other
+1151,WLP001 American IPA 138 01 NA,Beer,WLP001,American IPA
+1152,WLP833 Bock 139 05 NA,Beer,WLP833,Bock
+1153,WLP920 Bock 139 06 NA,Beer,WLP920,Bock
+1154,WLP003 Altbier 140 07 NA,Beer,WLP003,Altbier
+1155,WLP036 Altbier 140 08 NA,Beer,WLP036,Altbier
+1156,WLP008 Hazy-Juicy IPA 141 09 NA,Beer,WLP008,Hazy-Juicy IPA
+1157,WLP066 Hazy-Juicy IPA 141 10 NA,Beer,WLP066,Hazy-Juicy IPA
+1158,WLP023 Rye Beer 142 11 NA,Beer,WLP023,Rye Beer
+1159,WLP090 Rye Beer 142 12 NA,Beer,WLP090,Rye Beer
+1160,WLP001 Other 143 03 NA,Beer,WLP001,Other
+1161,WLP008 Other 143 04 NA,Beer,WLP008,Other
+1162,WLP300 Wheat Ale 144 11 NA,Beer,WLP300,Wheat Ale
+1163,WLP380 Wheat Ale 144 12 NA,Beer,WLP380,Wheat Ale
+1164,WLP001 American IPA 145 15 NA,Beer,WLP001,American IPA
+1165,WLP090 American IPA 145 16 NA,Beer,WLP090,American IPA
+1166,WLP830 California Common 150 10 BS,Beer,WLP830,California Common
+1167,WLP001 California Common 150 11 BS,Beer,WLP001,California Common
+1168,WLP830 California Common 150 12 BS,Beer,WLP830,California Common
+1169,WLP051 California Common 150 13 BS,Beer,WLP051,California Common
+1170,WLP051 California Common 150 14 BS,Beer,WLP051,California Common
+1171,WLP001 American IPA 152 10 BS,Beer,WLP001,American IPA
+1172,WLP550 Stout 153 10 BS,Beer,WLP550,Stout
+1173,WLP037 Stout 153 11 BS,Beer,WLP037,Stout
+1174,WLP004 Stout 153 12 BS,Beer,WLP004,Stout
+1175,WLP001 Am. Amber 154 01 BS,Beer,WLP001,Am. Amber
+1176,WLP013 Am. Amber 154 02 BS,Beer,WLP013,Am. Amber
+1177,WLP007 Am. Amber 154 03 BS,Beer,WLP007,Am. Amber
+1178,WLP090 Am. Amber 154 04 BS,Beer,WLP090,Am. Amber
+1179,WLP041 Am. Amber 154 05 BS,Beer,WLP041,Am. Amber
+1180,WLP060 Am. Amber 154 06 BS,Beer,WLP060,Am. Amber
+1181,WLP008 Am. Amber 154 07 BS,Beer,WLP008,Am. Amber
+1182,WLP051 Am. Amber 154 08 BS,Beer,WLP051,Am. Amber
+1183,WLP004 Am. Amber 154 09 BS,Beer,WLP004,Am. Amber
+1184,WLP004 Am. Amber 154 09 BS,Analysis,WLP004,Am. Amber
+1185,WLP008 Am. Amber 154 10 BS,Beer,WLP008,Am. Amber
+1186,WLP002 Am. Amber 154 11 BS,Beer,WLP002,Am. Amber
+1187,WLP037 Am. Amber 154 12 BS,Beer,WLP037,Am. Amber
+1188,WLP023 Am. Amber 154 13 BS,Beer,WLP023,Am. Amber
+1189,WLP023 Am. Amber 154 13 BS,Analysis,WLP023,Am. Amber
+1190,WLP028 Am. Amber 154 14 BS,Beer,WLP028,Am. Amber
+1191,WLP300 Hefeweizen 155 01 BS,Analysis,WLP300,Hefeweizen
+1192,WLP300 Hefeweizen 155 01 BS,Beer,WLP300,Hefeweizen
+1193,WLP300 Hefeweizen 155 03 BS,Beer,WLP300,Hefeweizen
+1194,WLP300 Hefeweizen 155 05 BS,Analysis,WLP300,Hefeweizen
+1195,WLP300 Hefeweizen 155 05 BS,Beer,WLP300,Hefeweizen
+1196,WLP380 Hefeweizen 155 07 BS,Beer,WLP380,Hefeweizen
+1197,WLP380 Hefeweizen 155 08 BS,Beer,WLP380,Hefeweizen
+1198,WLP300 Hefeweizen 155 09 BS,Beer,WLP300,Hefeweizen
+1199,WLP300 Hefeweizen 155 09 BS,Analysis,WLP300,Hefeweizen
+1200,WLP351 Hefeweizen 155 11 BS,Beer,WLP351,Hefeweizen
+1201,WLP351 Hefeweizen 155 12 BS,Beer,WLP351,Hefeweizen
+1202,WLP028 American IPA 156 01 BS,Beer,WLP028,American IPA
+1203,WLP028 American IPA 156 01 BS,Analysis,WLP028,American IPA
+1204,WLP001 American IPA 156 02 BS,Beer,WLP001,American IPA
+1205,WLP002 American IPA 156 03 BS,Beer,WLP002,American IPA
+1206,WLP008 American IPA 156 04 BS,Beer,WLP008,American IPA
+1207,WLP023 American IPA 156 05 BS,Analysis,WLP023,American IPA
+1208,WLP023 American IPA 156 05 BS,Beer,WLP023,American IPA
+1209,WLP051 American IPA 156 06 BS,Beer,WLP051,American IPA
+1210,WLP090 American IPA 156 07 BS,Beer,WLP090,American IPA
+1211,WLP001 American Pale Ale 157 01 BS,Beer,WLP001,American Pale Ale
+1212,WLP005 American Pale Ale 157 02 BS,Beer,WLP005,American Pale Ale
+1213,WLP566 Saison 160 01 BS,Beer,WLP566,Saison
+1214,WLP815 Saison 160 03 BS,Beer,WLP815,Saison
+1215,WLP380 Saison 160 04 BS,Beer,WLP380,Saison
+1216,WLP510 Belgian Ale 161 01 BS,Beer,WLP510,Belgian Ale
+1217,WLP545 Belgian Ale 161 02 BS,Beer,WLP545,Belgian Ale
+1218,WLP500 Belgian Ale 161 03 BS,Beer,WLP500,Belgian Ale
+1219,WLP001 Belgian Ale 161 04 BS,Beer,WLP001,Belgian Ale
+1220,WLP510 Belgian Ale 161 05 BS,Beer,WLP510,Belgian Ale
+1221,WLP545 Belgian Ale 161 06 BS,Beer,WLP545,Belgian Ale
+1222,WLP500 Belgian Ale 161 07 BS,Beer,WLP500,Belgian Ale
+1223,WLP001 Belgian Ale 161 08 BS,Beer,WLP001,Belgian Ale
+1224,WLP500 Belgian Ale 161 09 BS,Beer,WLP500,Belgian Ale
+1225,WLP545 Belgian Ale 161 10 BS,Beer,WLP545,Belgian Ale
+1226,WLP007 Porter 162 01 BS,Beer,WLP007,Porter
+1227,WLP004 Porter 162 02 BS,Beer,WLP004,Porter
+1228,WLP011 Porter 162 03 BS,Beer,WLP011,Porter
+1229,WLP001 Porter 162 04 BS,Beer,WLP001,Porter
+1230,WLP400 Hefeweizen 162 07 BS,Beer,WLP400,Hefeweizen
+1231,WLP300 Hefeweizen 163 01 BS,Beer,WLP300,Hefeweizen
+1232,WLP320 Hefeweizen 163 02 BS,Beer,WLP320,Hefeweizen
+1233,WLP380 Hefeweizen 163 03 BS,Beer,WLP380,Hefeweizen
+1234,WLP380 Hefeweizen 163 04 BS,Beer,WLP380,Hefeweizen
+1235,WLP380 Hefeweizen 163 05 BS,Beer,WLP380,Hefeweizen
+1236,WLP400 Hefeweizen 163 07 BS,Beer,WLP400,Hefeweizen
+1237,WLP004 Am. Red 165 01 BS,Beer,WLP004,Am. Red
+1238,WLP009 Rye Beer 165 01 BS,Beer,WLP009,Rye Beer
+1239,0 Am. Red 165 04 BS,Beer,,Am. Red
+1240,0 Am. Red 165 05 BS,Beer,,Am. Red
+1241,0 Am. Red 165 06 BS,Beer,,Am. Red
+1242,WLP028 Rye Beer 165 06 BS,Beer,WLP028,Rye Beer
+1243,WLP060 Rye Beer 165 07 BS,Beer,WLP060,Rye Beer
+1244,WLP036 Dusseldorf Alt 166 01 BS,Beer,WLP036,Dusseldorf Alt
+1245,WLP564 Saison 166 01 BS,Beer,WLP564,Saison
+1246,WLP011 Dusseldorf Alt 166 02 BS,Beer,WLP011,Dusseldorf Alt
+1247,WLP027 Dusseldorf Alt 166 03 BS,Beer,WLP027,Dusseldorf Alt
+1248,WLP568 Dusseldorf Alt 166 04 BS,Beer,WLP568,Dusseldorf Alt
+1249,WLP004 American IPA 167 01 BS,Beer,WLP004,American IPA
+1250,WLP005 American IPA 167 02 BS,Beer,WLP005,American IPA
+1251,WLP006 American IPA 167 03 BS,Beer,WLP006,American IPA
+1252,BLEND American IPA 167 04 BS,Beer,BLEND,American IPA
+1253,BLEND American IPA 167 05 BS,Beer,BLEND,American IPA
+1254,BLEND American IPA 167 06 BS,Beer,BLEND,American IPA
+1255,WLP004 American IPA 167 07 BS,Beer,WLP004,American IPA
+1256,WLP005 American IPA 167 08 BS,Beer,WLP005,American IPA
+1257,WLP006 American IPA 167 09 BS,Beer,WLP006,American IPA
+1258,BLEND American IPA 167 10 BS,Beer,BLEND,American IPA
+1259,BLEND American IPA 167 11 BS,Beer,BLEND,American IPA
+1260,BLEND American IPA 167 12 BS,Beer,BLEND,American IPA
+1261,WLP004 American IPA 168 01 BS,Beer,WLP004,American IPA
+1262,WLP036 Other 168 01 BS,Beer,WLP036,Other
+1263,WLP005 American IPA 168 02 BS,Beer,WLP005,American IPA
+1264,WLP011 Other 168 02 BS,Beer,WLP011,Other
+1265,WLP006 American IPA 168 03 BS,Beer,WLP006,American IPA
+1266,WLP027 Other 168 03 BS,Beer,WLP027,Other
+1267,BLEND American IPA 168 04 BS,Beer,BLEND,American IPA
+1268,BLEND American IPA 168 05 BS,Beer,BLEND,American IPA
+1269,BLEND American IPA 168 06 BS,Beer,BLEND,American IPA
+1270,BLEND American IPA 168 07 BS,Beer,BLEND,American IPA
+1271,BLEND American IPA 168 08 BS,Beer,BLEND,American IPA
+1272,BLEND American IPA 168 09 BS,Beer,BLEND,American IPA
+1273,BLEND American IPA 168 10 BS,Beer,BLEND,American IPA
+1274,BLEND American IPA 168 11 BS,Beer,BLEND,American IPA
+1275,BLEND American IPA 168 12 BS,Beer,BLEND,American IPA
+1276,WLP010 Porter 172 01 BS,Beer,WLP010,Porter
+1277,WLP010 Porter 172 03 BS,Beer,WLP010,Porter
+1278,WLP860 Kolsch 173 01 BS,Beer,WLP860,Kolsch
+1279,WLP830 Kolsch 173 02 BS,Beer,WLP830,Kolsch
+1280,WLP029 Kolsch 173 03 BS,Beer,WLP029,Kolsch
+1281,WLP009 Kolsch 173 04 BS,Beer,WLP009,Kolsch
+1282,WLP017 English Brown 175 01 BS,Beer,WLP017,English Brown
+1283,WLP023 Other 178 03 BS,Beer,WLP023,Other
+1284,WLP028 Other 178 04 BS,Beer,WLP028,Other
+1285,WLP500 Dubbel 179 01 BS,Beer,WLP500,Dubbel
+1286,WLP500 Dubbel 179 03 BS,Beer,WLP500,Dubbel
+1287,WLP530 Dubbel 179 05 BS,Beer,WLP530,Dubbel
+1288,BLEND Dubbel 179 09 BS,Beer,BLEND,Dubbel
+1289,WLP530 Dubbel 179 10 BS,Beer,WLP530,Dubbel
+1290,BLEND Dubbel 179 11 BS,Beer,BLEND,Dubbel
+1291,WLP001 Am. Amber 181 06 BS,Beer,WLP001,Am. Amber
+1292,WLP013 Am. Amber 181 07 BS,Beer,WLP013,Am. Amber
+1293,WLP051 Am. Amber 181 08 BS,Beer,WLP051,Am. Amber
+1294,BLEND Stout 182 01 BS,Beer,BLEND,Stout
+1295,BLEND Stout 182 02 BS,Beer,BLEND,Stout
+1296,BLEND Stout 182 03 BS,Beer,BLEND,Stout
+1297,BLEND Stout 182 04 BS,Beer,BLEND,Stout
+1298,BLEND Stout 182 05 BS,Beer,BLEND,Stout
+1299,BLEND Stout 182 06 BS,Beer,BLEND,Stout
+1300,BLEND Stout 182 07 BS,Beer,BLEND,Stout
+1301,WLP070 Other 183 01 BS,Beer,WLP070,Other
+1302,WLP070 Other 183 02 BS,Beer,WLP070,Other
+1303,WLP070 Other 183 03 BS,Beer,WLP070,Other
+1304,WLP070 Other 183 04 BS,Beer,WLP070,Other
+1305,WLP550 Other 183 05 BS,Beer,WLP550,Other
+1306,WLP019 California Common 184 01 BS,Beer,WLP019,California Common
+1307,WLP780 California Common 184 02 BS,Beer,WLP780,California Common
+1308,WLP7245 California Common 184 03 BS,Beer,WLP7245,California Common
+1309,WLP052 California Common 184 04 BS,Beer,WLP052,California Common
+1310,WLP040 California Common 184 05 BS,Beer,WLP040,California Common
+1311,WLP029 Dubbel 184 07 BS,Beer,WLP029,Dubbel
+1312,WLP802 California Common 184 08 BS,Beer,WLP802,California Common
+1313,WLP017 Dubbel 184 10 BS,Beer,WLP017,Dubbel
+1314,WLP802 Dubbel 184 11 BS,Beer,WLP802,Dubbel
+1315,WLP810 California Common 184 12 BS,Beer,WLP810,California Common
+1316,BLEND Belgian Blonde 185 01 BS,Beer,BLEND,Belgian Blonde
+1317,BLEND Belgian IPA 185 01 BS,Beer,BLEND,Belgian IPA
+1318,WLP566 Belgian IPA 185 02 NA,Beer,WLP566,Belgian IPA
+1319,WLP566 Belgian IPA 185 02 BS,Beer,WLP566,Belgian IPA
+1320,WLP530 Belgian IPA 185 03 BS,Beer,WLP530,Belgian IPA
+1321,BLEND Belgian IPA 185 04 BS,Beer,BLEND,Belgian IPA
+1322,WLP510 Belgian IPA 185 04 BS,Beer,WLP510,Belgian IPA
+1323,WLP570 Belgian IPA 185 04 BS,Beer,WLP570,Belgian IPA
+1324,BLEND Other 186 05 BS,Beer,BLEND,Other
+1325,WLP075 American IPA 186 09 BS,Beer,WLP075,American IPA
+1326,WLP300 Dunkel 187 01 BS,Beer,WLP300,Dunkel
+1327,WLP351 Dunkel 187 02 BS,Beer,WLP351,Dunkel
+1328,WLP380 Dunkel 187 03 BS,Beer,WLP380,Dunkel
+1329,WLP410 Dunkel 187 04 BS,Beer,WLP410,Dunkel
+1330,WLP001 Other 188 01 BS,Beer,WLP001,Other
+1331,WLP004 Other 188 02 BS,Beer,WLP004,Other
+1332,WLP007 Other 188 03 BS,Beer,WLP007,Other
+1333,WLP005 Other 188 04 BS,Beer,WLP005,Other
+1334,WLP001 Other 188 05 BS,Beer,WLP001,Other
+1335,WLP004 Other 188 06 BS,Beer,WLP004,Other
+1336,WLP005 Other 188 07 BS,Beer,WLP005,Other
+1337,WLP007 English Style IPA 188 08 BS,Beer,WLP007,English Style IPA
+1338,WLP001 Other 188 09 BS,Beer,WLP001,Other
+1339,WLP005 Other 188 10 BS,Beer,WLP005,Other
+1340,WLP007 Other 188 11 BS,Beer,WLP007,Other
+1341,0 Other 188 12 BS,Beer,,Other
+1342,WLP380 Hefeweizen 189 01 BS,Beer,WLP380,Hefeweizen
+1343,WLP380 Hefeweizen 189 02 BS,Beer,WLP380,Hefeweizen
+1344,WLP380 Hefeweizen 189 03 BS,Beer,WLP380,Hefeweizen
+1345,WLP351 Hefeweizen 189 04 BS,Beer,WLP351,Hefeweizen
+1346,WLP351 Hefeweizen 189 05 BS,Beer,WLP351,Hefeweizen
+1347,WLP351 Hefeweizen 189 06 BS,Beer,WLP351,Hefeweizen
+1348,WLP300 Hefeweizen 189 07 BS,Beer,WLP300,Hefeweizen
+1349,WLP320 Hefeweizen 189 08 BS,Beer,WLP320,Hefeweizen
+1350,WLP029 Cream Ale 190 01 BS,Beer,WLP029,Cream Ale
+1351,WLP810 Cream Ale 190 02 BS,Beer,WLP810,Cream Ale
+1352,WLP830 Cream Ale 190 03 BS,Beer,WLP830,Cream Ale
+1353,WLP036 Cream Ale 190 04 BS,Beer,WLP036,Cream Ale
+1354,WLP029 Cream Ale 190 05 BS,Beer,WLP029,Cream Ale
+1355,WLP810 Cream Ale 190 06 BS,Beer,WLP810,Cream Ale
+1356,WLP830 Cream Ale 190 07 BS,Beer,WLP830,Cream Ale
+1357,WLP036 Cream Ale 190 08 BS,Beer,WLP036,Cream Ale
+1358,WLP029 Cream Ale 190 09 BS,Beer,WLP029,Cream Ale
+1359,WLP810 Cream Ale 190 10 BS,Beer,WLP810,Cream Ale
+1360,WLP830 Cream Ale 190 11 BS,Beer,WLP830,Cream Ale
+1361,WLP036 Cream Ale 190 12 BS,Beer,WLP036,Cream Ale
+1362,WLP064 Other 191 01 BS,Beer,WLP064,Other
+1363,WLP064 American Pale Ale 191 03 BS,Beer,WLP064,American Pale Ale
+1364,WLP064 American Pale Ale 191 08 BS,Beer,WLP064,American Pale Ale
+1365,WLP076 Ale 192 01 BS,Beer,WLP076,Ale
+1366,WLP001 Ale 192 02 BS,Beer,WLP001,Ale
+1367,WLP001 Other 192 02 BS,Beer,WLP001,Other
+1368,WLP013 Other 192 03 BS,Beer,WLP013,Other
+1369,WLP013 Other 192 04 BS,Beer,WLP013,Other
+1370,WLP013 Ale 192 04 BS,Beer,WLP013,Ale
+1371,WLP029 Other 192 05 BS,Beer,WLP029,Other
+1372,WLP029 Other 192 06 BS,Beer,WLP029,Other
+1373,WLP001 American IPA 193 01 BS,Beer,WLP001,American IPA
+1374,WLP005 American IPA 193 02 BS,Beer,WLP005,American IPA
+1375,WLP008 American IPA 193 03 BS,Beer,WLP008,American IPA
+1376,WLP051 American IPA 193 04 BS,Beer,WLP051,American IPA
+1377,WLP001 American IPA 193 05 BS,Beer,WLP001,American IPA
+1378,WLP005 American IPA 193 06 BS,Beer,WLP005,American IPA
+1379,WLP008 American IPA 193 07 BS,Beer,WLP008,American IPA
+1380,WLP051 American IPA 193 08 BS,Beer,WLP051,American IPA
+1381,WLP001 American IPA 193 09 BS,Beer,WLP001,American IPA
+1382,WLP005 American IPA 193 10 BS,Beer,WLP005,American IPA
+1383,WLP008 American IPA 193 11 BS,Beer,WLP008,American IPA
+1384,WLP002 Am. Red 194 01 BS,Beer,WLP002,Am. Red
+1385,WLP004 Am. Red 194 02 BS,Beer,WLP004,Am. Red
+1386,WLP013 Am. Red 194 03 BS,Beer,WLP013,Am. Red
+1387,WLP023 Am. Red 194 04 BS,Beer,WLP023,Am. Red
+1388,WLP002 Am. Amber 194 05 BS,Beer,WLP002,Am. Amber
+1389,WLP002 Am. Red 194 05 BS,Beer,WLP002,Am. Red
+1390,WLP004 Am. Red 194 06 BS,Beer,WLP004,Am. Red
+1391,WLP013 Am. Red 194 07 BS,Beer,WLP013,Am. Red
+1392,WLP023 Am. Red 194 08 BS,Beer,WLP023,Am. Red
+1393,WLP002 Am. Red 194 09 BS,Beer,WLP002,Am. Red
+1394,WLP004 Am. Red 194 10 BS,Beer,WLP004,Am. Red
+1395,WLP010 Porter 195 01 BS,Beer,WLP010,Porter
+1396,WLP010 Porter 195 02 BS,Beer,WLP010,Porter
+1397,WLP010 Porter 195 03 BS,Beer,WLP010,Porter
+1398,WLP010 Porter 195 04 BS,Beer,WLP010,Porter
+1399,BLEND American IPA 196 01 BS,Beer,BLEND,American IPA
+1400,BLEND American IPA 196 02 BS,Beer,BLEND,American IPA
+1401,WLP075 American IPA 196 03 BS,Beer,WLP075,American IPA
+1402,WLP075 American IPA 196 04 BS,Beer,WLP075,American IPA
+1403,WLP001 Oatmeal Stout 197 01 BS,Beer,WLP001,Oatmeal Stout
+1404,WLP001 Oatmeal Stout 197 02 BS,Beer,WLP001,Oatmeal Stout
+1405,WLP001 Oatmeal Stout 197 03 BS,Beer,WLP001,Oatmeal Stout
+1406,WLP001 Oatmeal Stout 197 04 BS,Beer,WLP001,Oatmeal Stout
+1407,WLP001 Oatmeal Stout 197 05 BS,Beer,WLP001,Oatmeal Stout
+1408,WLP001 Oatmeal Stout 197 06 BS,Beer,WLP001,Oatmeal Stout
+1409,WLP028 Oatmeal Stout 197 07 BS,Beer,WLP028,Oatmeal Stout
+1410,WLP090 Oatmeal Stout 197 08 BS,Beer,WLP090,Oatmeal Stout
+1411,WLP001 Irish Red Ale 198 01 BS,Beer,WLP001,Irish Red Ale
+1412,WLP072 Irish Red Ale 198 02 BS,Beer,WLP072,Irish Red Ale
+1413,WLP810 Irish Red Ale 198 03 BS,Beer,WLP810,Irish Red Ale
+1414,BLEND Irish Red Ale 198 04 BS,Beer,BLEND,Irish Red Ale
+1415,WLP655 Irish Red Ale 198 05 BS,Beer,WLP655,Irish Red Ale
+1416,WLP564 Saison 199 01 BS,Beer,WLP564,Saison
+1417,WLP564 Saison 199 02 BS,Beer,WLP564,Saison
+1418,WLP564 Saison 199 03 BS,Beer,WLP564,Saison
+1419,WLP564 Saison 199 04 BS,Beer,WLP564,Saison
+1420,WLP564 Saison 199 05 BS,Beer,WLP564,Saison
+1421,WLP564 Saison 199 06 NA,Beer,WLP564,Saison
+1422,WLP564 Saison 199 06 BS,Beer,WLP564,Saison
+1423,WLP036 Dusseldorf Alt 200 01 BS,Beer,WLP036,Dusseldorf Alt
+1424,WLP036 Dusseldorf Alt 200 01 BS,Analysis,WLP036,Dusseldorf Alt
+1425,WLP830 Other 200 02 BS,Beer,WLP830,Other
+1426,WLP036 Other 200 03 BS,Beer,WLP036,Other
+1427,WLP029 Other 200 04 BS,Beer,WLP029,Other
+1428,WLP830 Other 200 05 BS,Beer,WLP830,Other
+1429,WLP800 Dusseldorf Alt 200 06 BS,Beer,WLP800,Dusseldorf Alt
+1430,WLP036 Dusseldorf Alt 200 07 BS,Beer,WLP036,Dusseldorf Alt
+1431,WLP830 Dusseldorf Alt 200 08 BS,Beer,WLP830,Dusseldorf Alt
+1432,WLP800 Dusseldorf Alt 200 09 BS,Beer,WLP800,Dusseldorf Alt
+1433,WLP029 Other 200 10 BS,Beer,WLP029,Other
+1434,WLP300 Witbier 201 02 BS,Beer,WLP300,Witbier
+1435,WLP320 Witbier 201 03 BS,Beer,WLP320,Witbier
+1436,WLP380 Witbier 201 04 BS,Beer,WLP380,Witbier
+1437,WLP630 Witbier 201 05 BS,Beer,WLP630,Witbier
+1438,WLP530 Belgian Pale Ale 202 01 BS,Beer,WLP530,Belgian Pale Ale
+1439,WLP545 Belgian Pale Ale 202 02 BS,Beer,WLP545,Belgian Pale Ale
+1440,WLP550 Belgian Pale Ale 202 03 BS,Beer,WLP550,Belgian Pale Ale
+1441,WLP570 Belgian Pale Ale 202 04 BS,Beer,WLP570,Belgian Pale Ale
+1442,WLP001 American IPA 204 01 BS,Beer,WLP001,American IPA
+1443,WLP001 American IPA 204 02 BS,Beer,WLP001,American IPA
+1444,WLP001 American IPA 204 03 BS,Beer,WLP001,American IPA
+1445,WLP001 American IPA 204 04 BS,Beer,WLP001,American IPA
+1446,WLP002 Am. Red 206 01 BS,Beer,WLP002,Am. Red
+1447,WLP013 Am. Red 206 02 BS,Beer,WLP013,Am. Red
+1448,WLP023 Am. Red 206 03 BS,Beer,WLP023,Am. Red
+1449,WLP051 Am. Red 206 04 BS,Beer,WLP051,Am. Red
+1450,WLP011 Porter 207 01 BS,Beer,WLP011,Porter
+1451,WLP041 Porter 207 02 BS,Beer,WLP041,Porter
+1452,WLP005 Porter 207 03 BS,Beer,WLP005,Porter
+1453,WLP008 Porter 207 04 BS,Beer,WLP008,Porter
+1454,WLP041 American Pale Ale 209 01 BS,Beer,WLP041,American Pale Ale
+1455,WLP090 American Pale Ale 209 02 BS,Beer,WLP090,American Pale Ale
+1456,WLP011 American Pale Ale 209 03 BS,Beer,WLP011,American Pale Ale
+1457,WLP008 American Pale Ale 209 04 BS,Beer,WLP008,American Pale Ale
+1458,WLP028 Belgian Pale Ale 210 01 BS,Beer,WLP028,Belgian Pale Ale
+1459,WLP530 Belgian Pale Ale 210 02 BS,Beer,WLP530,Belgian Pale Ale
+1460,WLP566 Belgian Pale Ale 210 03 BS,Beer,WLP566,Belgian Pale Ale
+1461,WLP023 English Mild 211 03 BS,Beer,WLP023,English Mild
+1462,WLP051 English Mild 211 04 BS,Beer,WLP051,English Mild
+1463,WLP022 English Mild 211 05 BS,Beer,WLP022,English Mild
+1464,WLP051 English Brown 211 05 BS,Beer,WLP051,English Brown
+1465,WLP029 English Mild 211 06 BS,Beer,WLP029,English Mild
+1466,WLP023 English Mild 211 07 BS,Beer,WLP023,English Mild
+1467,WLP051 English Brown 211 08 BS,Beer,WLP051,English Brown
+1468,WLP051 English Mild 211 08 BS,Beer,WLP051,English Mild
+1469,WLP022 English Mild 211 09 BS,Beer,WLP022,English Mild
+1470,WLP029 English Mild 211 10 BS,Beer,WLP029,English Mild
+1471,WLP565 Saison 212 01 BS,Beer,WLP565,Saison
+1472,WLP566 Saison 212 02 BS,Beer,WLP566,Saison
+1473,WLP585 Saison 212 03 BS,Beer,WLP585,Saison
+1474,WLP940 Saison 212 04 BS,Beer,WLP940,Saison
+1475,WLP565 Saison 212 05 BS,Beer,WLP565,Saison
+1476,WLP566 Saison 212 06 BS,Beer,WLP566,Saison
+1477,WLP585 Saison 212 07 BS,Beer,WLP585,Saison
+1478,WLP940 Saison 212 08 BS,Beer,WLP940,Saison
+1479,WLP565 Saison 212 09 BS,Beer,WLP565,Saison
+1480,WLP566 Saison 212 10 BS,Beer,WLP566,Saison
+1481,WLP568 Saison 212 12 BS,Beer,WLP568,Saison
+1482,WLP072 Strong Ale 213 01 BS,Beer,WLP072,Strong Ale
+1483,WLP510 Strong Ale 213 02 BS,Beer,WLP510,Strong Ale
+1484,WLP545 Strong Ale 213 03 BS,Beer,WLP545,Strong Ale
+1485,WLP550 Strong Ale 213 04 BS,Beer,WLP550,Strong Ale
+1486,WLP072 Strong Ale 213 05 BS,Beer,WLP072,Strong Ale
+1487,WLP510 Strong Ale 213 06 BS,Beer,WLP510,Strong Ale
+1488,WLP550 Strong Ale 213 08 BS,Beer,WLP550,Strong Ale
+1489,WLP072 Strong Ale 213 09 BS,Beer,WLP072,Strong Ale
+1490,WLP545 Strong Ale 213 10 BS,Beer,WLP545,Strong Ale
+1491,WLP045 Scotch Ale 214 01 BS,Beer,WLP045,Scotch Ale
+1492,WLP050 Scotch Ale 214 02 BS,Beer,WLP050,Scotch Ale
+1493,WLP065 Scotch Ale 214 03 BS,Beer,WLP065,Scotch Ale
+1494,WLP070 Scotch Ale 214 04 BS,Beer,WLP070,Scotch Ale
+1495,WLP078 Scotch Ale 214 05 BS,Beer,WLP078,Scotch Ale
+1496,WLP078 Scotch Ale 214 06 BS,Beer,WLP078,Scotch Ale
+1497,WLP001 American IPA 215 01 BS,Beer,WLP001,American IPA
+1498,WLP007 American IPA 215 02 BS,Beer,WLP007,American IPA
+1499,WLP051 American IPA 215 03 BS,Beer,WLP051,American IPA
+1500,WLP550 American IPA 215 04 BS,Beer,WLP550,American IPA
+1501,WLP300 Hefeweizen 218 01 BS,Beer,WLP300,Hefeweizen
+1502,WLP320 Hefeweizen 218 02 BS,Beer,WLP320,Hefeweizen
+1503,WLP002 English Style IPA 220 01 BS,Beer,WLP002,English Style IPA
+1504,WLP013 English Style IPA 220 02 BS,Beer,WLP013,English Style IPA
+1505,WLP001 California Common 220 03 BS,Beer,WLP001,California Common
+1506,WLP001 California Common 220 04 BS,Beer,WLP001,California Common
+1507,WLP001 California Common 220 05 BS,Beer,WLP001,California Common
+1508,WLP001 California Common 220 06 BS,Beer,WLP001,California Common
+1509,WLP001 California Common 220 07 BS,Beer,WLP001,California Common
+1510,WLP585 Belgian Blonde 221 01 BS,Beer,WLP585,Belgian Blonde
+1511,WLP550 Belgian Blonde 221 02 BS,Beer,WLP550,Belgian Blonde
+1512,WLP004 Belgian Blonde 221 03 BS,Beer,WLP004,Belgian Blonde
+1513,WLP840 Belgian Blonde 221 04 BS,Beer,WLP840,Belgian Blonde
+1514,WLP001 Kolsch 222 01 BS,Beer,WLP001,Kolsch
+1515,WLP001 Kolsch 222 02 BS,Beer,WLP001,Kolsch
+1516,WLP001 Kolsch 222 03 BS,Beer,WLP001,Kolsch
+1517,WLP001 Kolsch 222 04 BS,Beer,WLP001,Kolsch
+1518,WLP029 Kolsch 222 05 BS,Beer,WLP029,Kolsch
+1519,WLP810 Kolsch 222 06 BS,Beer,WLP810,Kolsch
+1520,WLP862 Kolsch 222 07 BS,Beer,WLP862,Kolsch
+1521,WLP075 American IPA 223 01 BS,Beer,WLP075,American IPA
+1522,WLP075 American IPA 223 02 BS,Beer,WLP075,American IPA
+1523,WLP075 American IPA 223 03 BS,Beer,WLP075,American IPA
+1524,WLP075 American IPA 223 04 BS,Beer,WLP075,American IPA
+1525,WLP075 American IPA 223 05 BS,Beer,WLP075,American IPA
+1526,WLP075 American IPA 223 06 BS,Beer,WLP075,American IPA
+1527,WLP075 American IPA 223 07 BS,Beer,WLP075,American IPA
+1528,WLP075 American IPA 223 08 BS,Beer,WLP075,American IPA
+1529,WLP075 American IPA 223 09 BS,Beer,WLP075,American IPA
+1530,WLP075 American IPA 223 10 BS,Beer,WLP075,American IPA
+1531,WLP075 American IPA 223 11 BS,Beer,WLP075,American IPA
+1532,WLP862 California Common 224 00 BS,Beer,WLP862,California Common
+1533,WLP810 California Common 224 01 BS,Beer,WLP810,California Common
+1534,WLP001 California Common 224 03 BS,Beer,WLP001,California Common
+1535,WLP099 California Common 224 04 BS,Beer,WLP099,California Common
+1536,NCYC1006 Ale 225 01 BS,Beer,NCYC1006,Ale
+1537,NCYC1026 Ale 225 02 BS,Beer,NCYC1026,Ale
+1538,NCYC1187 Ale 225 03 BS,Beer,NCYC1187,Ale
+1539,NCYC1228 Ale 225 04 BS,Beer,NCYC1228,Ale
+1540,WLP023 Ale 225 06 BS,Beer,WLP023,Ale
+1541,WLP002 Ale 225 07 BS,Beer,WLP002,Ale
+1542,WLP010 Porter 226 01 BS,Beer,WLP010,Porter
+1543,WLP010 Porter 226 02 BS,Beer,WLP010,Porter
+1544,WLP010 Porter 226 03 BS,Beer,WLP010,Porter
+1545,WLP010 Porter 226 04 BS,Beer,WLP010,Porter
+1546,WLP320 Witbier 227 02 BS,Beer,WLP320,Witbier
+1547,WLP380 Witbier 227 03 BS,Beer,WLP380,Witbier
+1548,WLP410 Witbier 227 04 BS,Beer,WLP410,Witbier
+1549,WLP800 Pilsner 228 01 BS,Beer,WLP800,Pilsner
+1550,WLP802 Pilsner 228 02 BS,Beer,WLP802,Pilsner
+1551,WLP840 Pilsner 228 03 BS,Beer,WLP840,Pilsner
+1552,WLP320 Pilsner 228 04 BS,Beer,WLP320,Pilsner
+1553,WLP002 English Style IPA 229 01 BS,Beer,WLP002,English Style IPA
+1554,WLP007 English Style IPA 229 02 BS,Beer,WLP007,English Style IPA
+1555,WLP001 Am. Amber 229 05 BS,Beer,WLP001,Am. Amber
+1556,WLP007 Am. Amber 229 08 BS,Beer,WLP007,Am. Amber
+1557,WLP007 Am. Amber 229 09 BS,Beer,WLP007,Am. Amber
+1558,WLP002 Am. Amber 229 10 BS,Beer,WLP002,Am. Amber
+1559,WLP029 Am. Amber 229 11 BS,Beer,WLP029,Am. Amber
+1560,WLP545 Dubbel 230 04 BS,Beer,WLP545,Dubbel
+1561,WLP028 Stout 230 06 BS,Beer,WLP028,Stout
+1562,WLP530 Stout 230 07 BS,Beer,WLP530,Stout
+1563,WLP099 Stout 230 08 BS,Beer,WLP099,Stout
+1564,WLP004 Stout 230 09 BS,Beer,WLP004,Stout
+1565,WLP028 Stout 230 10 BS,Beer,WLP028,Stout
+1566,WLP028 Wee Heavy 231 01 BS,Beer,WLP028,Wee Heavy
+1567,WLP022 Wee Heavy 231 02 BS,Beer,WLP022,Wee Heavy
+1568,WLP001 Wee Heavy 231 03 BS,Beer,WLP001,Wee Heavy
+1569,WLP862 Wee Heavy 231 04 BS,Beer,WLP862,Wee Heavy
+1570,WLP500 Tripel 232 01 BS,Beer,WLP500,Tripel
+1571,WLP515 Tripel 232 02 BS,Beer,WLP515,Tripel
+1572,WLP545 Tripel 232 03 BS,Beer,WLP545,Tripel
+1573,WLP004 Tripel 232 04 BS,Beer,WLP004,Tripel
+1574,WLP001 Stout 233 01 BS,Beer,WLP001,Stout
+1575,WLP006 Stout 233 02 BS,Beer,WLP006,Stout
+1576,WLP565 Belgian IPA 234 01 BS,Beer,WLP565,Belgian IPA
+1577,WLP550 Belgian IPA 234 02 BS,Beer,WLP550,Belgian IPA
+1578,WLP585 Belgian IPA 234 03 BS,Beer,WLP585,Belgian IPA
+1579,WLP099 Belgian IPA 234 04 BS,Beer,WLP099,Belgian IPA
+1580,WLP004 Irish Red Ale 234 05 BS,Beer,WLP004,Irish Red Ale
+1581,WLP011 Irish Red Ale 234 06 BS,Beer,WLP011,Irish Red Ale
+1582,WLP023 Ale 235 01 BS,Beer,WLP023,Ale
+1583,WLP075 American IPA 235 01 BS,Beer,WLP075,American IPA
+1584,WLP028 Ale 235 02 BS,Beer,WLP028,Ale
+1585,WLP075 American IPA 235 02 BS,Beer,WLP075,American IPA
+1586,BLEND-320-380 Ale 235 03 BS,Beer,BLEND-320-380,Ale
+1587,WLP075 American IPA 235 03 BS,Beer,WLP075,American IPA
+1588,WLP006 Ale 235 04 BS,Beer,WLP006,Ale
+1589,WLP075 American IPA 235 04 BS,Beer,WLP075,American IPA
+1590,WLP085 Ale 235 05 BS,Beer,WLP085,Ale
+1591,WLP085 Ale 235 05 NA,Beer,WLP085,Ale
+1592,WLP041 Ale 235 06 BS,Beer,WLP041,Ale
+1593,WLP041 Ale 235 06 NA,Beer,WLP041,Ale
+1594,WLP064 Ale 236 01 BS,Beer,WLP064,Ale
+1595,WLP064 Ale 236 02 BS,Beer,WLP064,Ale
+1596,WLP001 Ale 237 01 BS,Beer,WLP001,Ale
+1597,WLP072 Ale 237 02 BS,Beer,WLP072,Ale
+1598,WLP925 Cream Ale 238 02 BS,Beer,WLP925,Cream Ale
+1599,WLP940 Cream Ale 238 03 BS,Beer,WLP940,Cream Ale
+1600,WLP008 Cream Ale 238 04 BS,Beer,WLP008,Cream Ale
+1601,WLP007 Porter 239 01 BS,Beer,WLP007,Porter
+1602,WLP005 Porter 239 02 BS,Beer,WLP005,Porter
+1603,WLP036 Porter 239 03 BS,Beer,WLP036,Porter
+1604,WLP830 Porter 239 04 BS,Beer,WLP830,Porter
+1605,WLP001 American IPA 240 01 BS,Beer,WLP001,American IPA
+1606,WLP007 American IPA 240 02 BS,Beer,WLP007,American IPA
+1607,WLP036 American IPA 240 03 BS,Beer,WLP036,American IPA
+1608,WLP530 American IPA 240 04 BS,Beer,WLP530,American IPA
+1609,WLP320 Hefeweizen 241 02 BS,Beer,WLP320,Hefeweizen
+1610,WLP351 Hefeweizen 241 03 BS,Beer,WLP351,Hefeweizen
+1611,WLP380 Hefeweizen 241 04 BS,Beer,WLP380,Hefeweizen
+1612,WLP023 Porter 242 01 BS,Beer,WLP023,Porter
+1613,WLP028 Porter 242 02 BS,Beer,WLP028,Porter
+1614,WLP001 Porter 242 03 BS,Beer,WLP001,Porter
+1615,WLP036 Porter 242 04 BS,Beer,WLP036,Porter
+1616,WLP003 Oktoberfest-Vienna 243 01 BS,Beer,WLP003,Oktoberfest-Vienna
+1617,WLP011 Oktoberfest-Vienna 243 02 BS,Beer,WLP011,Oktoberfest-Vienna
+1618,WLP029 Oktoberfest-Vienna 243 03 BS,Beer,WLP029,Oktoberfest-Vienna
+1619,WLP820 Oktoberfest-Vienna 243 04 BS,Beer,WLP820,Oktoberfest-Vienna
+1620,WLP530 Am. Red 245 02 BS,Beer,WLP530,Am. Red
+1621,WLP530 Am. Red 245 03 BS,Beer,WLP530,Am. Red
+1622,WLP530 Am. Red 245 05 BS,Beer,WLP530,Am. Red
+1623,WLP001 Am. Amber 248 01 BS,Beer,WLP001,Am. Amber
+1624,WLP001 Am. Amber 248 02 BS,Beer,WLP001,Am. Amber
+1625,WLP001 Am. Amber 248 03 BS,Beer,WLP001,Am. Amber
+1626,WLP001 Am. Amber 248 04 BS,Beer,WLP001,Am. Amber
+1627,WLP004 Am. Amber 248 05 BS,Beer,WLP004,Am. Amber
+1628,WLP036 Witbier 249 01 BS,Beer,WLP036,Witbier
+1629,WLP833 Witbier 249 02 BS,Beer,WLP833,Witbier
+1630,WLP810 Witbier 249 03 BS,Beer,WLP810,Witbier
+1631,WLP810 Witbier 249 04 BS,Beer,WLP810,Witbier
+1632,WLP862 Witbier 249 05 BS,Beer,WLP862,Witbier
+1633,WLP862 Witbier 249 06 BS,Beer,WLP862,Witbier
+1634,WLP862 Witbier 249 07 BS,Beer,WLP862,Witbier
+1635,WLP001 Oatmeal Stout 250 01 BS,Beer,WLP001,Oatmeal Stout
+1636,WLP530 Oatmeal Stout 250 02 BS,Beer,WLP530,Oatmeal Stout
+1637,WLP013 Oatmeal Stout 250 03 BS,Beer,WLP013,Oatmeal Stout
+1638,WLP028 Oatmeal Stout 250 04 BS,Beer,WLP028,Oatmeal Stout
+1639,WLP800 Pilsner 252 01 BS,Beer,WLP800,Pilsner
+1640,WLP830 Pilsner 252 02 BS,Beer,WLP830,Pilsner
+1641,WLP564 Saison 253 03 BS,Beer,WLP564,Saison
+1642,WLP564 Saison 253 04 BS,Beer,WLP564,Saison
+1643,WLP008 English Brown 254 01 BS,Beer,WLP008,English Brown
+1644,WLP041 English Brown 254 02 BS,Beer,WLP041,English Brown
+1645,WLP013 English Brown 254 03 BS,Beer,WLP013,English Brown
+1646,WLP006 English Brown 254 04 BS,Beer,WLP006,English Brown
+1647,WLP075 American IPA 255 01 BS,Beer,WLP075,American IPA
+1648,WLP075 American IPA 255 02 BS,Beer,WLP075,American IPA
+1649,WLP075 American IPA 255 03 BS,Beer,WLP075,American IPA
+1650,WLP075 American IPA 255 04 BS,Beer,WLP075,American IPA
+1651,WLP008 Ale 256 01 BS,Beer,WLP008,Ale
+1652,WLP051 Ale 256 02 BS,Beer,WLP051,Ale
+1653,WLP028 Ale 256 03 BS,Beer,WLP028,Ale
+1654,WLP550 Ale 256 04 BS,Beer,WLP550,Ale
+1655,WLP064 American Pale Ale 258 01 BS,Beer,WLP064,American Pale Ale
+1656,WLP064 American Pale Ale 258 02 BS,Beer,WLP064,American Pale Ale
+1657,WLP064 American Pale Ale 258 03 BS,Beer,WLP064,American Pale Ale
+1658,WLP064 American Pale Ale 258 04 BS,Beer,WLP064,American Pale Ale
+1659,WLP001 Scotch Ale 259 01 BS,Beer,WLP001,Scotch Ale
+1660,WLP028 Scotch Ale 259 02 BS,Beer,WLP028,Scotch Ale
+1661,WLP045 Scotch Ale 259 03 BS,Beer,WLP045,Scotch Ale
+1662,WLP400 Scotch Ale 259 04 BS,Beer,WLP400,Scotch Ale
+1663,WLP500 Belgian Pale Ale 260 01 BS,Beer,WLP500,Belgian Pale Ale
+1664,WLP515 Belgian Pale Ale 260 02 BS,Beer,WLP515,Belgian Pale Ale
+1665,WLP540 Belgian Pale Ale 260 03 BS,Beer,WLP540,Belgian Pale Ale
+1666,WLP575 Belgian Pale Ale 260 04 BS,Beer,WLP575,Belgian Pale Ale
+1667,WLP010 Porter 261 03 BS,Beer,WLP010,Porter
+1668,WLP001 Belgian Ale 262 01 BS,Beer,WLP001,Belgian Ale
+1669,WLP023 Belgian Ale 262 02 BS,Beer,WLP023,Belgian Ale
+1670,WLP029 Belgian Ale 262 03 BS,Beer,WLP029,Belgian Ale
+1671,WLP570 Belgian Ale 262 04 BS,Beer,WLP570,Belgian Ale
+1672,WLP075 American IPA 263 01 BS,Beer,WLP075,American IPA
+1673,WLP075 American IPA 263 02 BS,Beer,WLP075,American IPA
+1674,WLP075 American IPA 263 03 BS,Beer,WLP075,American IPA
+1675,WLP075 American IPA 263 04 BS,Beer,WLP075,American IPA
+1676,WLP001 American IPA 264 01 BS,Beer,WLP001,American IPA
+1677,WLP002 American IPA 264 02 BS,Beer,WLP002,American IPA
+1678,WLP007 American IPA 264 03 BS,Beer,WLP007,American IPA
+1679,WLP051 American IPA 264 04 BS,Beer,WLP051,American IPA
+1680,WLP004 Am. Red 265 01 BS,Beer,WLP004,Am. Red
+1681,WLP016 Am. Red 265 02 BS,Beer,WLP016,Am. Red
+1682,WLP380 Am. Red 265 03 BS,Beer,WLP380,Am. Red
+1683,WLP060 Am. Red 265 04 BS,Beer,WLP060,Am. Red
+1684,WLP566 Saison 267 03 BS,Beer,WLP566,Saison
+1685,WLP001 American Pale Ale 268 01 BS,Beer,WLP001,American Pale Ale
+1686,WLP006 American Pale Ale 268 02 BS,Beer,WLP006,American Pale Ale
+1687,WLP013 American Pale Ale 268 03 BS,Beer,WLP013,American Pale Ale
+1688,BLEND American Pale Ale 268 04 BS,Beer,BLEND,American Pale Ale
+1689,WLP001 American IPA 269 01 BS,Beer,WLP001,American IPA
+1690,WLP007 American IPA 269 02 BS,Beer,WLP007,American IPA
+1691,WLP028 American IPA 269 03 BS,Beer,WLP028,American IPA
+1692,WLP545 American IPA 269 04 BS,Beer,WLP545,American IPA
+1693,BLEND Frankenstout 270 01 BS,Beer,BLEND,Frankenstout
+1694,BLEND Frankenstout 270 02 BS,Beer,BLEND,Frankenstout
+1695,BLEND Frankenstout 270 03 BS,Beer,BLEND,Frankenstout
+1696,BLEND Frankenstout 270 04 BS,Beer,BLEND,Frankenstout
+1697,WLP300 Hefeweizen 271 01 BS,Beer,WLP300,Hefeweizen
+1698,WLP320 Hefeweizen 271 02 BS,Beer,WLP320,Hefeweizen
+1699,WLP351 Hefeweizen 271 03 BS,Beer,WLP351,Hefeweizen
+1700,WLP380 Hefeweizen 271 04 BS,Beer,WLP380,Hefeweizen
+1701,WLP002 American Pale Ale 272 01 BS,Beer,WLP002,American Pale Ale
+1702,WLP029 American Pale Ale 272 02 BS,Beer,WLP029,American Pale Ale
+1703,WLP041 American Pale Ale 272 03 BS,Beer,WLP041,American Pale Ale
+1704,WLP500 American Pale Ale 272 04 BS,Beer,WLP500,American Pale Ale
+1705,WLP500 Dubbel 273 01 BS,Beer,WLP500,Dubbel
+1706,WLP564 Dubbel 273 01 BS,Beer,WLP564,Dubbel
+1707,WLP530 Dubbel 273 02 BS,Beer,WLP530,Dubbel
+1708,WLP565 Dubbel 273 02 BS,Beer,WLP565,Dubbel
+1709,WLP510 Dubbel 273 03 BS,Beer,WLP510,Dubbel
+1710,WLP568 Dubbel 273 03 BS,Beer,WLP568,Dubbel
+1711,WLP570 Dubbel 273 04 BS,Beer,WLP570,Dubbel
+1712,WLP644 Dubbel 273 04 BS,Beer,WLP644,Dubbel
+1713,WLP004 Porter 274 01 BS,Beer,WLP004,Porter
+1714,WLP564 Saison 274 01 BS,Beer,WLP564,Saison
+1715,WLP013 Porter 274 02 BS,Beer,WLP013,Porter
+1716,WLP565 Saison 274 02 BS,Beer,WLP565,Saison
+1717,WLP023 Porter 274 03 BS,Beer,WLP023,Porter
+1718,WLP568 Saison 274 03 BS,Beer,WLP568,Saison
+1719,WLP022 Porter 274 04 BS,Beer,WLP022,Porter
+1720,WLP644 Saison 274 04 BS,Beer,WLP644,Saison
+1721,WLP013 Porter 275 02 BS,Beer,WLP013,Porter
+1722,WLP023 Porter 275 03 BS,Beer,WLP023,Porter
+1723,WLP022 Porter 275 04 BS,Beer,WLP022,Porter
+1724,WLP001 American IPA 276 01 BS,Beer,WLP001,American IPA
+1725,WLP007 American IPA 276 02 BS,Beer,WLP007,American IPA
+1726,WLP028 American IPA 276 03 BS,Beer,WLP028,American IPA
+1727,WLP545 American IPA 276 04 BS,Beer,WLP545,American IPA
+1728,WLP004 Porter 277 01 BS,Beer,WLP004,Porter
+1729,WLP013 Porter 277 02 BS,Beer,WLP013,Porter
+1730,WLP023 Porter 277 03 BS,Beer,WLP023,Porter
+1731,WLP022 Porter 277 04 BS,Beer,WLP022,Porter
+1732,WLP300 Hefeweizen 278 01 BS,Beer,WLP300,Hefeweizen
+1733,WLP320 Hefeweizen 278 02 BS,Beer,WLP320,Hefeweizen
+1734,WLP351 Hefeweizen 278 03 BS,Beer,WLP351,Hefeweizen
+1735,WLP380 Hefeweizen 278 04 BS,Beer,WLP380,Hefeweizen
+1736,WLP002 American Pale Ale 279 01 BS,Beer,WLP002,American Pale Ale
+1737,WLP029 American Pale Ale 279 02 BS,Beer,WLP029,American Pale Ale
+1738,WLP041 American Pale Ale 279 03 BS,Beer,WLP041,American Pale Ale
+1739,WLP550 American Pale Ale 279 04 BS,Beer,WLP550,American Pale Ale
+1740,WLP564 Saison 280 01 BS,Beer,WLP564,Saison
+1741,WLP565 Saison 280 02 BS,Beer,WLP565,Saison
+1742,WLP568 Saison 280 03 BS,Beer,WLP568,Saison
+1743,WLP585 Saison 280 03 BS,Beer,WLP585,Saison
+1744,WLP644 Saison 280 04 BS,Beer,WLP644,Saison
+1745,WLP001 American IPA 281 01 BS,Beer,WLP001,American IPA
+1746,WLP007 American IPA 281 02 BS,Beer,WLP007,American IPA
+1747,WLP028 American IPA 281 03 BS,Beer,WLP028,American IPA
+1748,WLP545 American IPA 281 04 BS,Beer,WLP545,American IPA
+1749,NCYC1006 English Brown 282 01 BS,Beer,NCYC1006,English Brown
+1750,NCYC1026 English Brown 282 02 BS,Beer,NCYC1026,English Brown
+1751,NCYC1187 English Brown 282 03 BS,Beer,NCYC1187,English Brown
+1752,NCYC1228 English Brown 282 04 BS,Beer,NCYC1228,English Brown
+1753,NCYC1681 English Brown 282 05 BS,Beer,NCYC1681,English Brown
+1754,WLP005 English Brown 282 06 BS,Beer,WLP005,English Brown
+1755,WLP500 Dubbel 283 01 BS,Beer,WLP500,Dubbel
+1756,WLP530 Dubbel 283 02 BS,Beer,WLP530,Dubbel
+1757,WLP510 Dubbel 283 03 BS,Beer,WLP510,Dubbel
+1758,WLP570 Dubbel 283 04 BS,Beer,WLP570,Dubbel
+1759,WLP300 Hefeweizen 284 01 BS,Beer,WLP300,Hefeweizen
+1760,WLP320 Hefeweizen 284 02 BS,Beer,WLP320,Hefeweizen
+1761,WLP351 Hefeweizen 284 03 BS,Beer,WLP351,Hefeweizen
+1762,WLP380 Hefeweizen 284 04 BS,Beer,WLP380,Hefeweizen
+1763,WLP004 Porter 285 01 BS,Beer,WLP004,Porter
+1764,WLP013 Porter 285 02 BS,Beer,WLP013,Porter
+1765,WLP023 Porter 285 03 BS,Beer,WLP023,Porter
+1766,WLP022 Porter 285 04 BS,Beer,WLP022,Porter
+1767,BLEND Frankenstout 286 01 NA,Beer,BLEND,Frankenstout
+1768,BLEND Frankenstout 286 02 NA,Beer,BLEND,Frankenstout
+1769,BLEND Frankenstout 286 03 NA,Beer,BLEND,Frankenstout
+1770,BLEND Frankenstout 286 04 NA,Beer,BLEND,Frankenstout
+1771,WLP001 American IPA 287 01 BS,Beer,WLP001,American IPA
+1772,WLP007 American IPA 287 02 BS,Beer,WLP007,American IPA
+1773,WLP028 American IPA 287 03 BS,Beer,WLP028,American IPA
+1774,WLP545 American IPA 287 04 BS,Beer,WLP545,American IPA
+1775,WLP002 American Pale Ale 288 01 NA,Beer,WLP002,American Pale Ale
+1776,WLP002 American Pale Ale 288 01 BS,Beer,WLP002,American Pale Ale
+1777,WLP029 American Pale Ale 288 02 NA,Beer,WLP029,American Pale Ale
+1778,WLP041 American Pale Ale 288 03 NA,Beer,WLP041,American Pale Ale
+1779,WLP550 American Pale Ale 288 04 NA,Beer,WLP550,American Pale Ale
+1780,WLP564 Saison 289 01 BS,Beer,WLP564,Saison
+1781,WLP565 Saison 289 02 BS,Beer,WLP565,Saison
+1782,WLP585 Saison 289 02 BS,Beer,WLP585,Saison
+1783,WLP568 Saison 289 03 BS,Beer,WLP568,Saison
+1784,WLP585 Saison 289 03 BS,Beer,WLP585,Saison
+1785,WLP644 Saison 289 04 BS,Beer,WLP644,Saison
+1786,WLP005 Oatmeal Stout 290 01 NA,Beer,WLP005,Oatmeal Stout
+1787,WLP008 Oatmeal Stout 290 02 NA,Beer,WLP008,Oatmeal Stout
+1788,WLP051 Oatmeal Stout 290 03 NA,Beer,WLP051,Oatmeal Stout
+1789,WLP400 Oatmeal Stout 290 04 NA,Beer,WLP400,Oatmeal Stout
+1790,WLP023 Imperial IPA 291 01 NA,Beer,WLP023,Imperial IPA
+1791,WLP090 Imperial IPA 291 02 NA,Beer,WLP090,Imperial IPA
+1792,WLP001 American IPA 292 01 NA,Beer,WLP001,American IPA
+1793,WLP007 American IPA 292 02 NA,Beer,WLP007,American IPA
+1794,WLP028 American IPA 292 03 NA,Beer,WLP028,American IPA
+1795,WLP545 American IPA 292 04 NA,Beer,WLP545,American IPA
+1796,WLP300 Hefeweizen 293 01 NA,Beer,WLP300,Hefeweizen
+1797,WLP320 Hefeweizen 293 02 NA,Beer,WLP320,Hefeweizen
+1798,WLP351 Hefeweizen 293 03 NA,Beer,WLP351,Hefeweizen
+1799,WLP380 Hefeweizen 293 04 NA,Beer,WLP380,Hefeweizen
+1800,WLP570 Dubbel 294 01 NA,Beer,WLP570,Dubbel
+1801,WLP530 Dubbel 294 02 NA,Beer,WLP530,Dubbel
+1802,WLP510 Dubbel 294 03 NA,Beer,WLP510,Dubbel
+1803,WLP570 Dubbel 294 04 NA,Beer,WLP570,Dubbel
+1804,WLP001 American IPA 295 01 NA,Beer,WLP001,American IPA
+1805,WLP007 American IPA 295 02 NA,Beer,WLP007,American IPA
+1806,WLP028 American IPA 295 03 NA,Beer,WLP028,American IPA
+1807,WLP545 American IPA 295 04 NA,Beer,WLP545,American IPA
+1808,WLP004 Porter 296 01 NA,Beer,WLP004,Porter
+1809,WLP013 Porter 296 02 NA,Beer,WLP013,Porter
+1810,WLP023 Porter 296 03 NA,Beer,WLP023,Porter
+1811,WLP022 Porter 296 04 NA,Beer,WLP022,Porter
+1812,WLP002 American Pale Ale 298 01 NA,Beer,WLP002,American Pale Ale
+1813,WLP029 American Pale Ale 298 02 NA,Beer,WLP029,American Pale Ale
+1814,WLP041 American Pale Ale 298 03 NA,Beer,WLP041,American Pale Ale
+1815,WLP550 American Pale Ale 298 04 NA,Beer,WLP550,American Pale Ale
+1816,WLP564 Saison 299 01 BS,Beer,WLP564,Saison
+1817,WLP565 Saison 299 02 BS,Beer,WLP565,Saison
+1818,WLP585 Saison 299 03 BS,Beer,WLP585,Saison
+1819,WLP644 Saison 299 04 BS,Beer,WLP644,Saison
+1820,WLP300 Hefeweizen 300 01 BS,Beer,WLP300,Hefeweizen
+1821,WLP320 Hefeweizen 300 02 BS,Beer,WLP320,Hefeweizen
+1822,WLP351 Hefeweizen 300 03 BS,Beer,WLP351,Hefeweizen
+1823,WLP380 Hefeweizen 300 04 BS,Beer,WLP380,Hefeweizen
+1824,WLP200 ESB Best Bitters 301 01 BS,Beer,WLP200,ESB Best Bitters
+1825,WLP001 ESB Best Bitters 301 02 BS,Beer,WLP001,ESB Best Bitters
+1826,WLP002 ESB Best Bitters 301 03 BS,Beer,WLP002,ESB Best Bitters
+1827,BLEND ESB Best Bitters 301 04 BS,Beer,BLEND,ESB Best Bitters
+1828,WLP500 Dubbel 302 01 BS,Beer,WLP500,Dubbel
+1829,WLP530 Dubbel 302 02 BS,Beer,WLP530,Dubbel
+1830,WLP510 Dubbel 302 03 BS,Beer,WLP510,Dubbel
+1831,WLP570 Dubbel 302 04 BS,Beer,WLP570,Dubbel
+1832,WLP001 American IPA 303 01 BS,Beer,WLP001,American IPA
+1833,WLP007 American IPA 303 02 BS,Beer,WLP007,American IPA
+1834,WLP028 American IPA 303 03 BS,Beer,WLP028,American IPA
+1835,WLP545 American IPA 303 04 BS,Beer,WLP545,American IPA
+1836,WLP002 American Pale Ale 304 01 BS,Beer,WLP002,American Pale Ale
+1837,WLP029 American Pale Ale 304 02 BS,Beer,WLP029,American Pale Ale
+1838,WLP041 American Pale Ale 304 03 BS,Beer,WLP041,American Pale Ale
+1839,WLP550 American Pale Ale 304 04 BS,Beer,WLP550,American Pale Ale
+1840,WLP004 Porter 305 01 BS,Beer,WLP004,Porter
+1841,WLP013 Porter 305 02 BS,Beer,WLP013,Porter
+1842,WLP023 Porter 305 03 BS,Beer,WLP023,Porter
+1843,WLP022 Porter 305 04 BS,Beer,WLP022,Porter
+1844,BLEND Frankenstout 306 01 BS,Beer,BLEND,Frankenstout
+1845,BLEND Frankenstout 306 02 BS,Beer,BLEND,Frankenstout
+1846,BLEND Frankenstout 306 03 BS,Beer,BLEND,Frankenstout
+1847,BLEND Frankenstout 306 04 BS,Beer,BLEND,Frankenstout
+1848,NCYC1006 English Mild 307 01 BS,Beer,NCYC1006,English Mild
+1849,NCYC1026 English Mild 307 02 BS,Beer,NCYC1026,English Mild
+1850,NCYC1187 English Mild 307 03 BS,Beer,NCYC1187,English Mild
+1851,NCYC1228 English Mild 307 04 BS,Beer,NCYC1228,English Mild
+1852,NCYC1681 English Mild 307 05 BS,Beer,NCYC1681,English Mild
+1853,WLP300 Hefeweizen 308 01 BS,Beer,WLP300,Hefeweizen
+1854,WLP320 Hefeweizen 308 02 BS,Beer,WLP320,Hefeweizen
+1855,WLP351 Hefeweizen 308 03 BS,Beer,WLP351,Hefeweizen
+1856,WLP380 Hefeweizen 308 04 BS,Beer,WLP380,Hefeweizen
+1857,WLP564 Saison 309 01 BS,Beer,WLP564,Saison
+1858,WLP565 Saison 309 02 BS,Beer,WLP565,Saison
+1859,WLP585 Saison 309 03 BS,Beer,WLP585,Saison
+1860,WLP644 Saison 309 04 BS,Beer,WLP644,Saison
+1861,WLP001 American IPA 310 01 BS,Beer,WLP001,American IPA
+1862,WLP001 American IPA 310 02 BS,Beer,WLP001,American IPA
+1863,WLP028 American IPA 310 03 BS,Beer,WLP028,American IPA
+1864,WLP545 American IPA 310 04 BS,Beer,WLP545,American IPA
+1865,WLP500 Dubbel 311 01 BS,Beer,WLP500,Dubbel
+1866,WLP530 Dubbel 311 02 BS,Beer,WLP530,Dubbel
+1867,WLP510 Dubbel 311 03 BS,Beer,WLP510,Dubbel
+1868,WLP570 Dubbel 311 04 BS,Beer,WLP570,Dubbel
+1869,WLP001 Oatmeal Stout 312 01 BS,Beer,WLP001,Oatmeal Stout
+1870,WLP001 Oatmeal Stout 312 02 BS,Beer,WLP001,Oatmeal Stout
+1871,WLP001 Oatmeal Stout 312 03 BS,Beer,WLP001,Oatmeal Stout
+1872,WLP001 Oatmeal Stout 312 04 BS,Beer,WLP001,Oatmeal Stout
+1873,WLP004 Porter 313 01 BS,Beer,WLP004,Porter
+1874,WLP013 Porter 313 02 BS,Beer,WLP013,Porter
+1875,WLP023 Porter 313 03 BS,Beer,WLP023,Porter
+1876,WLP022 Porter 313 04 BS,Beer,WLP022,Porter
+1877,WLP300 Hefeweizen 314 01 BS,Beer,WLP300,Hefeweizen
+1878,WLP320 Hefeweizen 314 02 BS,Beer,WLP320,Hefeweizen
+1879,WLP351 Hefeweizen 314 03 BS,Beer,WLP351,Hefeweizen
+1880,WLP380 Hefeweizen 314 04 BS,Beer,WLP380,Hefeweizen
+1881,WLP002 American Pale Ale 315 01 BS,Beer,WLP002,American Pale Ale
+1882,WLP029 American Pale Ale 315 02 BS,Beer,WLP029,American Pale Ale
+1883,WLP041 American Pale Ale 315 03 BS,Beer,WLP041,American Pale Ale
+1884,WLP550 American Pale Ale 315 04 BS,Beer,WLP550,American Pale Ale
+1885,BLEND FrankenLager 316 01 BS,Beer,BLEND,FrankenLager
+1886,BLEND FrankenLager 316 02 BS,Beer,BLEND,FrankenLager
+1887,BLEND FrankenLager 316 03 BS,Beer,BLEND,FrankenLager
+1888,BLEND FrankenLager 316 04 BS,Beer,BLEND,FrankenLager
+1889,WLP564 Saison 317 01 BS,Beer,WLP564,Saison
+1890,WLP644 Saison 317 04 BS,Beer,WLP644,Saison
+1891,WLP001 American IPA 318 01 BS,Beer,WLP001,American IPA
+1892,WLP007 American IPA 318 02 BS,Beer,WLP007,American IPA
+1893,WLP001 American IPA 318 03 BS,Beer,WLP001,American IPA
+1894,WLP545 American IPA 318 04 BS,Beer,WLP545,American IPA
+1895,WLP500 Dubbel 319 01 BS,Beer,WLP500,Dubbel
+1896,WLP530 Dubbel 319 02 BS,Beer,WLP530,Dubbel
+1897,WLP510 Dubbel 319 03 BS,Beer,WLP510,Dubbel
+1898,WLP570 Dubbel 319 04 BS,Beer,WLP570,Dubbel
+1899,WLP004 Porter 320 01 BS,Beer,WLP004,Porter
+1900,WLP013 Porter 320 02 BS,Beer,WLP013,Porter
+1901,WLP022 Porter 320 03 BS,Beer,WLP022,Porter
+1902,WLP023 Porter 320 04 BS,Beer,WLP023,Porter
+1903,WLP300 Hefeweizen 321 01 BS,Beer,WLP300,Hefeweizen
+1904,WLP320 Hefeweizen 321 02 BS,Beer,WLP320,Hefeweizen
+1905,WLP351 Hefeweizen 321 03 BS,Beer,WLP351,Hefeweizen
+1906,WLP380 Hefeweizen 321 04 BS,Beer,WLP380,Hefeweizen
+1907,WLP001 English Style IPA 3210 BS,Beer,WLP001,English Style IPA
+1908,WLP001 American IPA 322 01 BS,Beer,WLP001,American IPA
+1909,WLP007 American IPA 322 02 BS,Beer,WLP007,American IPA
+1910,WLP028 American IPA 322 03 BS,Beer,WLP028,American IPA
+1911,WLP001 American IPA 322 04 BS,Beer,WLP001,American IPA
+1912,BLEND FrankenSmoked 323 01 BS,Beer,BLEND,FrankenSmoked
+1913,BLEND FrankenRyePA 324 01 BS,Beer,BLEND,FrankenRyePA
+1914,WLP002 American Pale Ale 325 01 BS,Beer,WLP002,American Pale Ale
+1915,WLP029 American Pale Ale 325 02 BS,Beer,WLP029,American Pale Ale
+1916,WLP041 American Pale Ale 325 03 BS,Beer,WLP041,American Pale Ale
+1917,WLP550 American Pale Ale 325 04 BS,Beer,WLP550,American Pale Ale
+1918,WLP564 Saison 326 01 BS,Beer,WLP564,Saison
+1919,WLP565 Saison 326 02 BS,Beer,WLP565,Saison
+1920,WLP644 Saison 326 04 BS,Beer,WLP644,Saison
+1921,WLP300 Hefeweizen 327 01 BS,Beer,WLP300,Hefeweizen
+1922,WLP320 Hefeweizen 327 02 BS,Beer,WLP320,Hefeweizen
+1923,WLP351 Hefeweizen 327 03 BS,Beer,WLP351,Hefeweizen
+1924,WLP380 Hefeweizen 327 04 BS,Beer,WLP380,Hefeweizen
+1925,WLP004 Porter 328 01 BS,Beer,WLP004,Porter
+1926,WLP013 Porter 328 02 BS,Beer,WLP013,Porter
+1927,WLP023 Porter 328 04 BS,Beer,WLP023,Porter
+1928,WLP500 Dubbel 329 01 BS,Beer,WLP500,Dubbel
+1929,WLP530 Dubbel 329 02 BS,Beer,WLP530,Dubbel
+1930,WLP510 Dubbel 329 03 BS,Beer,WLP510,Dubbel
+1931,WLP570 Dubbel 329 04 BS,Beer,WLP570,Dubbel
+1932,WLP001 Distilling Wash 331 01 BS,Beer,WLP001,Distilling Wash
+1933,WLP001 American IPA 331 02 BS,Beer,WLP001,American IPA
+1934,WLP028 American IPA 331 03 BS,Beer,WLP028,American IPA
+1935,WLP545 American IPA 331 04 BS,Beer,WLP545,American IPA
+1936,BLEND Frankenstout 333 01 BS,Beer,BLEND,Frankenstout
+1937,BLEND Frankenstout 333 02 BS,Beer,BLEND,Frankenstout
+1938,BLEND Frankenstout 333 03 BS,Beer,BLEND,Frankenstout
+1939,BLEND Frankenstout 333 04 BS,Beer,BLEND,Frankenstout
+1940,WLP039 American Pale Ale 334 01 BS,Beer,WLP039,American Pale Ale
+1941,WLP060 American Pale Ale 334 02 BS,Beer,WLP060,American Pale Ale
+1942,WLP072 American Pale Ale 334 03 BS,Beer,WLP072,American Pale Ale
+1943,WLP515 American Pale Ale 334 04 BS,Beer,WLP515,American Pale Ale
+1944,WLP566 Saison 337 01 BS,Beer,WLP566,Saison
+1945,WLP568 Saison 337 02 BS,Beer,WLP568,Saison
+1946,WLP670 Saison 337 03 BS,Beer,WLP670,Saison
+1947,BLEND Saison 337 04 BS,Beer,BLEND,Saison
+1948,WLP300 Witbier 338 01 BS,Beer,WLP300,Witbier
+1949,WLP351 Witbier 338 02 BS,Beer,WLP351,Witbier
+1950,WLP400 Witbier 338 03 BS,Beer,WLP400,Witbier
+1951,WLP410 Witbier 338 04 BS,Beer,WLP410,Witbier
+1952,WLP001 American IPA 339 01 BS,Beer,WLP001,American IPA
+1953,WLP090 American IPA 339 02 BS,Beer,WLP090,American IPA
+1954,WLP550 American IPA 339 03 BS,Beer,WLP550,American IPA
+1955,WLP4000 American IPA 339 04 BS,Beer,WLP4000,American IPA
+1956,WLP070 Dubbel 340 01 BS,Beer,WLP070,Dubbel
+1957,WLP540 Dubbel 340 02 BS,Beer,WLP540,Dubbel
+1958,WLP575 Dubbel 340 03 BS,Beer,WLP575,Dubbel
+1959,WLP665 Dubbel 340 04 BS,Beer,WLP665,Dubbel
+1960,WLP005 Porter 341 01 BS,Beer,WLP005,Porter
+1961,WLP006 Porter 341 02 BS,Beer,WLP006,Porter
+1962,WLP051 Porter 341 03 BS,Beer,WLP051,Porter
+1963,WLP862 Porter 341 04 BS,Beer,WLP862,Porter
+1964,WLP003 American Pale Ale 342 01 BS,Beer,WLP003,American Pale Ale
+1965,WLP039 American Pale Ale 342 02 BS,Beer,WLP039,American Pale Ale
+1966,WLP060 American Pale Ale 342 03 BS,Beer,WLP060,American Pale Ale
+1967,WLP566 Saison 343 01 BS,Beer,WLP566,Saison
+1968,WLP568 Saison 343 02 BS,Beer,WLP568,Saison
+1969,WLP670 Saison 343 03 BS,Beer,WLP670,Saison
+1970,BLEND Saison 343 04 BS,Beer,BLEND,Saison
+1971,WLP001 American IPA 345 01 BS,Beer,WLP001,American IPA
+1972,WLP090 American IPA 345 02 BS,Beer,WLP090,American IPA
+1973,WLP070 Dubbel 347 01 BS,Beer,WLP070,Dubbel
+1974,WLP540 Dubbel 347 02 BS,Beer,WLP540,Dubbel
+1975,WLP575 Dubbel 347 03 BS,Beer,WLP575,Dubbel
+1976,WLP665 Dubbel 347 04 BS,Beer,WLP665,Dubbel
+1977,Blend-001-041 Stout 348 03 BS,Beer,Blend-001-041,Stout
+1978,Blend-001-041 Stout 348 04 BS,Beer,Blend-001-041,Stout
+1979,WLP006 Porter 349 02 BS,Beer,WLP006,Porter
+1980,WLP001 American IPA 350 01 BS,Beer,WLP001,American IPA
+1981,Hull Melon Single Hop IPA 350.02,Recipe,,Hull Melon Single Hop
+1982,WLP001 American IPA 350 02 BS,Beer,WLP001,American IPA
+1983,Waimea Single Hop IPA 351.01,Recipe,,Waimea Single Hop
+1984,WLP001 American IPA 351 01 BS,Beer,WLP001,American IPA
+1985,Blanc Single Hop IPA 351.02,Recipe,,Blanc Single Hop
+1986,WLP001 American IPA 351 02 BS,Beer,WLP001,American IPA
+1987,WLP001 Porter 352 01 BS,Beer,WLP001,Porter
+1988,WLP006 Porter 352 02 BS,Beer,WLP006,Porter
+1989,WLP001 American IPA 353 01 BS,Beer,WLP001,American IPA
+1990,WLP090 American IPA 353 02 BS,Beer,WLP090,American IPA
+1991,WLP003 American Pale Ale 354 01 BS,Beer,WLP003,American Pale Ale
+1992,WLP039 American Pale Ale 354 02 BS,Beer,WLP039,American Pale Ale
+1993,WLP060 American Pale Ale 354 03 BS,Beer,WLP060,American Pale Ale
+1994,WLP566 Saison 355 01 BS,Beer,WLP566,Saison
+1995,WLP568 Saison 355 02 BS,Beer,WLP568,Saison
+1996,WLP670 Saison 355 03 BS,Beer,WLP670,Saison
+1997,BLEND Saison 355 04 BS,Beer,BLEND,Saison
+1998,WLP300 Witbier 356 01 BS,Beer,WLP300,Witbier
+1999,WLP351 Witbier 356 02 BS,Beer,WLP351,Witbier
+2000,WLP400 Witbier 356 03 BS,Beer,WLP400,Witbier
+2001,WLP410 Witbier 356 04 BS,Beer,WLP410,Witbier
+2002,WLP070 Dubbel 357 01 BS,Beer,WLP070,Dubbel
+2003,WLP540 Dubbel 357 02 BS,Beer,WLP540,Dubbel
+2004,WLP575 Dubbel 357 03 BS,Beer,WLP575,Dubbel
+2005,WLP665 Dubbel 357 04 BS,Beer,WLP665,Dubbel
+2006,WLP005 Porter 358 01 BS,Beer,WLP005,Porter
+2007,WLP006 Porter 358 02 BS,Beer,WLP006,Porter
+2008,WLP051 Porter 358 03 BS,Beer,WLP051,Porter
+2009,WLP862 Porter 358 04 BS,Beer,WLP862,Porter
+2010,WLP001 American IPA 359 01 BS,Beer,WLP001,American IPA
+2011,WLP550 American IPA 359 03 BS,Beer,WLP550,American IPA
+2012,WLP566 Saison 360 01 BS,Beer,WLP566,Saison
+2013,WLP568 Saison 360 02 BS,Beer,WLP568,Saison
+2014,WLP670 Saison 360 03 BS,Beer,WLP670,Saison
+2015,BLEND Saison 360 04 BS,Beer,BLEND,Saison
+2016,WLP003 American Pale Ale 361 01 BS,Beer,WLP003,American Pale Ale
+2017,WLP039 American Pale Ale 361 02 BS,Beer,WLP039,American Pale Ale
+2018,WLP060 American Pale Ale 361 03 BS,Beer,WLP060,American Pale Ale
+2019,WLP515 American Pale Ale 361 04 BS,Beer,WLP515,American Pale Ale
+2020,WLP300 Witbier 362 01 BS,Beer,WLP300,Witbier
+2021,WLP351 Witbier 362 02 BS,Beer,WLP351,Witbier
+2022,WLP400 Witbier 362 03 BS,Beer,WLP400,Witbier
+2023,WLP410 Witbier 362 04 BS,Beer,WLP410,Witbier
+2024,WLP001 American IPA 363 01 BS,Beer,WLP001,American IPA
+2025,WLP090 American IPA 363 02 BS,Beer,WLP090,American IPA
+2026,WLP550 American IPA 363 03 BS,Beer,WLP550,American IPA
+2027,WLP4000 American IPA 363 04 BS,Beer,WLP4000,American IPA
+2028,WLP300 Witbier 365 01 BS,Beer,WLP300,Witbier
+2029,WLP380 Witbier 365 02 BS,Beer,WLP380,Witbier
+2030,WLP400 Witbier 365 03 BS,Beer,WLP400,Witbier
+2031,WLP410 Witbier 365 04 BS,Beer,WLP410,Witbier
+2032,WLP036 Rye Beer 368 02 BS,Beer,WLP036,Rye Beer
+2033,WLP351 Rye Beer 368 03 BS,Beer,WLP351,Rye Beer
+2034,WLP565 Rye Beer 368 04 BS,Beer,WLP565,Rye Beer
+2035,WLP001 American IPA 370 01 BS,Beer,WLP001,American IPA
+2036,WLP090 American IPA 370 02 BS,Beer,WLP090,American IPA
+2037,WLP550 American IPA 370 03 BS,Beer,WLP550,American IPA
+2038,WLP4000 American IPA 370 04 BS,Beer,WLP4000,American IPA
+2039,WLP013 Oatmeal Stout 373 01 BS,Beer,WLP013,Oatmeal Stout
+2040,WLP005 Porter 374 01 BS,Beer,WLP005,Porter
+2041,WLP006 Porter 374 02 BS,Beer,WLP006,Porter
+2042,WLP051 Porter 374 03 BS,Beer,WLP051,Porter
+2043,WLP862 Porter 374 03 BS,Beer,WLP862,Porter
+2044,WLP001 American IPA 375 01 BS,Beer,WLP001,American IPA
+2045,WLP550 American IPA 375 03 BS,Beer,WLP550,American IPA
+2046,WLP028 American IPA 375 04 BS,Beer,WLP028,American IPA
+2047,WLP003 American Pale Ale 376 01 BS,Beer,WLP003,American Pale Ale
+2048,WLP039 American Pale Ale 376 02 BS,Beer,WLP039,American Pale Ale
+2049,WLP060 American Pale Ale 376 03 BS,Beer,WLP060,American Pale Ale
+2050,WLP515 American Pale Ale 376 04 BS,Beer,WLP515,American Pale Ale
+2051,WLP070 Dubbel 377 01 BS,Beer,WLP070,Dubbel
+2052,WLP540 Dubbel 377 02 BS,Beer,WLP540,Dubbel
+2053,WLP575 Dubbel 377 03 BS,Beer,WLP575,Dubbel
+2054,WLP665 Dubbel 377 04 BS,Beer,WLP665,Dubbel
+2055,WLP566 Saison 379 01 BS,Beer,WLP566,Saison
+2056,WLP568 Saison 379 02 BS,Beer,WLP568,Saison
+2057,WLP670 Saison 379 03 BS,Beer,WLP670,Saison
+2058,WLP644 Saison 379 04 BS,Beer,WLP644,Saison
+2059,WLP001 American IPA 381 01 BS,Beer,WLP001,American IPA
+2060,WLP090 American IPA 381 02 BS,Beer,WLP090,American IPA
+2061,WLP550 American IPA 381 03 BS,Beer,WLP550,American IPA
+2062,WLP4000 American IPA 381 04 BS,Beer,WLP4000,American IPA
+2063,WLP005 Porter 382 01 BS,Beer,WLP005,Porter
+2064,WLP006 Porter 382 02 BS,Beer,WLP006,Porter
+2065,WLP051 Porter 382 03 BS,Beer,WLP051,Porter
+2066,WLP862 Porter 382 04 BS,Beer,WLP862,Porter
+2067,WLP003 American Pale Ale 383 01 BS,Beer,WLP003,American Pale Ale
+2068,WLP039 American Pale Ale 383 02 BS,Beer,WLP039,American Pale Ale
+2069,WLP060 American Pale Ale 383 03 BS,Beer,WLP060,American Pale Ale
+2070,WLP515 American Pale Ale 383 04 BS,Beer,WLP515,American Pale Ale
+2071,WLP300 Hefeweizen 384 01 BS,Beer,WLP300,Hefeweizen
+2072,WLP380 Hefeweizen 384 02 BS,Beer,WLP380,Hefeweizen
+2073,WLP400 Hefeweizen 384 03 BS,Beer,WLP400,Hefeweizen
+2074,WLP410 Hefeweizen 384 04 BS,Beer,WLP410,Hefeweizen
+2075,WLP566 Saison 385 01 BS,Beer,WLP566,Saison
+2076,WLP568 Saison 385 02 BS,Beer,WLP568,Saison
+2077,WLP670 Saison 385 03 BS,Beer,WLP670,Saison
+2078,WLP644 Saison 385 04 BS,Beer,WLP644,Saison
+2079,WLP004 Am. Red 386 01 BS,Beer,WLP004,Am. Red
+2080,WLP004 Beer 386 01 NA,Beer,WLP004,Beer
+2081,WLP007 Am. Red 386 02 BS,Beer,WLP007,Am. Red
+2082,WLP007 Beer 386 02 NA,Beer,WLP007,Beer
+2083,WLP041 Am. Red 386 03 BS,Beer,WLP041,Am. Red
+2084,WLP090 Am. Red 386 04 BS,Beer,WLP090,Am. Red
+2085,WLP001 Beer 387 01 NA,Beer,WLP001,Beer
+2086,WLP003 American Pale Ale 389 01 BS,Beer,WLP003,American Pale Ale
+2087,WLP039 American Pale Ale 389 02 BS,Beer,WLP039,American Pale Ale
+2088,WLP060 American Pale Ale 389 03 BS,Beer,WLP060,American Pale Ale
+2089,WLP515 American Pale Ale 389 04 BS,Beer,WLP515,American Pale Ale
+2090,WLP001 Beer 390 01 BS,Beer,WLP001,Beer
+2091,WLP090 Beer 390 02 BS,Beer,WLP090,Beer
+2092,WLP550 American IPA 390 03 BS,Beer,WLP550,American IPA
+2093,WLP4000 Beer 390 04 BS,Beer,WLP4000,Beer
+2094,WLP001 Porter 391 01 BS,Beer,WLP001,Porter
+2095,WLP060 Porter 391 02 BS,Beer,WLP060,Porter
+2096,WLP095 Porter 391 03 BS,Beer,WLP095,Porter
+2097,WLP515 Porter 391 04 BS,Beer,WLP515,Porter
+2098,WLP566 Saison 392 01 BS,Beer,WLP566,Saison
+2099,WLP568 Saison 392 02 BS,Beer,WLP568,Saison
+2100,WLP670 Saison 392 03 BS,Beer,WLP670,Saison
+2101,WLP644 Saison 392 04 BS,Beer,WLP644,Saison
+2102,WLP004 Milk Stout 393 01 BS,Beer,WLP004,Milk Stout
+2103,WLP028 Milk Stout 393 02 BS,Beer,WLP028,Milk Stout
+2104,WLP500 Milk Stout 393 03 BS,Beer,WLP500,Milk Stout
+2105,WLP510 Milk Stout 393 04 BS,Beer,WLP510,Milk Stout
+2106,WLP300 Berliner Wiesse 394 01 BS,Beer,WLP300,Berliner Wiesse
+2107,WLP380 Berliner Wiesse 394 02 BS,Beer,WLP380,Berliner Wiesse
+2108,WLP400 Berliner Wiesse 394 03 BS,Beer,WLP400,Berliner Wiesse
+2109,WLP410 Berliner Wiesse 394 04 BS,Beer,WLP410,Berliner Wiesse
+2110,WLP530 Tripel 395 01 BS,Beer,WLP530,Tripel
+2111,WLP545 Tripel 395 02 BS,Beer,WLP545,Tripel
+2112,WLP550 Tripel 395 03 BS,Beer,WLP550,Tripel
+2113,WLP570 Tripel 395 04 BS,Beer,WLP570,Tripel
+2114,WLP060 Am. Red 396 01 BS,Beer,WLP060,Am. Red
+2115,WLP568 Am. Red 396 02 BS,Beer,WLP568,Am. Red
+2116,WLP300 Witbier 397 01 BS,Beer,WLP300,Witbier
+2117,WLP320 Witbier 397 02 BS,Beer,WLP320,Witbier
+2118,WLP400 Witbier 397 03 BS,Beer,WLP400,Witbier
+2119,WLP410 Witbier 397 04 BS,Beer,WLP410,Witbier
+2120,WLP001 Brown Porter 398 01 BS,Beer,WLP001,Brown Porter
+2121,WLP060 Brown Porter 398 02 BS,Beer,WLP060,Brown Porter
+2122,WLP095 Beer 398 03 BS,Beer,WLP095,Beer
+2123,WLP515 Brown Porter 398 04 BS,Beer,WLP515,Brown Porter
+2124,WLP565 Saison 399 01 BS,Beer,WLP565,Saison
+2125,WLP566 Saison 399 02 BS,Beer,WLP566,Saison
+2126,WLP590 Saison 399 03 BS,Beer,WLP590,Saison
+2127,WLP644 Saison 399 04 BS,Beer,WLP644,Saison
+2128,WLP028 Black IPA 400 01 BS,Beer,WLP028,Black IPA
+2129,WLP530 Tripel 401 01 BS,Beer,WLP530,Tripel
+2130,WLP545 Tripel 401 02 BS,Beer,WLP545,Tripel
+2131,WLP550 Tripel 401 03 BS,Beer,WLP550,Tripel
+2132,WLP570 Tripel 401 04 BS,Beer,WLP570,Tripel
+2133,WLP300 Witbier 402 01 BS,Beer,WLP300,Witbier
+2134,WLP320 Witbier 402 02 BS,Beer,WLP320,Witbier
+2135,WLP400 Witbier 402 03 BS,Beer,WLP400,Witbier
+2136,WLP410 Witbier 402 04 BS,Beer,WLP410,Witbier
+2137,WLP565 Saison 403 01 BS,Beer,WLP565,Saison
+2138,WLP566 Saison 403 02 BS,Beer,WLP566,Saison
+2139,WLP590 Saison 403 03 BS,Beer,WLP590,Saison
+2140,WLP644 Saison 403 04 BS,Beer,WLP644,Saison
+2141,WLP001 Double IPA 404 01 BS,Beer,WLP001,Double IPA
+2142,WLP001 Double IPA 404 03 BS,Beer,WLP001,Double IPA
+2143,WLP001 Double IPA 404 04 BS,Beer,WLP001,Double IPA
+2144,WLP004 Milk Stout 405 01 BS,Beer,WLP004,Milk Stout
+2145,WLP028 Milk Stout 405 02 BS,Beer,WLP028,Milk Stout
+2146,WLP500 Milk Stout 405 03 BS,Beer,WLP500,Milk Stout
+2147,WLP510 Milk Stout 405 04 BS,Beer,WLP510,Milk Stout
+2148,WLP001 Brown Porter 406 01 BS,Beer,WLP001,Brown Porter
+2149,WLP060 Brown Porter 406 02 BS,Beer,WLP060,Brown Porter
+2150,WLP095 Brown Porter 406 03 BS,Beer,WLP095,Brown Porter
+2151,WLP515 Brown Porter 406 04 BS,Beer,WLP515,Brown Porter
+2152,WLP565 Saison 407 01 BS,Beer,WLP565,Saison
+2153,WLP566 Saison 407 02 BS,Beer,WLP566,Saison
+2154,WLP590 Saison 407 03 BS,Beer,WLP590,Saison
+2155,WLP644 Saison 407 04 BS,Beer,WLP644,Saison
+2156,WLP300 Witbier 408 01 BS,Beer,WLP300,Witbier
+2157,WLP320 Witbier 408 02 BS,Beer,WLP320,Witbier
+2158,WLP400 Witbier 408 03 BS,Beer,WLP400,Witbier
+2159,WLP410 Witbier 408 04 BS,Beer,WLP410,Witbier
+2160,WLP300 Dunkel 409 01 BS,Beer,WLP300,Dunkel
+2161,WLP320 Dunkel 409 02 BS,Beer,WLP320,Dunkel
+2162,WLP351 Dunkel 409 03 BS,Beer,WLP351,Dunkel
+2163,WLP585 Dunkel 409 04 BS,Beer,WLP585,Dunkel
+2164,WLP004 Milk Stout 410 01 BS,Beer,WLP004,Milk Stout
+2165,WLP028 Milk Stout 410 02 BS,Beer,WLP028,Milk Stout
+2166,WLP500 Milk Stout 410 03 BS,Beer,WLP500,Milk Stout
+2167,WLP510 Milk Stout 410 04 BS,Beer,WLP510,Milk Stout
+2168,WLP530 Tripel 411 01 BS,Beer,WLP530,Tripel
+2169,WLP545 Tripel 411 02 BS,Beer,WLP545,Tripel
+2170,WLP550 Tripel 411 03 BS,Beer,WLP550,Tripel
+2171,WLP570 Tripel 411 04 BS,Beer,WLP570,Tripel
+2172,WLP300 Witbier 412 01 BS,Beer,WLP300,Witbier
+2173,WLP320 Witbier 412 02 BS,Beer,WLP320,Witbier
+2174,WLP400 Witbier 412 03 BS,Beer,WLP400,Witbier
+2175,WLP410 Witbier 412 04 BS,Beer,WLP410,Witbier
+2176,WLP060 Brown Porter 413 02 BS,Beer,WLP060,Brown Porter
+2177,WLP095 Brown Porter 413 03 BS,Beer,WLP095,Brown Porter
+2178,WLP565 Saison 414 01 BS,Beer,WLP565,Saison
+2179,WLP566 Saison 414 02 BS,Beer,WLP566,Saison
+2180,WLP590 Saison 414 03 BS,Beer,WLP590,Saison
+2181,WLP644 Saison 414 04 BS,Beer,WLP644,Saison
+2182,WLP004 Milk Stout 415 01 BS,Beer,WLP004,Milk Stout
+2183,WLP028 Milk Stout 415 02 BS,Beer,WLP028,Milk Stout
+2184,WLP500 Milk Stout 415 03 BS,Beer,WLP500,Milk Stout
+2185,WLP510 Milk Stout 415 04 BS,Beer,WLP510,Milk Stout
+2186,WLP090 Imperial Stout 416 01 BS,Beer,WLP090,Imperial Stout
+2187,WLP028 Imperial Stout 416 02 BS,Beer,WLP028,Imperial Stout
+2188,WLP510 Imperial Stout 416 03 BS,Beer,WLP510,Imperial Stout
+2189,WLP300 Witbier 417 01 BS,Beer,WLP300,Witbier
+2190,WLP320 Witbier 417 02 BS,Beer,WLP320,Witbier
+2191,WLP410 Witbier 417 04 BS,Beer,WLP410,Witbier
+2192,WLP001 American IPA 418 01 BS,Beer,WLP001,American IPA
+2193,WLP005 American IPA 418 02 BS,Beer,WLP005,American IPA
+2194,WLP007 American IPA 418 03 BS,Beer,WLP007,American IPA
+2195,WLP090 American IPA 418 04 BS,Beer,WLP090,American IPA
+2196,WLP001 RauchBier 420 01 BS,Beer,WLP001,RauchBier
+2197,WLP003 RauchBier 420 02 BS,Beer,WLP003,RauchBier
+2198,WLP029 RauchBier 420 03 BS,Beer,WLP029,RauchBier
+2199,WLP090 RauchBier 420 04 BS,Beer,WLP090,RauchBier
+2200,WLP530 Tripel 421 01 BS,Beer,WLP530,Tripel
+2201,WLP545 Tripel 421 02 BS,Beer,WLP545,Tripel
+2202,WLP550 Tripel 421 03 BS,Beer,WLP550,Tripel
+2203,WLP570 Tripel 421 04 BS,Beer,WLP570,Tripel
+2204,WLP004 Milk Stout 422 01 BS,Beer,WLP004,Milk Stout
+2205,WLP004 Milk Stout 422 02 BS,Beer,WLP004,Milk Stout
+2206,WLP028 Milk Stout 422 03 BS,Beer,WLP028,Milk Stout
+2207,WLP028 Milk Stout 422 04 BS,Beer,WLP028,Milk Stout
+2208,WLP565 Saison 423 01 BS,Beer,WLP565,Saison
+2209,WLP566 Saison 423 02 BS,Beer,WLP566,Saison
+2210,WLP590 Saison 423 03 BS,Beer,WLP590,Saison
+2211,WLP644 Saison 423 04 BS,Beer,WLP644,Saison
+2212,WLP300 Witbier 424 01 BS,Beer,WLP300,Witbier
+2213,WLP320 Witbier 424 02 BS,Beer,WLP320,Witbier
+2214,WLP400 Witbier 424 03 BS,Beer,WLP400,Witbier
+2215,WLP410 Witbier 424 04 BS,Beer,WLP410,Witbier
+2216,WLP530 Tripel 425 01 BS,Beer,WLP530,Tripel
+2217,WLP545 Tripel 425 02 BS,Beer,WLP545,Tripel
+2218,WLP550 Tripel 425 03 BS,Beer,WLP550,Tripel
+2219,WLP570 Tripel 425 04 BS,Beer,WLP570,Tripel
+2220,WLP004 Milk Stout 426 01 BS,Beer,WLP004,Milk Stout
+2221,WLP028 Milk Stout 426 02 BS,Beer,WLP028,Milk Stout
+2222,WLP500 Milk Stout 426 03 BS,Beer,WLP500,Milk Stout
+2223,WLP510 Milk Stout 426 04 BS,Beer,WLP510,Milk Stout
+2224,WLP001 Porter 427 01 BS,Beer,WLP001,Porter
+2225,WLP060 Porter 427 02 BS,Beer,WLP060,Porter
+2226,WLP095 Porter 427 03 BS,Beer,WLP095,Porter
+2227,WLP515 Porter 427 04 BS,Beer,WLP515,Porter
+2228,WLP036 Roggenbier 428 01 BS,Beer,WLP036,Roggenbier
+2229,WLP380 Roggenbier 428 02 BS,Beer,WLP380,Roggenbier
+2230,WLP564 Roggenbier 428 03 BS,Beer,WLP564,Roggenbier
+2231,WLP585 Roggenbier 428 04 BS,Beer,WLP585,Roggenbier
+2232,WLP565 Saison 429 01 BS,Beer,WLP565,Saison
+2233,WLP566 Saison 429 02 BS,Beer,WLP566,Saison
+2234,WLP590 Saison 429 03 BS,Beer,WLP590,Saison
+2235,WLP644 Saison 429 04 BS,Beer,WLP644,Saison
+2236,WLP300 Witbier 430 01 BS,Beer,WLP300,Witbier
+2237,WLP320 Witbier 430 02 BS,Beer,WLP320,Witbier
+2238,WLP400 Witbier 430 03 BS,Beer,WLP400,Witbier
+2239,WLP410 Witbier 430 04 BS,Beer,WLP410,Witbier
+2240,WLP003 Rye Beer 431 01 BS,Beer,WLP003,Rye Beer
+2241,WLP009 Rye Beer 431 02 BS,Beer,WLP009,Rye Beer
+2242,WLP041 Rye Beer 431 03 BS,Beer,WLP041,Rye Beer
+2243,WLP051 Rye Beer 431 04 BS,Beer,WLP051,Rye Beer
+2244,WLP530 Tripel 432 01 BS,Beer,WLP530,Tripel
+2245,WLP545 Tripel 432 02 BS,Beer,WLP545,Tripel
+2246,WLP550 Tripel 432 03 BS,Beer,WLP550,Tripel
+2247,WLP570 Tripel 432 04 BS,Beer,WLP570,Tripel
+2248,WLP001 American Pale Ale 433 01 BS,Beer,WLP001,American Pale Ale
+2249,WLP006 American Pale Ale 433 02 BS,Beer,WLP006,American Pale Ale
+2250,WLP008 American Pale Ale 433 03 BS,Beer,WLP008,American Pale Ale
+2251,WLP550 American Pale Ale 433 04 BS,Beer,WLP550,American Pale Ale
+2252,WLP001 Brown Porter 434 01 BS,Beer,WLP001,Brown Porter
+2253,WLP060 Brown Porter 434 02 BS,Beer,WLP060,Brown Porter
+2254,WLP095 Brown Porter 434 03 BS,Beer,WLP095,Brown Porter
+2255,WLP515 Brown Porter 434 04 BS,Beer,WLP515,Brown Porter
+2256,WLP004 Milk Stout 435 01 BS,Beer,WLP004,Milk Stout
+2257,WLP028 Milk Stout 435 02 BS,Beer,WLP028,Milk Stout
+2258,WLP500 Milk Stout 435 03 BS,Beer,WLP500,Milk Stout
+2259,WLP510 Milk Stout 435 04 BS,Beer,WLP510,Milk Stout
+2260,WLP565 Saison 436 01 BS,Beer,WLP565,Saison
+2261,WLP566 Saison 436 02 BS,Beer,WLP566,Saison
+2262,WLP590 Saison 436 03 BS,Beer,WLP590,Saison
+2263,WLP644 Saison 436 04 BS,Beer,WLP644,Saison
+2264,WLP530 Tripel 437 01 BS,Beer,WLP530,Tripel
+2265,WLP545 Tripel 437 02 BS,Beer,WLP545,Tripel
+2266,WLP550 Tripel 437 03 BS,Beer,WLP550,Tripel
+2267,WLP570 Tripel 437 04 BS,Beer,WLP570,Tripel
+2268,WLP300 Witbier 438 01 BS,Beer,WLP300,Witbier
+2269,WLP320 Witbier 438 02 BS,Beer,WLP320,Witbier
+2270,WLP400 Witbier 438 03 BS,Beer,WLP400,Witbier
+2271,WLP410 Witbier 438 04 BS,Beer,WLP410,Witbier
+2272,WLP565 Saison 441 01 BS,Beer,WLP565,Saison
+2273,WLP566 Saison 441 02 BS,Beer,WLP566,Saison
+2274,WLP590 Saison 441 03 BS,Beer,WLP590,Saison
+2275,WLP644 Saison 441 04 BS,Beer,WLP644,Saison
+2276,WLP500 Dubbel 442 01 BS,Beer,WLP500,Dubbel
+2277,WLP540 Dubbel 442 02 BS,Beer,WLP540,Dubbel
+2278,WLP545 Dubbel 442 03 BS,Beer,WLP545,Dubbel
+2279,WLP530 Tripel 443 01 BS,Beer,WLP530,Tripel
+2280,WLP545 Tripel 443 02 BS,Beer,WLP545,Tripel
+2281,WLP550 Tripel 443 03 BS,Beer,WLP550,Tripel
+2282,WLP570 Tripel 443 04 BS,Beer,WLP570,Tripel
+2283,WLP565 Saison 444 01 BS,Beer,WLP565,Saison
+2284,WLP566 Saison 444 02 BS,Beer,WLP566,Saison
+2285,WLP400 Witbier 445 03 BS,Beer,WLP400,Witbier
+2286,WLP410 Witbier 445 04 BS,Beer,WLP410,Witbier
+2287,WLP001 Porter 446 01 BS,Beer,WLP001,Porter
+2288,WLP060 Porter 446 02 BS,Beer,WLP060,Porter
+2289,WLP095 Porter 446 03 BS,Beer,WLP095,Porter
+2290,WLP515 Porter 446 04 BS,Beer,WLP515,Porter
+2291,WLP004 Milk Stout 447 01 BS,Beer,WLP004,Milk Stout
+2292,WLP028 Milk Stout 447 02 BS,Beer,WLP028,Milk Stout
+2293,WLP500 Milk Stout 447 03 BS,Beer,WLP500,Milk Stout
+2294,WLP510 Milk Stout 447 04 BS,Beer,WLP510,Milk Stout
+2295,WLP530 Tripel 448 01 BS,Beer,WLP530,Tripel
+2296,WLP545 Tripel 448 02 BS,Beer,WLP545,Tripel
+2297,WLP550 Tripel 448 03 BS,Beer,WLP550,Tripel
+2298,WLP570 Tripel 448 04 BS,Beer,WLP570,Tripel
+2299,WLP565 Saison 450 01 BS,Beer,WLP565,Saison
+2300,WLP566 Saison 450 02 BS,Beer,WLP566,Saison
+2301,WLP585 Saison 450 03 BS,Beer,WLP585,Saison
+2302,WLP644 Saison 450 04 BS,Beer,WLP644,Saison
+2303,WLP072 Witbier 454 01 BS,Beer,WLP072,Witbier
+2304,WLP300 Witbier 454 02 BS,Beer,WLP300,Witbier
+2305,WLP400 Witbier 454 03 BS,Beer,WLP400,Witbier
+2306,WLP550 Witbier 454 04 BS,Beer,WLP550,Witbier
+2307,WLP004 Milk Stout 456 01 BS,Beer,WLP004,Milk Stout
+2308,WLP028 Milk Stout 456 02 BS,Beer,WLP028,Milk Stout
+2309,WLP500 Milk Stout 456 03 BS,Beer,WLP500,Milk Stout
+2310,WLP510 Milk Stout 456 04 BS,Beer,WLP510,Milk Stout
+2311,WLP565 Saison 458 01 BS,Beer,WLP565,Saison
+2312,WLP566 Saison 458 02 BS,Beer,WLP566,Saison
+2313,WLP585 Saison 458 03 BS,Beer,WLP585,Saison
+2314,WLP644 Saison 458 04 BS,Beer,WLP644,Saison
+2315,WLP001 Am. Red 459 01 BS,Beer,WLP001,Am. Red
+2316,WLP013 Am. Red 459 02 BS,Beer,WLP013,Am. Red
+2317,WLP023 Am. Red 459 03 BS,Beer,WLP023,Am. Red
+2318,WLP051 Am. Red 459 04 BS,Beer,WLP051,Am. Red
+2319,WLP530 Tripel 460 01 BS,Beer,WLP530,Tripel
+2320,WLP545 Tripel 460 02 BS,Beer,WLP545,Tripel
+2321,WLP550 Tripel 460 03 BS,Beer,WLP550,Tripel
+2322,WLP570 Tripel 460 04 BS,Beer,WLP570,Tripel
+2323,WLP300 Tripel 461 01 BS,Beer,WLP300,Tripel
+2324,WLP320 Tripel 461 02 BS,Beer,WLP320,Tripel
+2325,WLP400 Tripel 461 03 BS,Beer,WLP400,Tripel
+2326,WLP410 Tripel 461 04 BS,Beer,WLP410,Tripel
+2327,WLP008 Rye Beer 462 01 BS,Beer,WLP008,Rye Beer
+2328,WLP009 Rye Beer 462 02 BS,Beer,WLP009,Rye Beer
+2329,WLP051 Rye Beer 462 03 BS,Beer,WLP051,Rye Beer
+2330,WLP072 Rye Beer 462 04 BS,Beer,WLP072,Rye Beer
+2331,WLP004 Milk Stout 463 01 BS,Beer,WLP004,Milk Stout
+2332,WLP028 Milk Stout 463 02 BS,Beer,WLP028,Milk Stout
+2333,WLP500 Milk Stout 463 03 BS,Beer,WLP500,Milk Stout
+2334,WLP510 Milk Stout 463 04 BS,Beer,WLP510,Milk Stout
+2335,WLP500 Belgian Ale 465 01 BS,Beer,WLP500,Belgian Ale
+2336,WLP501 Belgian Ale 465 02 BS,Beer,WLP501,Belgian Ale
+2337,WLP515 Belgian Ale 465 03 BS,Beer,WLP515,Belgian Ale
+2338,WLP530 Belgian Ale 465 04 BS,Beer,WLP530,Belgian Ale
+2339,WLP023 Rye Beer 466 01 BS,Beer,WLP023,Rye Beer
+2340,WLP410 Rye Beer 466 02 BS,Beer,WLP410,Rye Beer
+2341,WLP565 Rye Beer 466 03 BS,Beer,WLP565,Rye Beer
+2342,WLP590 Rye Beer 466 04 BS,Beer,WLP590,Rye Beer
+2343,WLP028 American IPA 467 01 BS,Beer,WLP028,American IPA
+2344,WLP072 American IPA 467 02 BS,Beer,WLP072,American IPA
+2345,WLP090 American IPA 467 03 BS,Beer,WLP090,American IPA
+2346,WLP515 American IPA 467 04 BS,Beer,WLP515,American IPA
+2347,WLP006 Am. Amber 468 01 BS,Beer,WLP006,Am. Amber
+2348,WLP036 Am. Amber 468 02 BS,Beer,WLP036,Am. Amber
+2349,WLP050 Am. Amber 468 03 BS,Beer,WLP050,Am. Amber
+2350,WLP530 Am. Amber 468 04 BS,Beer,WLP530,Am. Amber
+2351,WLP001 Porter 469 01 BS,Beer,WLP001,Porter
+2352,WLP003 Porter 469 02 BS,Beer,WLP003,Porter
+2353,WLP007 Porter 469 03 BS,Beer,WLP007,Porter
+2354,WLP550 Porter 469 04 BS,Beer,WLP550,Porter
+2355,WLP029 Wheat Ale 470 01 BS,Beer,WLP029,Wheat Ale
+2356,WLP300 Wheat Ale 470 02 BS,Beer,WLP300,Wheat Ale
+2357,WLP380 Wheat Ale 470 03 BS,Beer,WLP380,Wheat Ale
+2358,WLP715 Wheat Ale 470 04 BS,Beer,WLP715,Wheat Ale
+2359,WLP023 Rye Beer 471 01 BS,Beer,WLP023,Rye Beer
+2360,WLP410 Rye Beer 471 02 BS,Beer,WLP410,Rye Beer
+2361,WLP565 Rye Beer 471 03 BS,Beer,WLP565,Rye Beer
+2362,WLP590 Rye Beer 471 04 BS,Beer,WLP590,Rye Beer
+2363,WLP028 American IPA 472 01 BS,Beer,WLP028,American IPA
+2364,WLP072 American IPA 472 02 BS,Beer,WLP072,American IPA
+2365,WLP090 American IPA 472 03 BS,Beer,WLP090,American IPA
+2366,WLP515 American IPA 472 04 BS,Beer,WLP515,American IPA
+2367,WLP006 Am. Amber 473 01 BS,Beer,WLP006,Am. Amber
+2368,WLP036 Am. Amber 473 02 BS,Beer,WLP036,Am. Amber
+2369,WLP050 Am. Amber 473 03 BS,Beer,WLP050,Am. Amber
+2370,WLP530 Am. Amber 473 04 BS,Beer,WLP530,Am. Amber
+2371,WLP001 Porter 474 01 BS,Beer,WLP001,Porter
+2372,WLP003 Porter 474 02 BS,Beer,WLP003,Porter
+2373,WLP007 Porter 474 03 BS,Beer,WLP007,Porter
+2374,WLP550 Porter 474 04 BS,Beer,WLP550,Porter
+2375,WLP530 Strong Ale 475 01 BS,Beer,WLP530,Strong Ale
+2376,WLP545 Strong Ale 475 02 BS,Beer,WLP545,Strong Ale
+2377,WLP001 American Brown Ale 476 01 BS,Beer,WLP001,American Brown Ale
+2378,WLP006 American Brown Ale 476 02 BS,Beer,WLP006,American Brown Ale
+2379,WLP028 American Brown Ale 476 03 BS,Beer,WLP028,American Brown Ale
+2380,WLP862 American Brown Ale 476 04 BS,Beer,WLP862,American Brown Ale
+2381,WLP029 Wheat Ale 479 01 BS,Beer,WLP029,Wheat Ale
+2382,WLP300 Wheat Ale 479 02 BS,Beer,WLP300,Wheat Ale
+2383,WLP380 Wheat Ale 479 03 BS,Beer,WLP380,Wheat Ale
+2384,WLP715 Wheat Ale 479 04 BS,Beer,WLP715,Wheat Ale
+2385,WLP041 Dunkel 481 01 BS,Beer,WLP041,Dunkel
+2386,WLP320 Dunkel 481 02 BS,Beer,WLP320,Dunkel
+2387,WLP380 Dunkel 481 03 BS,Beer,WLP380,Dunkel
+2388,WLP400 Dunkel 481 04 BS,Beer,WLP400,Dunkel
+2389,WLP023 Rye Beer 482 01 BS,Beer,WLP023,Rye Beer
+2390,WLP410 Rye Beer 482 02 BS,Beer,WLP410,Rye Beer
+2391,WLP565 Rye Beer 482 03 BS,Beer,WLP565,Rye Beer
+2392,WLP590 Rye Beer 482 04 BS,Beer,WLP590,Rye Beer
+2393,WLP001 Porter 483 01 BS,Beer,WLP001,Porter
+2394,WLP003 Porter 483 02 BS,Beer,WLP003,Porter
+2395,WLP007 Porter 483 03 BS,Beer,WLP007,Porter
+2396,WLP550 Porter 483 04 BS,Beer,WLP550,Porter
+2397,WLP566 Saison 487 01 BS,Beer,WLP566,Saison
+2398,WLP566 Saison 490 01 BS,Beer,WLP566,Saison
+2399,WLP300 Wheat Ale 491 01 BS,Beer,WLP300,Wheat Ale
+2400,WLP320 Wheat Ale 492 01 BS,Beer,WLP320,Wheat Ale
+2401,WLP006 Am. Amber 493 01 BS,Beer,WLP006,Am. Amber
+2402,WLP036 Am. Amber 493 02 BS,Beer,WLP036,Am. Amber
+2403,Pale Ale JK brew,Recipe,,Pale Ale
+2404,ESB Best Bitters WL Spec,Recipe,,ESB Best Bitters
+2405,WLP564 Saison 199 032 BS,Beer,WLP564,Saison
+2406,Tabberer IPA Spec Sheet,Recipe,,Tabberer IPA
+2407,Pasteur Porter Spec Sheet,Recipe,,Pasteur Porter
+2408,Leeuwenhoek Saison Spec Sheet,Recipe,,Leeuwenhoek Saison
+2409,DeClerck Dubbel Spec Sheet,Recipe,,DeClerck Dubbel
+2410,Hansen Hefeweizen Spec Sheet,Recipe,,Hansen Hefeweizen
+2411,Buchner Pale Ale Spec Sheet,Recipe,,Buchner Pale Ale
+2412,Blend Stout 153 3 BS,Beer,Blend,*
+2413,BLEND American Pale Ale 106 1001090 BM,Beer,BLEND,American Pale Ale
+2414,Blend American Pale Ale 151 1 BM,Beer,Blend,*
